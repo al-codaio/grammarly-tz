@@ -1,0 +1,87 @@
+version: '3.8'
+
+services:
+  # ClickHouse for TensorZero data storage
+  clickhouse:
+    image: clickhouse/clickhouse-server:24.10
+    container_name: grammarly-clickhouse
+    ports:
+      - "8123:8123"
+      - "9000:9000"
+    environment:
+      CLICKHOUSE_USER: tensorzero
+      CLICKHOUSE_PASSWORD: tensorzero_password
+      CLICKHOUSE_DB: tensorzero
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+      - ./config/clickhouse/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD", "clickhouse-client", "--query", "SELECT 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # TensorZero Gateway
+  tensorzero:
+    image: tensorzero/gateway:latest
+    container_name: grammarly-tensorzero
+    ports:
+      - "3000:3000"
+    environment:
+      CLICKHOUSE_URL: "http://tensorzero:tensorzero_password@clickhouse:8123/tensorzero"
+      RUST_LOG: info
+      CONFIG_PATH: /app/config/tensorzero.toml
+    volumes:
+      - ./config:/app/config:ro
+    depends_on:
+      clickhouse:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # TensorZero UI
+  tensorzero-ui:
+    image: tensorzero/ui:latest
+    container_name: grammarly-tensorzero-ui
+    ports:
+      - "4000:3000"
+    environment:
+      TENSORZERO_GATEWAY_URL: http://tensorzero:3000
+      CLICKHOUSE_URL: "http://tensorzero:tensorzero_password@clickhouse:8123/tensorzero"
+    depends_on:
+      - tensorzero
+      - clickhouse
+
+  # LangGraph Application (for development)
+  langgraph-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: grammarly-langgraph
+    ports:
+      - "8000:8000"
+    environment:
+      TENSORZERO_GATEWAY_URL: http://tensorzero:3000
+      CLICKHOUSE_URL: "http://tensorzero:tensorzero_password@clickhouse:8123/tensorzero"
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      PYTHONPATH: /app
+    volumes:
+      - ./langgraph:/app/langgraph
+      - ./utils:/app/utils
+      - ./scripts:/app/scripts
+      - ./data:/app/data
+    depends_on:
+      tensorzero:
+        condition: service_healthy
+    command: python -m uvicorn langgraph.server:app --host 0.0.0.0 --port 8000 --reload
+
+volumes:
+  clickhouse_data:
+
+networks:
+  default:
+    name: grammarly-network

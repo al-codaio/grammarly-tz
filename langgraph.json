@@ -1,0 +1,23 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "grammarly_support": {
+      "path": "src/app.py:agent",
+      "entrypoint": "agent",
+      "name": "Grammarly Support Chatbot",
+      "description": "AI-powered customer support chatbot with TensorZero optimization",
+      "env": {
+        "TENSORZERO_GATEWAY_URL": "http://localhost:3000",
+        "PYTHONPATH": "."
+      }
+    }
+  },
+  "env": {
+    "OPENAI_API_KEY": "",
+    "TENSORZERO_GATEWAY_URL": "http://localhost:3000",
+    "LANGSMITH_API_KEY": ""
+  },
+  "cli": {
+    "version": "0.1.0"
+  }
+}
