@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360003835311-Does-Grammarly-s-product-read-everything-I-write",
+  "scraped_at": "2025-08-11T20:40:47.910871+00:00",
+  "title": "Does Grammarly’s product read everything I write?",
+  "content": "Grammarly can’t access anything you type unless you are actively using a Grammarly product offering, such as the browser extension, in a text field, or you use AI features, such as AI Chat, that consider additional content to provide you with the service. To learn more, visit this article:\nAI Chat Support and FAQs\n.\nAdditionally, sensitive text such as credit card information, passwords, or URLs is ignored or excluded by our software. You can always deactivate an AI feature such as AI Chat if you want to be sure it can’t access any of your content at a particular time, and you can always turn Grammarly off entirely if you don’t want it to check a particular piece of text. If you’re using Grammarly for Windows or Grammarly for Mac, you can see whether the product is activated in a text field by looking for a visible Grammarly logo or a widget showing the number of suggestions waiting for you.\nWhile you’re using Grammarly, it needs access to your text in order to provide suggestions. We use powerful algorithms based on machine learning to check your writing and identify opportunities for improvement. Without access to your text, there is no way for our product offerings to provide feedback.\nWe value the trust our customers put in us to keep their information safe and secure. Visit\nGrammarly’s Trust Center\nto learn about our user-first approach to privacy and security.",
+  "category": "Privacy and Security",
+  "tags": []
+}

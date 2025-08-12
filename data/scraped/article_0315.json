@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360016106252-How-do-I-update-the-extension-to-the-latest-version",
+  "scraped_at": "2025-08-11T20:41:26.478720+00:00",
+  "title": "How do I update the extension to the latest version?",
+  "content": "Chrome\nFirefox\nSafari\nEdge\nType\nchrome://extensions\ninto the address bar\nToggle the switch next to\nDeveloper mode\nin the upper-right corner\nClick the\nUpdate\nbutton at the top of the page\nRestart the browser\nby quitting and reopening\nType\nabout:addons\ninto the address bar at the top of your screen\nUnder\nGrammarly for Firefox\n, select\nManage\n:\nScroll to the bottom and set\nAutomatic Updates\nto\nOn\nRestart the browser\nby quitting and reopening\nOpen the App Store on your Mac and go to\nApp Store\n>\nPreferences\n. Then, make sure that the\nAutomatic Updates\nsetting is switched on.\nType\nedge://extensions/\ninto the address bar\nToggle the switch next to\nDeveloper mode\nin the lower-left corner\nClick the\nUpdate\nbutton at the top of the page\nRestart the browser by quitting and reopening\nIf your browser is managed by your IT department\n,\nor if\nyou are an IT administrator, please make sure that\nyou've switched on automatic updates for Grammarly in your browser\n. This will help avoid any interruption of service due to browser updates in the future.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

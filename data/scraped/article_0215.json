@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090691-How-to-install-Grammarly-as-administrator",
+  "scraped_at": "2025-08-11T20:37:23.867669+00:00",
+  "title": "How to install Grammarly as administrator",
+  "content": "Even users with administrator permissions must explicitly invoke those permissions to run programs that require elevated privileges. This is part of the Windows security system.\nTo run the installer as an administrator, do the following:\nDownload\nthe latest add-in version to your preferred folder.\nRight-click on GrammarlyAddInSetup.exe and select\nRun as administrator\nClick\nYes\nand follow the instructions on your screen to install Grammarly for Microsoft Office:",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

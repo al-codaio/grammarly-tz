@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360056100832-Grammarly-s-sidebar-got-detached",
+  "scraped_at": "2025-08-11T20:43:29.555212+00:00",
+  "title": "Grammarly’s sidebar got detached",
+  "content": "Grammarly’s sidebar can be moved around the screen.\nIf the sidebar with Grammarly’s suggestions got detached, please double-click on\nGrammarly\n, and the panel should once again become embedded with Microsoft Word or Outlook:\nIf the issue persists, please delete the Grammarly key from the registry by following the instructions below:\nClose all programs that are running.\nDownload and run the file attached to this article. Then,\nconfirm your actions if prompted.\nOpen Microsoft Word or Outlook, and see if the issue persists after logging in to your Grammarly account",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

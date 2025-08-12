@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115003339991-What-Apple-s-full-access-warning-actually-means",
+  "scraped_at": "2025-08-11T20:33:44.372566+00:00",
+  "title": "What Apple's full access warning actually means",
+  "content": "Anytime you allow a keyboard to have full access, Apple displays a warning that says the keyboard can transmit credit card numbers and passwords. Apple blocks all third-party keyboards (including Grammarly’s) from accessing any text field marked as sensitive by the application or website developers.\nIn addition, Grammarly has taken steps to ensure that our software ignores or excludes sensitive text such as credit card information, passwords, URL fields, and fields where similar private information is provided.\nWe know that what you write on your phone is private, and we have taken measures to ensure it stays that way. We value the trust our customers put in us to keep their information safe and secure. Visit\nGrammarly’s\nTrust Center\nto learn about our user-first approach to privacy and security.",
+  "category": "Privacy and Security",
+  "tags": []
+}

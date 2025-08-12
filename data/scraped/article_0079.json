@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415367249165-Error-SSO-is-not-enabled-active-for-your-organization",
+  "scraped_at": "2025-08-11T20:32:06.867188+00:00",
+  "title": "Error: SSO is not enabled/active for your organization",
+  "content": "If you encounter an “SSO is not enabled for your organization” error message, it indicates that the SSO option is not enabled for your organization on the Grammarly side. Please contact your account representative from our Sales team or reach out to our\nSupport team\n.\nIf you see the “SSO is not active for your organization” error message, please ensure that SSO has been configured and activated by your team’s admin.\nIf you have the admin role, please navigate to the\nAuthentication\npage and verify that SSO is configured and activated.\nFor more information on configuring and activating SSO, please see\nthis article:\nSet up SAML single sign-on",
+  "category": "Resolve Issues",
+  "tags": []
+}

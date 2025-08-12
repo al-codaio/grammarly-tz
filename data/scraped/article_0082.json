@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360045030012-Why-is-my-account-associated-with-an-email-ending-in-privaterelay-appleid-com",
+  "scraped_at": "2025-08-11T20:32:13.789208+00:00",
+  "title": "Why is my account associated with an email ending in privaterelay.appleid.com?",
+  "content": "If you registered via Apple and opted to\nhide your login\n, your account may be associated with an email address ending in\nprivaterelay.appleid.com\n. This email address was automatically generated for you by Apple and remains linked to your Apple ID. To view the email address associated with your account, please go to\nhttps://account.grammarly.com/\n.\nTo log in to your Grammarly account, please click\nSign in with\nApple\nat\nhttps://www.grammarly.com/signin\nor within your preferred Grammarly product offering.\nIf you prefer to change the email address associated with your account, you’ll need to set a password first. To do that, request a password reset email at\nhttps://www.grammarly.com/resetpassword\nby entering the email address associated with your Grammarly account.\nNote:\nThe password reset email should be sent to the email address associated with your Apple ID within about a minute. It will contain a link that will bring you to a page where you’ll be asked to create a new password.\nIf you haven’t received a password reset email, check out\nthis article\n. If you don’t see a verification email in your inbox, let us know by submitting a support request\nhere\n.",
+  "category": "Sign-in Help",
+  "tags": []
+}

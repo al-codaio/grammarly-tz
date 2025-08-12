@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360041042352-Error-Sorry-Office-365-has-been-configured-to-prevent-individual-acquisition-of-Office-Add-ins",
+  "scraped_at": "2025-08-11T20:30:16.315472+00:00",
+  "title": "Error: Sorry, Office 365 has been configured to prevent individual acquisition of Office Add-ins.",
+  "content": "If you see this error message, Office 365 products you’re using might be managed by your organization. Some organizations may block downloads of new add-ins from the Office Store to prevent their users from downloading add-ins that have not been approved by the organization:\nYou are welcome to check\nthis article\nfor more information on the subject.\nTo resolve the issue, please contact your Office 365 administrator to ensure that you have permission to install Office Add-ins.\nIf Grammarly for Microsoft Word on Mac doesn’t work after trying these steps, we suggest switching to\nGrammarly for Mac\n. This product offering also supports integration with Microsoft Word and Outlook. To find out more, check out\nthis article.\nAlternatively, you can give\nthe Grammarly Editor\na try. For more information about the Grammarly Editor, visit\nthis page\n.",
+  "category": "Grammarly for Microsoft Word on Mac",
+  "tags": []
+}

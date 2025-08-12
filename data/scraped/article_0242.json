@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/28935443221901-I-can-t-uninstall-Grammarly-for-Mac",
+  "scraped_at": "2025-08-11T20:38:30.269096+00:00",
+  "title": "I can't uninstall Grammarly for Mac",
+  "content": "If you try to uninstall Grammarly for Mac, a message may tell you that you can’t delete the program while you’re running it. More precisely, the alert message will say, \"The item \"Grammarly Desktop\" can't be moved to the Bin because it's open.” If this happens, please make sure that you quit Grammarly via your system menu bar before trying to uninstall it. To do that, click the Grammarly icon in the upper-right corner of your screen and select\nQuit\n:\nIf this doesn't help, follow these steps:\n1. Click the Grammarly icon in the upper-right corner of your screen and choose\nSettings…\n.\n2. In the\nCustomization\ntab, switch off\nLaunch at startup\n:\n3. Restart your computer and make sure that you choose not to reopen all apps after restart:\nThen, try uninstalling Grammarly by following these instructions:\nGo to\nFinder\n>\nApplications.\nFind\nGrammarly Desktop\non the list and move it to\nTrash\n(or\nBin\n).",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

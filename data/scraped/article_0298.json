@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/18503842009229-Error-Something-went-wrong-payment-button-is-spinning-or-error-403-in-the-payment-method-fields",
+  "scraped_at": "2025-08-11T20:40:45.621204+00:00",
+  "title": "Error: Something went wrong, payment button is spinning, or error 403 in the payment method fields",
+  "content": "This issue may appear if the payment form fails to load. We recommend that you follow these steps to resolve it:\nRefresh the webpage.\nIf you are connecting to the internet via a virtual private network (VPN), please try turning it off.\nAlternatively, try using a VPN with a different location.\nClear your browser’s cookies and cache as described in this article:\nHow do I clear cache and cookies?\nTemporarily turn off antivirus, proxy, and firewall (if you use any).\nAfter following these instructions, please try making the payment again.",
+  "category": "Manage Payments",
+  "tags": []
+}

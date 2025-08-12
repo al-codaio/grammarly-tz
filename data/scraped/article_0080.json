@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360048773252-Set-up-SSO-with-Okta",
+  "scraped_at": "2025-08-11T20:32:09.163649+00:00",
+  "title": "Set up SSO with Okta",
+  "content": "Requirements\n- Okta account with access to the administrator console\n-\nGrammarly Business\n, Grammarly Pro, or a\nGrammarly for Education\naccount with the\nadmin role\nor a designated custom role\nLog in to your Okta admin dashboard.\nClick\nApplications\n.\nClick\nAdd Application\n.\nType\nGrammarly\nin the search box, choose Grammarly from the list of available options, and click\nAdd\n.\nConfigure the general settings (optional) and click\nNext\n.\nChoose SAML 2.0 as your sign-on method and click\nDone\n.\nAssign Grammarly to all users you would like to add to your subscription by clicking the\ngear icon\nnext to\nGrammarly\nin the\nApplications\nmenu:\nTo enable SSO in your Grammarly account, you will need to know three parameters:\nIdentity Provider Issuer\nSAML 2.0 Endpoint (HTTP)\nCertificate\nTo locate this information in your Okta dashboard, please open\nGrammarly\nfrom the list of\nApplications\n, open the\nSign On\ntab, and click\nView Setup Instructions\n:\nOn the page that opens, search for\nIdentity Provider Issuer, SAML 2.0 Endpoint (HTTP)\n, and\nCertificate\n.\nOnce you have this information, please follow the steps outlined in this article:\nSet up SAML single sign-on\nIf you encounter any issues, please look for a troubleshooting article on this page:\nResolve Issues",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

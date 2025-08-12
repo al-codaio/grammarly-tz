@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4402820842637-Capture-SAML-assertion",
+  "scraped_at": "2025-08-11T20:37:36.177534+00:00",
+  "title": "Capture SAML assertion",
+  "content": "Open\nGoogle Chrome\n(if you don’t have Google Chrome installed, you can download it from this page:\nGet Chrome\n)\nInstall the\nSAML Chrome Panel\nbrowser extension for Chrome from this page:\nSAML Chrome Panel\nGo to the Grammarly sign-in page at\nwww.grammarly.com/signin\n.\nOpen the\nDeveloper Tools\nmenu in Chrome by going to the\nChrome menu\n(three dots in the upper-right corner) →\nMore Tools\n→\nDeveloper Tools\n. Alternatively, you can use the\nOption\n+\nCommand\n+\nI\nshortcut on macOS or\nShift\n+\nCtrl\n+\nJ\non Windows/Linux. Then, go to the SAML tab.\nTry to log in to your Grammarly account.\nCopy your SAML message payload into any text editor, save the file, and forward it to us in a\nsupport ticket\n. If you already have an ongoing correspondence with us, you can send it in your existing ticket.",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

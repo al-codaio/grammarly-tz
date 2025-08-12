@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4412821029773-I-don-t-see-Grammarly-for-iPhone-in-a-certain-app",
+  "scraped_at": "2025-08-11T20:42:34.072191+00:00",
+  "title": "I don't see Grammarly for iPhone in a certain app",
+  "content": "If Grammarly disappears from a certain application or can’t be selected on your list of keyboards, the device you’re using may be monitored by your company’s Mobile Device Management (MDM) system. Corporate device-management apps like MaaS360, AirWatch, Meraki, or MobileIron prevent third-party apps like the Grammarly Keyboard for iOS from functioning in native iOS apps.\nIf this is the case, we recommend that you contact your IT department for more information.\nIt’s also possible that an app you’re using is configured to prevent any third-party keyboards from working correctly.\nIf none of the above applies to you, please\nsend us\na screen recording of the issue and the name of the app where this issue occurs for you. You can find instructions on how to record a video\nhere\n.",
+  "category": "Grammarly for iPhone and iPad",
+  "tags": []
+}

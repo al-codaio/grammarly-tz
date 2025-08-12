@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/14441067751309-Create-organizational-dictionary",
+  "scraped_at": "2025-08-11T20:32:30.259979+00:00",
+  "title": "Create organizational dictionary",
+  "content": "Included in:\nGrammarly Pro, Business, and Enterprise plans\nManaged by:\nAdmins, account managers, and members with custom roles\nIf you’d like Grammarly to stop flagging a particular spelling as incorrect, you can add specific terms to your organizational dictionary. Adding certain terms to your organizational dictionary will prevent them from being marked as spelling errors.\nTo add terms to your organizational dictionary, go to the\nOrg dictionary\npage and click\nAdd entry\nin the upper-right corner.\nYou can also upload a CSV file with your terms by clicking\nImport list\n.\nNote:\nYou can add phrases or entries consisting of multiple words. Entries in the organizational dictionary cannot contain any symbols or punctuation marks except for the apostrophe (' or ’).\nRelated articles\nCreate style rules\nIntroducing Knowledge Share\nSet an organization-wide dialect preference",
+  "category": "Team Features",
+  "tags": []
+}

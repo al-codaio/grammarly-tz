@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/7144890844685--Error-message-The-application-was-unable-to-start-correctly-0xc0000135",
+  "scraped_at": "2025-08-11T20:29:13.977496+00:00",
+  "title": "Error message: The application was unable to start correctly (0xc0000135)",
+  "content": "To troubleshoot the issue, follow these steps:\nDownload the Microsoft .NET Framework Repair Tool from\nthis page\n.\nRight-click on the downloaded file and select\nRun as administrator\n.\nNote:\nIf the tool repairs any system files, please restart your computer and see if the issue you reported persists.\nIf you still see the same error message, these instructions should help:\nPress the Windows key + R to open the Run command box.\nType appwiz.cpl and press\nEnter\n.\nClick on\nTurn Windows features on or off\nin the left pane.\nClick on the\n+\nsymbol next to each Microsoft .NET or .NET Framework entry here.\nCheck every box next to the Microsoft .NET or NET Framework entries.\nNote:\nA blue box does not typically mean everything is checked. Please expand the entry to ensure that all entries are selected.\nClick\nOK\nand wait for the process to complete. This may take a few minutes.\nRestart the computer and see if the issue persists.",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

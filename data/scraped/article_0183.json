@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000730091-Why-Grammarly-needs-full-access-on-iOS",
+  "scraped_at": "2025-08-11T20:36:08.540754+00:00",
+  "title": "Why Grammarly needs full access on iOS",
+  "content": "The Grammarly Keyboard needs full access in order to connect to the internet. The keyboard needs an internet connection because we use powerful servers to check your text and provide suggestions. Without full access, you can still type with the keyboard, but Grammarly can’t check your text and provide writing suggestions.\nThe Grammarly Keyboard only checks the text you type while using it. This means that Grammarly does not see information from any of your other keyboards, including the default keyboard for iOS.\nAdditionally, sensitive text such as credit card information, passwords, or URLs is ignored or excluded by our software.\nWe value the trust our customers put in us to keep their information safe and secure. Visit\nGrammarly’s Trust Center\nto read about our user-first approach to privacy and security. You can learn more about Grammarly security operations, policies, practices, and attestations on this page.\nTo learn more about Apple’s full access warning, please see\nWhat Apple's full access warning actually means\n.",
+  "category": "Privacy and Security",
+  "tags": []
+}

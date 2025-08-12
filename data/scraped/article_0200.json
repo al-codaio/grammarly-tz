@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360059177752-Error-A-small-error-has-occurred-causing-an-interruption-of-service",
+  "scraped_at": "2025-08-11T20:36:48.788081+00:00",
+  "title": "Error: A small error has occurred, causing an interruption of service",
+  "content": "When creating or checking a document, you might see the “A small error has occurred, causing an interruption of service” notification:\nTo resolve this issue, please follow these steps:\nRestart your browser and reconnect to your network.\nIf the issue persists, try opening the Grammarly Editor at\nhttps://app.grammarly.com\nin incognito mode by following the steps in\nthis article\n.\nTemporarily turn off your VPN, proxy, antivirus, and firewall software. If you are not sure if you’re using a proxy,\nthis article\nmay help.\nNote:\nIf temporarily turning off your antivirus/firewall software helps, we suggest that you add Grammarly to that software’s allowed list to resolve the issue.",
+  "category": "Grammarly Editor",
+  "tags": []
+}

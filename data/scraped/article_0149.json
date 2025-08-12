@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/34517006125837-Can-I-use-my-keyboard-to-navigate-the-Grammarly-browser-extension",
+  "scraped_at": "2025-08-11T20:34:49.777422+00:00",
+  "title": "Can I use my keyboard to navigate the Grammarly browser extension?",
+  "content": "Grammarly's browser extension supports keyboard navigation. To open the Grammarly assistant, please use the following key combination:\nOn Mac:\nShift\n+\nCtrl\n+\nCmd\n+\nG\nOn Windows:\nShift\n+\nCtrl\n+\nAlt\n+\nG\nTo close the assistant, press\nEsc\n.\nYou can change this configuration in your settings anytime.\nAdditionally, to move to the next interactive element, press\nTab\n. To return to the previous interactive element, press\nShift\n+\nTab\n. To activate a link or a button, press\nEnter\nor\nSpace\n.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

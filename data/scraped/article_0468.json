@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/38650877521293-An-invoice-I-want-to-pay-has-been-voided",
+  "scraped_at": "2025-08-11T20:47:34.479573+00:00",
+  "title": "An invoice I want to pay has been voided",
+  "content": "An invoice can be voided either because it was not paid before its due date or because it was voided by a subscription admin.\nTo check if your invoice has been voided due to expiration, please refer to the due date indicated in the upper-left corner of the invoice.\nNote:\nIn the case of an invoice for subscription renewal, the associated subscription is automatically deactivated when the renewal invoice is voided due to expiration.\nIf the due date has not passed, it indicates that the invoice has been voided by a subscription admin. In this case, the admin can request a new invoice by going to their\nSubscription\npage and clicking\nRenew Subscription\nat the bottom. A new invoice will be sent to the designated billing email address within a few minutes and will also be available for payment on the admin’s\nSubscription\npage.\nIf your subscription renewal invoice has expired, please\ncontact Support\nso we can reactivate your subscription and issue a new invoice for the renewal payment.",
+  "category": "Manage Payments",
+  "tags": []
+}

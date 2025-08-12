@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360048773932-Switch-SSO-settings-from-one-identity-provider-to-another",
+  "scraped_at": "2025-08-11T20:47:22.756478+00:00",
+  "title": "Switch SSO settings from one identity provider to another",
+  "content": "Included in:\nGrammarly Pro, Business, Enterprise, and Grammarly for Education plans\nManaged by:\nAdmins and members with designated custom roles\nConfigure your new identity provider by following the steps outlined in this article:\nAdd Grammarly to an identity provider\nDeactivate SSO in the Grammarly interface as described in this article:\nDeactivate SSO\nRe-activate SSO\nusing the parameters provided by your new identity provider.",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

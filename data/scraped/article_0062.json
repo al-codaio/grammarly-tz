@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090271-Network-configuration-blocks-Grammarly-services",
+  "scraped_at": "2025-08-11T20:31:27.604989+00:00",
+  "title": "Network configuration blocks Grammarly services",
+  "content": "It seems that your network configuration prevents Grammarly from working on your computer.\nAntivirus\n,\nfirewall\n, and network\nproxy\nsettings can cause the issue. Please try to resolve it by turning them off (click\nhere\nfor more details on this). We encourage you to get in touch with your network administrator and ask for help (they can enable a specific web socket port and they should know how to do it).\nYour network administrator can check out the following articles on how to troubleshoot the issue:\nWebSockets Support Q&A for System Administrators\nIf that doesn't work for you, please try to log in to Grammarly from another location (office, home, Internet café, or using 3G/4G modem) where the Internet provider is different.",
+  "category": "Grammarly Editor",
+  "tags": []
+}

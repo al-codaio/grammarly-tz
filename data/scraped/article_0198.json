@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415366821645-I-can-t-provision-a-user-SAML-authentication-unsuccessful-because-the-user-account-hasn-t-been-provisioned",
+  "scraped_at": "2025-08-11T20:36:44.082970+00:00",
+  "title": "I can’t provision a user: SAML authentication unsuccessful because the user account hasn’t been provisioned",
+  "content": "If SAML single sign-on is activated but you can’t provision a user due to this error, it typically indicates that the user has not been granted access to Grammarly in your identity provider.\nTo resolve this issue, make sure that the Grammarly application is assigned to this specific user or that they belong to the appropriate group in your identity provider with access to Grammarly.\nIf you’re using SCIM provisioning, we recommend checking the identity provider provisioning logs for any errors and verifying\nthe status of this user.\nIf all of the above are correct and there are no issues, try revoking access to Grammarly for this user and then reassigning it to them again.\nFor more information on SCM provisioning, please refer to\nthis article:\nConfigure SCIM provisioning",
+  "category": "Resolve Issues",
+  "tags": []
+}

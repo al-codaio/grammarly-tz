@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4409703457549-Error-We-can-t-start-this-add-in-because-it-isn-t-set-up-properly",
+  "scraped_at": "2025-08-11T20:46:35.379611+00:00",
+  "title": "Error: We can't start this add-in because it isn't set up properly",
+  "content": "If you see this error message, Office 365 products you’re using might be managed by your organization. Some organizations may block downloads of new add-ins from the Office Store to prevent their users from downloading add-ins that have not been approved by the organization:\nTo resolve this issue, please contact your Office 365 administrator to ensure that you have permission to install Office Add-ins.\nIf Grammarly for Microsoft Word on Mac doesn’t work after trying these steps, we suggest switching to\nGrammarly for Mac\n. This product offering also supports integration with Microsoft Word and Outlook. To find out more, check out\nthis article\n.\nAlternatively, you can give\nthe Grammarly Editor\na try. For more information about the Grammarly Editor, visit\nthis page\n.",
+  "category": "Grammarly for Microsoft Word on Mac",
+  "tags": []
+}

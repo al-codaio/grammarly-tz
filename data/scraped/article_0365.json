@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000091691-I-signed-up-using-my-school-email-address-but-my-account-still-shows-as-Free",
+  "scraped_at": "2025-08-11T20:43:27.213515+00:00",
+  "title": "I signed up using my school email address, but my account still shows as Free",
+  "content": "If\nyou signed up using your school email address at\nwww.grammarly.com/signup\nand your account still shows as Free, try signing in on the member login page:\nwww.grammarly.com/enterprise/signin\nIf your school has an organization-wide Grammarly for Education subscription, you will be prompted to join it.\nIf your institution uses an identity provider, such as Okta, Microsoft Entra ID, Google, or others, to manage access to third-party applications and services, please sign in to Grammarly through your identity provider instead.\nFor more information, please refer to this article:\nSign-up process for Grammarly for Education users",
+  "category": "Resolve Issues",
+  "tags": []
+}

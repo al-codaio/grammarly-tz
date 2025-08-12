@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360049254651-Set-up-SSO-with-Centrify",
+  "scraped_at": "2025-08-11T20:30:41.777650+00:00",
+  "title": "Set up SSO with Centrify",
+  "content": "Requirements\n- Centrify account with access to the administrator console\n-\nGrammarly Business\n, Grammarly Pro, or a\nGrammarly for Education\naccount with the\nadmin role\nor a designated custom role\nLog in to your Centrify account.\nIn the\nAdmin Portal\n, click\nApps\n, then\nWeb Apps\n, then click\nAdd Web Apps\n.\nOn the page that opens, click\nCustom\n.\nIn the\nCustom\ntab, next to the\nSAML application\n, click\nAdd\n.\nOn the\nAdd Web App\nscreen, click\nYes\nto add the application.\nFrom the\nCustom app\npage, go to the\nTrust\npage.\nIn the\nService Provider Configuration\n, select the\nMetadata\noption.\nIn the URL field, enter\nhttps://sso.grammarly.com/saml/metadata\nand hit\nLoad\n.\nOn the\nSAML Response\npage, use the\nAttributes\nsection to configure the following SAML attributes (name and value):\nEmailAddress | Email\nFirstName | FirstName\nLastName | LastName\n(Optional) If you want to easily identify the Grammarly app, customize the\nApplication Name\nand\nLogo\nfields on the\nSettings\npage. You can download the Grammarly logo\nhere\n.\nTo enable SSO in your Grammarly account, you will need the following information available in the\nTrust\n→\nIdentity Provider Configuration\n→\nManual Configuration\nsection of the app.\nSingle Sign-On URL\nIdentity Provider ID / Issuer\nX.509 Certificate\nOnce the Grammarly app in Centrify is configured, please see\nstep 2\nin this article:\nSet up SAML single sign-on",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

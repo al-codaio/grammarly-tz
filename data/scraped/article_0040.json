@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4409116491149-I-haven-t-received-a-confirmation-email-on-sign-up-What-should-I-do",
+  "scraped_at": "2025-08-11T20:30:36.567992+00:00",
+  "title": "I haven’t received a confirmation email on sign-up. What should I do?",
+  "content": "If you signed up for a Grammarly account at\nhttps://www.grammarly.com/signup\n, you may be asked to confirm your email address.\nIf you haven’t received the confirmation email, we suggest the following steps to resolve this issue:\nCheck your spam or junk folder and any tabs in your inbox.\nTry adding these email addresses to your email contact list and then send yourself a confirmation email again:\nhello@info.grammarly.com\nhello@mail.grammarly.com\nhello@notification.grammarly.com\nIf the confirmation email still doesn’t arrive, it’s likely that your firewall, email server, or filter is blocking Grammarly’s emails. We recommend contacting your IT department or your email service provider’s customer support to add the following IPs and domains to the allowed list:\nIP addresses:\n168.203.32.162\n168.203.32.146\n168.203.32.149\n168.203.32.144\n168.203.32.145\nDomains:\ninfo.grammarly.com\nmail.grammarly.com\nnotification.grammarly.com\nOnce you’ve followed these steps, please send yourself a confirmation email again by registering for an account again.",
+  "category": "Sign-in Help",
+  "tags": []
+}

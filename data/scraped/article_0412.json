@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415390337037-I-can-t-test-SSO-Unsuccessful-request",
+  "scraped_at": "2025-08-11T20:45:21.118589+00:00",
+  "title": "I can’t test SSO: Unsuccessful request",
+  "content": "If you encounter this error when attempting to configure SSO, it is typically caused by incorrect SSO parameters and/or issues with the browser cookies cache.\nTo resolve this issue, we suggest checking the following:\nGrammarly SAML application has been configured correctly in your identity provider. It’s essential that the following parameters have been set up correctly:\nSingle sign-on URL:\nhttps://sso.grammarly.com/saml/assertion\nAudience URI/SP Entity ID/Issuer:\nhttps://sso.grammarly.com/saml/metadata\nName ID format:\nEmailAddress\nName ID / Application Username / Unique Identifier:\nEmail\nRequired Attributes/Claims:\nEmailAddress\nFirstName\nLastName\nNote:\nThe names of attributes/claims must follow the specified format. Alternative name spellings or FriendlyNames are not supported.\nIf the Grammarly SAML application is configured correctly, make sure that the\nIdP EntityID, SAML 2.0. Endpoint\nURLs, and the\nx.509 certificate\nused for SSO configuration are valid and copied correctly.\nClear your browser’s cookies and cache and try configuring SSO again.\nYou can also try using incognito or private mode in your browser.",
+  "category": "Resolve Issues",
+  "tags": []
+}

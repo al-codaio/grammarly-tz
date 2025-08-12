@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090291-Grammarly-says-my-browser-is-not-compatible",
+  "scraped_at": "2025-08-11T20:32:50.403703+00:00",
+  "title": "Grammarly says my browser is not compatible",
+  "content": "The Grammarly Editor\nis supported on Google Chrome 68+, Safari 12.1+, Firefox 78+, Microsoft Edge 79+.\nNote:\nGrammarly works best with the latest stable versions of browsers and operating systems; therefore, we suggest you update your software regularly.\nIf you're certain your browser is compatible, follow the troubleshooting steps below to resolve the issue.\nClear browser cookies\nYour browser may be referencing an outdated or corrupted setting in the cookie file.\nClear your browser cookies by following\nthese steps\n. This will sign you out of your Grammarly account.\nGo to\nhttps://www.grammarly.com/signin\nand enter your login credentials to access your account.\nRestart your browser\nSometimes restarting your browser can clear this issue. Download your text to your computer, quit your browser, restart it, and resume using Grammarly.\nTry another browser\nIn some cases, a certain browser extension, plug-in, or add-on might be causing this error. Try using Grammarly in another browser.\nIf this issue doesn’t persist in another browser, your current browser may be experiencing an issue or may need to be updated to a newer version.",
+  "category": "Grammarly Editor",
+  "tags": []
+}

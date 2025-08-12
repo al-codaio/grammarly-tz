@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360048773832-Add-team-members-when-SSO-is-activated",
+  "scraped_at": "2025-08-11T20:42:02.534283+00:00",
+  "title": "Add team members when SSO is activated",
+  "content": "Included in:\nGrammarly Pro, Business, Enterprise, and Grammarly for Education plans\nManaged by:\nAdmins and members with designated custom roles\nTo add new team members, you need to assign the Grammarly app to them in your identity provider. Once a team member has access to the Grammarly app, they can simply click the Grammarly icon in the identity provider to log in.\nNote:\nYou can also send invitations to team members via the Admin panel as described in this article:\nInvite team members\n. However, they won’t be able to join your subscription until they are granted access to the Grammarly app in your identity provider.\nNew team members will be added to your\nsubscription\nas soon as they log in through the identity provider for the first time or after you send an invitation email. You can see the list of all active users on the\nMembers\npage.",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

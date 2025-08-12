@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360061237391-How-do-I-check-which-version-of-the-Grammarly-browser-extension-I-have-currently",
+  "scraped_at": "2025-08-11T20:40:38.220423+00:00",
+  "title": "How do I check which version of the Grammarly browser extension I have currently?",
+  "content": "Grammarly’s browser extension is updated automatically. If you'd like to know which version you have currently, follow the steps below for your preferred browser:\nChrome\nFirefox\nSafari\nEdge\nType\nchrome://extensions\ninto the address bar\nToggle the switch next to\nDeveloper mode\nin the upper-right corner\nCheck the current version next to Grammarly for Chrome\nType\nabout:addons\ninto the address bar at the top of your screen\nUnder\nGrammarly for Firefox\n, select\nManage\nScroll down to check the current version\nOpen Safari\nClick the\nSafari\ntab >\nPreferences...\nSelect\nExtensions\nIn the menu on the left, select\nGrammarly for Safari\nand check the current version\nType\nedge://extensions/\ninto the address bar\nToggle the switch next to\nDeveloper mode\nin the lower-left corner\nCheck the current version next to Grammarly for Edge\nTo learn how to update the Grammarly browser extension, see\nthis article\n.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

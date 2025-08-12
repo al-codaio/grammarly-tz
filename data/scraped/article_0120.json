@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4412835748877-What-are-the-system-requirements-for-Grammarly-for-Windows-and-Grammarly-for-Mac",
+  "scraped_at": "2025-08-11T20:33:41.855517+00:00",
+  "title": "What are the system requirements for Grammarly for Windows and Grammarly for Mac?",
+  "content": "Please select an option below to view Grammarly's system requirements:\nWindows\nTo install Grammarly for Windows on your computer, you need:\nWindows\n10\n(build 1903) or newer\nGoogle Chrome or Microsoft Edge versions\n89\nor newer\n.NET Framework 4.7.2 +\nAt least 4GB of RAM (8 GB recommended for optimal performance)\nMac\nTo install Grammarly for Mac on your computer, you need:\nCompatible operating system:\nmacOS\n10.15\nor newer\nCompatible version of Google Chrome (\n89\nor newer) or Safari (\n12.1\nor newer)\nApple Silicon Mac (M1, M2, M3, or newer), Intel Mac from 2018 or newer\nWe no longer support older versions of macOS (10.12, 10.13, and 10.14). To continue using Grammarly for Mac without interruption, please upgrade your macOS to the latest available version by following\nthese instructions\n.\nNote:\nIf your computer isn't compatible with macOS Sonoma 14, you can install an earlier macOS version, such as\nVentura\n(13),\nMonterey\n(12),\nBig Sur\n(11), or\nCatalina\n(10.15). For further instructions, please see this\nApple support article\n.\nIf your computer doesn’t meet these system requirements, we encourage you to use\nthe Grammarly Editor\nor\nGrammarly’s browser extension\n.\nAdditionally, you can take advantage of Grammarly’s mobile applications:\nGrammarly for iPhone\n,\nGrammarly for iPad\n, and\nthe Grammarly Keyboard for Android\n.",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360048773872-Set-up-SSO-for-team-members-with-generic-email-domain",
+  "scraped_at": "2025-08-11T20:47:39.473576+00:00",
+  "title": "Set up SSO for team members with generic email domain",
+  "content": "Included in:\nGrammarly Pro, Business, Enterprise, and Grammarly for Education plans\nManaged by:\nAdmins and members with designated custom roles\nYou can enable SSO for your team by following the instructions\nin this article:\nSet up SAML single sign-on\nThen, add users to your organization’s subscription by assigning the Grammarly app to them in your identity provider.\nNew team members will need to log in through the identity provider first. Afterward, they’ll be able to log in either through Grammarly’s\nlogin page\nor through the identity provider.",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

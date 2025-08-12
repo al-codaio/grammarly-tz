@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360001608811-Error-Hm-something-went-wrong",
+  "scraped_at": "2025-08-11T20:40:43.175523+00:00",
+  "title": "Error: Hm, something went wrong",
+  "content": "It seems that your network configuration prevents Grammarly from working on your computer.\nAntivirus software, firewalls, and network proxy settings can cause the issue. Please try to resolve it by turning them off (click\nhere\nfor more details on this). We encourage you to get in touch with your network administrator and ask them to enable a specific web socket port.\nYour network administrator can check out the following article on how to troubleshoot the issue:\nWebSockets Support Q&A for System Administrators\nIf that doesn't work for you, please try to log in to Grammarly from another location (office, home, Internet café, or using 3G/4G modem) where the Internet provider is different.",
+  "category": "Grammarly Editor",
+  "tags": []
+}

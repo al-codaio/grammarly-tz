@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/10673656034829-The-macOS-spell-checker-was-turned-off-How-do-I-turn-it-back-on",
+  "scraped_at": "2025-08-11T20:36:36.582698+00:00",
+  "title": "The macOS spell-checker was turned off. How do I turn it back on?",
+  "content": "When you install Grammarly for Mac, the macOS spell-checker will be deactivated. This is intended to avoid any confusion and conflicting suggestions that could result from running Grammarly for Mac and the macOS spell-checker simultaneously. Deactivating the macOS spell-checker ensures that there is no mistaking the two when you’re using Grammarly.\nIf you’d prefer to have both of them active, you can reactivate the macOS spell-checker with the following steps:\nOpen Finder and click\nGo\n.\nSelect\nUtilities\nand open Terminal.\nPaste the following command into the Terminal window, then press\nEnter\n:\ndefaults write -g NSAllowContinuousSpellChecking -bool true\nRestart your computer for the change to take effect.",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360059770451-Why-does-Grammarly-need-access-to-accessibility-features",
+  "scraped_at": "2025-08-11T20:39:59.361971+00:00",
+  "title": "Why does Grammarly need access to accessibility features?",
+  "content": "Grammarly works in tandem with your operating system to provide feedback about your writing across a wide range of supported apps on your computer.\nTo offer this experience, Grammarly needs access to Accessibility features on your Mac. Without this access, our product will not be able to provide writing assistance.\nTo grant access:\nIn the Apple menu, choose\nSystem Preferences\n>\nSecurity & Privacy\n>\nPrivacy\n.\nFrom the list of options, choose\nAccessibility\n.\nClick the lock and provide your password or administrator credentials:\nSelect the check box next to\nGrammarly\nand then click the lock to prevent further editing.\nYou can revoke access at any time by repeating the above steps and unchecking the box next to Grammarly.\nAt Grammarly, we practice privacy by design.\nVisit Grammarly’s\nTrust Center\nto learn about our user-first approach to privacy and security.",
+  "category": "Privacy and Security",
+  "tags": []
+}

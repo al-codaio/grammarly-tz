@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/27953468911629-Error-Grammarly-is-temporarily-unavailable-on-Android",
+  "scraped_at": "2025-08-11T20:36:27.350942+00:00",
+  "title": "Error: \"Grammarly is temporarily unavailable!\" on Android",
+  "content": "If you see the error message \"Grammarly is temporarily unavailable\" while using Grammarly for Android, please try the following steps:\nOpen your device’s settings, go to\nNetwork\nor\nConnections\n, and try to fix or reset network settings if such an option is available.\nSwitch between Wi-Fi and cellular connections and see if the issue is only happening on a particular network.\nClose and reopen your keyboard.\nLog out and log back in to Grammarly for Android.\nRestart your device.",
+  "category": "Grammarly for Android",
+  "tags": []
+}

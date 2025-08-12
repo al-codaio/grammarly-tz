@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360036905172-Transfer-the-admin-role-to-a-team-member",
+  "scraped_at": "2025-08-11T20:30:52.890722+00:00",
+  "title": "Transfer the admin role to a team member",
+  "content": "Included in:\nGrammarly Pro, Business, Enterprise, and Grammarly for Education plans\nManaged by:\nAdmins and members with designated custom roles\nFirst, assign the admin role to another team member by following these steps:\nGo to the\nMembers\npage.\nClick on a team member.\nIn the window that appears next, select\nAdmin\nfrom the dropdown menu and click\nSave\n.\nNote:\nThe new admin should be an existing member of your subscription. If they’re not, please invite them to the subscription by following the instructions in this article:\nInvite team members\nLastly, ask the new admin to change your\naccount permissions\nor\nremove your account\nfrom the subscription if needed.\nIf you’re the owner of a Grammarly Pro plan, you must additionally transfer plan ownership if you want to leave the team account or allow the new admin to remove your account from it. To do that, follow the steps from this article:\nHow to transfer Grammarly Pro plan ownership",
+  "category": "Manage Members & Permissions",
+  "tags": []
+}

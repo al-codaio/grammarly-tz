@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/36868778228109-Deprovisioned-user-accounts-are-not-removed-from-the-subscription",
+  "scraped_at": "2025-08-11T20:46:54.253068+00:00",
+  "title": "Deprovisioned user accounts are not removed from the subscription",
+  "content": "Deprovisioning takes effect after a delay. After you deprovision user accounts in your identity provider, it may take up to an hour for them to be removed from your organization’s subscription.\nOnce an account is removed from the subscription through deprovisioning, it becomes deactivated and is no longer accessible. Unless the account is provisioned again, it will be automatically deleted in 30 days.",
+  "category": "Resolve Issues",
+  "tags": []
+}

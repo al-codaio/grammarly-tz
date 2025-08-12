@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/17009076093197-I-can-t-sign-in-to-my-admin-account-using-SSO",
+  "scraped_at": "2025-08-11T20:32:11.546070+00:00",
+  "title": "I can’t sign in to my admin account using SSO",
+  "content": "If you have enabled SSO for your organization’s subscription but cannot use it\nto sign in to your admin account, please sign in using this link instead:\nwww.grammarly.com/signin?ssoRedirect=false\nThis link will allow you to sign in to your admin account without SSO. You can then assign the admin role to the correct account as described in this article:\nTransfer the admin role to a team member\nIf you also need to update your SSO configuration on the\nAuthentication\npage without additional verification, sign in again using this link:\nwww.grammarly.com/signin?ssoRedirect=false&secureLogin=true",
+  "category": "Resolve Issues",
+  "tags": []
+}

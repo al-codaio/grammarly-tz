@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090492-The-G-icon-is-constantly-spinning-but-does-not-underline-mistakes",
+  "scraped_at": "2025-08-11T20:38:27.511771+00:00",
+  "title": "The G icon is constantly spinning but does not underline mistakes",
+  "content": "If the Grammarly G icon is constantly spinning but does not underline mistakes, it typically points to a network issue. Here's how to troubleshoot this behavior:\nClear your browser’s cache by following the steps described in\nthis article\n.\nPass our\nself-diagnostic tests\n.\nIf the WebSockets test fails, check out this\narticle\n. We recommend that you work with your system administrator to resolve this issue.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

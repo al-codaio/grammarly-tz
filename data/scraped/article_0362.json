@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360053596271-I-m-redirected-to-Microsoft-Store-when-installing-Grammarly-for-Microsoft-Office",
+  "scraped_at": "2025-08-11T20:43:20.141725+00:00",
+  "title": "I'm redirected to Microsoft Store when installing Grammarly for Microsoft Office",
+  "content": "When you open the installation file for Grammarly for Microsoft Office, you may be redirected to the Microsoft Store instead.\nPlease follow these steps:\nClick the\nStart\nbutton (Windows key), type\nApps\n&\nFeatures\n, and press\nEnter\n.\nIn the\nInstalling Apps\nsection, click\nShow me app recommendations\n. If you do not see these options, please choose\nAnywhere\nwhen asked about the installation preferences.\nDownload the latest version of Grammarly for Microsoft Office by going to\nhttps://www.grammarly.com/office-addin/downloading\n. Follow the installation instructions within the installer.\nOpen any document in Microsoft Word or an email in Microsoft Outlook, find the Grammarly tab in the toolbar, and press\nOpen Grammarly\n.\nLog in to your Grammarly account by entering your login credentials. You should then see the Grammarly sidebar on the right.\nIf Grammarly for Microsoft Office doesn’t work after trying these steps, and you’re using Windows 10 or newer, we suggest switching to\nGrammarly for Windows\n. This product offering also supports integration with Microsoft Word and Outlook. To find out more, check out\nthis article\n.\nAlternatively, you can give\nthe Grammarly Editor\na try. For more information about the Grammarly Editor, visit\nthis page\n.",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

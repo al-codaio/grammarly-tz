@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360049541012-Set-up-SSO-with-PingOne",
+  "scraped_at": "2025-08-11T20:31:12.954322+00:00",
+  "title": "Set up SSO with PingOne",
+  "content": "Requirements\n- PingOne account with access to the administrator console\n-\nGrammarly Business\n, Grammarly Pro, or a\nGrammarly for Education\naccount with the\nadmin role\nor a designated custom role\nIn your PingOne admin dashboard, go to\nApplications\n→\nMy Applications\n→\nAdd Application\n→\nSearch Application Catalog\nSearch for\nGrammarly\n, click on the app and choose\nSetup\nFollow the instructions on the next page to obtain the following values:\nIssuer/Entity ID\nSAML 2.0 Endpoint (HTTP)\nSigning Certificate\nMake sure to save these as you will need to pass them to\nGrammarly\nafter you finish the set-up process in your PingOne account. Click\nContinue to Next Step\nonce you are finished.\nConfigure the settings on the next page (optional) and move to the next page\nMap the attributes as shown in the screenshot and continue to the next page\nCustomize Grammarly’s Icon, Name, Description, and Category (optional) and proceed to the next page\nAssign Grammarly to relevant groups of users in your organization and move on to the next page\nClick\nFinish\nTo activate SSO in your Grammarly account, please see this article:\nSet up SAML single sign-on\nIf you encounter any issues, please look for a troubleshooting article on this page:\nResolve Issues",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

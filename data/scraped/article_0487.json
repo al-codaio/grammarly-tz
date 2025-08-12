@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415373429901-I-can-t-test-SSO-No-SSO-settings-found",
+  "scraped_at": "2025-08-11T20:48:20.618356+00:00",
+  "title": "I can’t test SSO: No SSO settings found",
+  "content": "If you see this error when setting up SSO, it indicates that the Grammarly app in your identity provider has not been configured correctly.\nTo resolve this issue, we suggest checking the following parameters for the Grammarly SAML application in your identity provider:\nSingle sign-on URL:\nhttps://sso.grammarly.com/saml/assertion\nAudience URI/SP Entity ID/Issuer:\nhttps://sso.grammarly.com/saml/metadata\nName ID format:\nEmailAddress\nName ID / Application Username / Unique Identifier:\nEmail\nAttributes/Claims:\nEmailAddress\nFirstName\nLastName\nIf everything is correct, please clear your browser's cookies and try configuring SSO again.\nFor more information on how to configure the Grammarly app in your identity provider, please see\nthis article:\nAdd Grammarly to an identity provider\nIf you encounter the “No SSO setting found” error when trying to sign in to your Grammarly account, please get in touch with your organization’s administrator to ensure that SSO has been configured correctly and is activated.",
+  "category": "Resolve Issues",
+  "tags": []
+}

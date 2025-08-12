@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090791-Changing-your-email-to-an-email-that-already-exists",
+  "scraped_at": "2025-08-11T20:32:02.313223+00:00",
+  "title": "Changing your email to an email that already exists",
+  "content": "\"The password is incorrect or an account associated with the new email address already exists.\"\nGrammarly shows this error because an account associated with the email address you would like to use already exists. You will need to delete this Grammarly account to be able to switch your current account to the new email address.\nLog in to Grammarly with the email address that you wish to use as your new login\nSelect the\nAccount\ntab\nClick the\nDelete Account\nbutton on the page that opens next\nGrammarly will ask you to provide your password to confirm the action. Once you do that, your account will be deleted.\nAfter this free account has been deleted, you can proceed with changing the email address associated with your paid account.\nTo update the email address associated with your Grammarly account, please\nsign in\nto the Grammarly website, navigate to the\nAccount\ntab, and update your email.",
+  "category": "Update Your Account",
+  "tags": []
+}

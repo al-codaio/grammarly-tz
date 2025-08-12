@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/29756026978317-We-enabled-SSO-but-some-members-are-prompted-to-enter-passwords",
+  "scraped_at": "2025-08-11T20:29:57.903109+00:00",
+  "title": "We enabled SSO, but some members are prompted to enter passwords",
+  "content": "SAML single sign-on only applies to current members of the organization’s subscription for which it is enabled. Team members who are not part of the subscription with enabled SSO will continue to sign in using their usual credentials.\nAdditionally, team members with existing Grammarly accounts will need to enter their passwords to confirm joining their organization’s subscription and activate SSO for their accounts. Once they do that, they will switch to SSO authentication going forward.\nIf someone is having trouble with their password, they can reset it at\nwww.grammarly.com/resetpassword\n.\nIf the password reset link does not work, please refer to this article:\nThe password reset link redirects me to the login page",
+  "category": "Resolve Issues",
+  "tags": []
+}

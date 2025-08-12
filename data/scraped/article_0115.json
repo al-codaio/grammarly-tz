@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090991-Does-Grammarly-support-Google-Docs",
+  "scraped_at": "2025-08-11T20:33:30.483117+00:00",
+  "title": "Does Grammarly support Google Docs?",
+  "content": "You can use Grammarly in Google Docs by installing the Grammarly browser extension for Chrome, Safari, Firefox, or Edge. If you need to install the Grammarly browser extension, check out this article:\nHow to install the Grammarly browser extension\n.\nChecking text\nTo access Grammarly’s suggestions in Google Docs, create or open a Google document and click the Grammarly button in the lower-right corner of the browser window. This will open the Grammarly sidebar.\nIf you’d like to accept a suggestion, simply select the suggestion card within the sidebar and click on the proposed changes.\nTo see a detailed explanation of the suggestion, click\nLearn more\nat the bottom of the suggestion.\nIf a suggestion is incorrect or you’d like to report it for any reason, click the three dots and choose your preferred option to proceed.\nIf you’d like Grammarly to stop flagging a particular spelling as incorrect, you can add the word to your personal dictionary by clicking\nAdd to Dictionary\nwithin the suggestion card.\nSome suggestions, such as correctness suggestions (red underlines) or\nstyle guide\nsuggestions (gray underlines, available to Grammarly Business users), are shown directly in the text. You don’t have to open the sidebar to accept these suggestions — simply hover over the underlined word to see the suggestion card.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

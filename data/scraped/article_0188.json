@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/17776038294285-Error-message-You-re-out-of-prompts",
+  "scraped_at": "2025-08-11T20:36:20.407826+00:00",
+  "title": "Error message: \"You're out of prompts\"",
+  "content": "This error message will appear when you have used up all available generative AI prompts.\nNote:\nAt this time, Grammarly Free users have 100 prompts per month, Grammarly Premium users have 1000 prompts per month, and Grammarly Pro, Grammarly for Business, and Grammarly for Education users have access to 2000 prompts per month.\nYou can check your remaining number of prompts by clicking the lightbulb icon and looking in the upper-right corner; if you are indeed out of prompts, you should see a notice that indicates there are “0 prompts” remaining.\nTo learn more about prompts, please review this Support article:\nHow many generative AI prompts do I have?\nIf you’re on a Grammarly paid plan and run out of prompts before your next refill,\ncontact us for assistance\n.\nYour prompts will be automatically refilled on a monthly basis, determined by the day generative AI first became available within your account.",
+  "category": "Generative AI assistance",
+  "tags": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000091591-Uninstall-the-Grammarly-browser-extension",
+  "scraped_at": "2025-08-11T20:46:44.862266+00:00",
+  "title": "Uninstall the Grammarly browser extension",
+  "content": "Chrome\nSafari\nFirefox\nEdge\nTo uninstall Grammarly for Chrome, right-click on the G icon on the Chrome toolbar and select\nRemove from Chrome\n.\nNavigate to\nabout:addons\nand select the\nExtensions\npanel\nSelect\nGrammarly\nClick the\nRemove\nbutton\nClick\nRestart now\nif it pops up. Your tabs will be saved and restored after the restart.\nTo deactivate Grammarly for Safari, please follow the instructions below:\nOpen Safari\nClick on\nSafari\ntab ->\nPreferences...\nClick\nExtensions\nUncheck the\nEnabled\nbox to deactivate the extension\nTo uninstall the extension:\nGo to\nFinder\n>\nApplications\n>\nGrammarly for Safari\nClick Grammarly for Safari and select\nMove to Trash\nfrom the dropdown menu. Alternatively, you can drag and drop the app to\nTrash\n.\nIf prompted, enter the password to your computer to confirm the deletion\nNote:\nBefore uninstalling the app, please make sure that Grammarly for Safari is not running. If the app is running, right-click the Grammarly icon on the dock and select\nQuit\n.\nNavigate to your browser's menu and select the\nExtensions\npanel\nClick\nGrammarly for Microsoft Edge\nSelect\nUninstall\nIf you prefer to use Grammarly without installing an extension, you can take advantage of\nthe Grammarly Editor\n. To learn more about other products Grammarly offers, check\nthis article\n.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360049254711-Deactivate-SSO",
+  "scraped_at": "2025-08-11T20:32:00.053417+00:00",
+  "title": "Deactivate SSO",
+  "content": "Included in:\nGrammarly Pro, Business, Enterprise, and Grammarly for Education plans\nManaged by:\nAdmins and members with designated custom roles\nGo to the\nAuthentication\npage.\nClick\nModify Details\n.\nClick\nDeactivate SSO\n.\nOnce SSO is deactivated, all team members on your account will have to log in with their email address and password. If they did not have a password before or if they forgot it, they can reset it at\nwww.grammarly.com/resetpassword\n. Each team member will also receive an email notification informing them that SSO has been turned off, with instructions on how to reset their password.\nNote:\nAll current team members will remain linked to your account. You can see the list of all active members on the\nMembers\npage.",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

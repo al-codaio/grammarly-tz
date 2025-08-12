@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/31543373220621-Analytics-API",
+  "scraped_at": "2025-08-11T20:34:12.466475+00:00",
+  "title": "Analytics API",
+  "content": "Included in:\nGrammarly Enterprise and Grammarly for Education plans\nThe Analytics API offers organizations a programmatic way to obtain Grammarly usage data and integrate it directly into their business intelligence (BI) systems. This allows organizations to tie the data to key business outcomes and measure Grammarly’s impact more effectively.\nGetting started with the Analytics API\nThe Analytics API is included in Grammarly Enterprise and Grammarly for Education plans.\nInterested in upgrading to an Enterprise account?\nContact our Sales team\n.\nThe API is intended for programmatic consumption and is accessible through an HTTP REST interface. Access to the API requires authentication using an Access Token provided by Grammarly’s OAuth functionality. You can learn more about OAuth credentials in this article:\nReceive OAuth 2.0 credentials\nTo start integrating the Analytics API,\nreview the API documentation\n.",
+  "category": "Grammarly API",
+  "tags": []
+}

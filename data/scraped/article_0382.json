@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/26799394449805-How-to-retrieve-performance-logs-in-Grammarly-for-Windows",
+  "scraped_at": "2025-08-11T20:44:08.951283+00:00",
+  "title": "How to retrieve performance logs in Grammarly for Windows",
+  "content": "Our Support team may request performance logs if there is a performance issue with Grammarly for Windows. If you experience a technical issue, please check out the\nResolve Issues\nsection of our Support site first.\nIf you’re asked to retrieve performance logs, please follow these steps:\nEnable performance logging:\nGo to the Grammarly for Windows settings and press\nCtrl+G+R+A.\nClick\nTurn on measuring latency\n:\nReproduce the performance issue: input text, click buttons in the host application, or perform any other actions that will slow down the application or cause high CPU usage.\nGo back to the advanced Grammarly for Windows settings window and click\nTurn off measuring latency\nto stop collecting the logs.\nPress\nWin\n+\nR\n, paste the following line, and hit\nEnter\n:\n%APPDATA%\\Grammarly\\DesktopIntegrations\\Timings\nSend the files from that folder to us in a\nSupport ticket\n.",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

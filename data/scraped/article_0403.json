@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090251-Error-Text-Checking-Is-Temporarily-Unavailable",
+  "scraped_at": "2025-08-11T20:44:59.403666+00:00",
+  "title": "Error: Text Checking Is Temporarily Unavailable",
+  "content": "If you see the error \"Text Checking Is Temporarily Unavailable\n\"\nwhen checking a document, please follow the instructions below:\nMake sure that you successfully\npass the WebSockets tests\nhere\n. If any section of your test results says\nFailed\n, take a look at this\narticle\n.\nRe-login to the Grammarly Editor:\nGo to\nhttps://app.grammarly.com/\nand click\nLog out\nin the left-side panel\nSign in again at\nhttps://grammarly.com/signin\nusing your login credentials\nCheck whether you can reproduce the issue with your\nantivirus software and firewall turned off\n. If not, make sure that your antivirus and firewall software allows\nweb socket connection\nto\ncapi.grammarly.com\n. Typically, restrictions can be configured in the \"allowed list\" or \"bypass\" section of the antivirus software settings.\nNote:\nCurrently, you can check up to 100,000 characters (including spaces) at a time using the Grammarly Editor. In some cases, users are able to paste documents that exceed 100,000 characters; however, Grammarly may not work as expected. We recommend splitting your document into smaller parts if your document exceeds the limitation and you see this error message.\nIf the issue persists, please send the Grammarly Editor log to Grammarly Support by following the instructions in this article:\nHow do I download the Grammarly Editor log?",
+  "category": "Grammarly Editor",
+  "tags": []
+}

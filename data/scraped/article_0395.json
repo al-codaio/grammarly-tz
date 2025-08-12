@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360056101332-How-to-install-Grammarly-for-Microsoft-Office-on-a-terminal-server",
+  "scraped_at": "2025-08-11T20:44:40.385482+00:00",
+  "title": "How to install Grammarly for Microsoft Office on a terminal server",
+  "content": "Important:\nGrammarly for Microsoft Office will no longer be updated. We suggest switching to\nGrammarly for Windows\n(if you use Windows 10 or newer) or\nGrammarly for Mac\n(if you use macOS 10.15 or newer), which supports integration with multiple applications and websites, including Microsoft Office apps.\nIf you prefer to continue using Grammarly for Microsoft Office, it can be installed on a terminal server or in a Citrix Environment by following these steps:\nDownload Grammarly for Microsoft Office at\nhttps://www.grammarly.com/office-addin/downloading\nDouble-click the GrammarlyAddInSetup.exe file\nWhen you see the\nWelcome to Grammarly\nwindow, press and hold the\nShift\nand\nCtrl\nkeys on your keyboard and then click\nGet Started\nCheck the box next to\nInstall for all users\nand click\nNext\n:\nIf you’d like to do a silent installation, please run this command in the command line:\nGrammarlyAddInSetup.exe /fastforallmode /silent\nYou can use this command for uninstallation:\nGrammarlyAddInSetup.exe /fastforallmode /silent /uninstall",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

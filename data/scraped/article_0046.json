@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/17775763102989-How-many-generative-AI-prompts-do-I-have",
+  "scraped_at": "2025-08-11T20:30:50.663576+00:00",
+  "title": "How many generative AI prompts do I have?",
+  "content": "Your Grammarly account allows access to on-demand generative AI assistance via prompts.\nA prompt is a sentence or phrase that is used to initiate a response or action from Grammarly's generative AI. It can be a question, statement, or command. Each time you enter something in the prompt field or use a provided suggestion like \"Improve it,\" you use one of your allocated generative AI prompts.\nA prompt can be a few words or up to several paragraphs in length.\nThe number of available prompts will be automatically refilled on a monthly basis, determined by the day generative AI assistance first became available within your account.\nTo check how many prompts you have left, click the lightbulb icon, and look for the number in the upper-right corner. Hover over the number of prompts to see how many days until your next refill:\nTip:\nIf you've used your monthly allocation of prompts and are a Grammarly Free user, you’ll see a message that indicates the number of days before your next prompt refill date, as well as the option to Upgrade to Grammarly Premium. Premium users have access to 1000 generative AI prompts per month.",
+  "category": "Generative AI assistance",
+  "tags": []
+}

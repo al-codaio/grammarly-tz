@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360059175872-How-to-update-my-phone-number",
+  "scraped_at": "2025-08-11T20:29:25.106055+00:00",
+  "title": "How to update my phone number",
+  "content": "If you previously set up two-step verification on your Grammarly account and plan to change your phone number, we suggest updating it in your settings as follows:\nSign in to your Grammarly account and click\nSettings\nin the left-side panel.\nIn the\nSecurity\nsection, select\nTwo-Step Verification\n.\nClick\nEdit Settings\n. You may be asked to verify your account again by entering your password and the verification code sent to your previous phone number.\nClick\nModify\nnext to\nText Message (Default)\n.\nIn the pop-up window, click\nChange Number\nand enter a valid phone number that can receive text messages. Then click\nSend Code\n.\nEnter the verification code you received via text message.\nClick\nTurn On\nto confirm the change.\nIf you’ve lost access to your phone number, check\nthis article\n.\nIf you haven’t received a text message with a code, please visit\nthis page\n.",
+  "category": "Account Security",
+  "tags": []
+}

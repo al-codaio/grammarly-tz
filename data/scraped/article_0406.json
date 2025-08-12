@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/13509792602381-Set-up-SSO-with-Rippling",
+  "scraped_at": "2025-08-11T20:45:06.547453+00:00",
+  "title": "Set up SSO with Rippling",
+  "content": "Requirements\n- Rippling account with access to the administrator console\n-\nGrammarly Business\n, Grammarly Pro, or a\nGrammarly for Education\naccount with the\nadmin role\nor a designated custom role\nLog in to your Rippling admin account.\nOpen Grammarly Business in the\nRippling App Shop\n.\nClick\nConnect Account.\nSelect the\nI’m the Grammarly Business admin, I’ll install it\noption.\nIn the\nAdd SSO Details in Grammarly\nsection, copy the Identity Provider Issuer, the SAML 2.0 Endpoint, and the Certificate. You will need to enter these values in your Grammarly account.\nIn the\nGrammarly SSO Sign-in URL\nfield, enter\nhttps://sso.grammarly.com/saml/assertion\nClick\nMove to Next Step.\nSet up your\nApp Access Rules\nand click\nContinue.\nSet up the\nGrammarly Business Shared Admin\nSSO configuration and click\nContinue.\nClick\nContinue\nto confirm the action.\nFinally, to enable SSO in the Grammarly interface, please see\nSet up SAML single sign-on\nand go to\nstep 2\n.",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

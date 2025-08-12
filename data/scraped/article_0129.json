@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360041042212-Error-Error-loading-add-ins",
+  "scraped_at": "2025-08-11T20:34:03.371141+00:00",
+  "title": "Error: Error loading add-ins",
+  "content": "If you see this error message in Microsoft Word on Mac, please follow the steps below to troubleshoot the issue:\nSign out of Microsoft Word by clicking\nWord\n>\nSign Out…\nRestart Microsoft Word and sign in again.\nOpen the\nInsert\nmenu and click\nGet Add-ins\nor\nStore\n.\nType\nGrammarly\nin the search field and press\nEnter\n.\nClick\nAdd\nnext to the listing for Grammarly for Microsoft Word.\nThen, please find the\nGrammarly tab\non the MS Word toolbar and press\nOpen Grammarly\n.\nIf these instructions didn’t help, please\nsubmit a support request\nincluding the Microsoft Word version that you are currently using and a screenshot of the issue.\nTo check your version of Microsoft Word, please go to the Word menu and click\nAbout Microsoft Word\n:\nNote:\nIf your subscription to Microsoft Office is provided by your organization or school, please contact your Office 365 administrator to ensure that you have permission to install Office Add-ins.\nIf Grammarly for Microsoft Word on Mac doesn’t work after trying these steps, we suggest switching to\nGrammarly for Mac\n. This product offering also supports integration with Microsoft Word and Outlook. To find out more, check out\nthis article\n.\nAlternatively, you can give\nthe Grammarly Editor\na try. For more information about the Grammarly Editor, visit\nthis page\n.",
+  "category": "Grammarly for Microsoft Word on Mac",
+  "tags": []
+}

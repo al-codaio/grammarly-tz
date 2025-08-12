@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415367687181-Error-Unable-to-authenticate-this-SAML-response-because-it-has-already-been-processed",
+  "scraped_at": "2025-08-11T20:37:06.806730+00:00",
+  "title": "Error: Unable to authenticate this SAML response because it has already been processed",
+  "content": "This error message indicates that the current SSO request uses a SAML assertion that has already been found in another SSO request. This is a security measure designed to prevent replay attacks with a valid SAML assertion.\nPlease make sure your identity provider does not generate a SAML assertion with a duplicate ID or send the same SAML assertion more than once.",
+  "category": "Resolve Issues",
+  "tags": []
+}

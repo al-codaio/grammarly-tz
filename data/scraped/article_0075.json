@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415389035405-I-can-t-provision-a-user-There-are-no-available-seats-in-the-organization",
+  "scraped_at": "2025-08-11T20:31:57.789600+00:00",
+  "title": "I can’t provision a user: There are no available seats in the organization",
+  "content": "If you see this error when adding new members to your organization’s Grammarly subscription using\nSCIM provisioning\n, it indicates that all seats in your organization’s subscription have been allocated.\nYou can free up seats by\nremoving inactive members\nor voiding pending invitations.\nIf you’d like to purchase additional seats, please\nreach out to your Customer Success Manager or\ncontact Support\n.",
+  "category": "Resolve Issues",
+  "tags": []
+}

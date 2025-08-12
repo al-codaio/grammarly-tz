@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360056099552-How-to-prevent-Grammarly-for-Microsoft-Office-from-updating-automatically",
+  "scraped_at": "2025-08-11T20:44:38.077110+00:00",
+  "title": "How to prevent Grammarly for Microsoft Office from updating automatically",
+  "content": "Important:\nGrammarly for Microsoft Office will no longer be updated. We suggest switching to\nGrammarly for Windows\n(if you use Windows 10 or newer) or\nGrammarly for Mac\n(if you use macOS 10.15 or newer), which supports integration with multiple applications and websites, including Microsoft Office apps.\nIf you’d still like to prevent Grammarly for Microsoft Office from updating automatically, you need to block the domain “download-office.grammarly.com” in your Windows Firewall. To do that, follow these steps:\nClick the\nWindows\nbutton and start typing\nNotepad\n. Then, right-click\nNotepad\nand choose\nRun as administrator\nIn Notepad, click\nFile\n>\nOpen\n. In the address bar, paste or type this text:\n%systemroot%\\system32\\drivers\\etc\\\nSelect\nAll files\nin the\nType of file\nsection:\nDouble-click\nhosts\nIn the file, type\n0.0.0.0 download-office.grammarly.com\nNote:\nYou need to press\nTab\ntwice after typing 0.0.0.0\nExit the Notepad and click\nSave\nto save the changes",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

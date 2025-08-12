@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090592-How-to-send-error-details-to-Grammarly",
+  "scraped_at": "2025-08-11T20:38:15.071286+00:00",
+  "title": "How to send error details to Grammarly",
+  "content": "If the installer cannot install Grammarly for Microsoft Office, you will see\nthe error\nFailed to install\nwith a description of the issue. You need to copy the error code and details and send them to us for investigation\nvia a support ticket\nas shown in the image below:\nIf the\nError details\nmessage is missing, follow the steps below to send us the Grammarly log files:\nClick\nCopy to clipboard >\nSave logs > Close\n.\nSelect any folder that you prefer, e.g.\nLocal Disk (C:)\n.\nClick\nMake New Folder\n.\nName the new folder\nsomething like\ngrammarlylogfiles\nand press\nEnter\n.\nClick OK.\nOpen\nMy Computer\n.\nOpen the folder where you saved the Grammarly log files (e.g., C:\\grammarlylogfiles).\nSend all the files from the folder you created\nvia a support ticket\n.\nDelete that folder (e.g., grammarlylogfiles).",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

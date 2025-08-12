@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360055103031-The-password-reset-link-redirects-me-to-the-login-page",
+  "scraped_at": "2025-08-11T20:33:13.949753+00:00",
+  "title": "The password reset link redirects me to the login page",
+  "content": "To resolve this issue, follow the steps below:\nDelete any Grammarly password reset emails that you might have received to your email address\nThen, clear your browser cookies by following the steps described in\nthis article\nRequest a new password reset email at\nhttps://www.grammarly.com/resetpassword\nIn the email that you'll receive shortly after, please click\nReset Password\nto set a new password for your account\nIf you're still having trouble, use a different browser or machine to access the email, then try resetting your password again. You can use any of these browsers to access your account: Firefox, Chrome, Safari, and Edge.",
+  "category": "Sign-in Help",
+  "tags": []
+}

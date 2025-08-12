@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360039004612-How-to-reinstall-Grammarly-for-Microsoft-Office",
+  "scraped_at": "2025-08-11T20:31:43.448213+00:00",
+  "title": "How to reinstall Grammarly for Microsoft Office",
+  "content": "Important:\nGrammarly for Microsoft Word will no longer be updated. We suggest switching to\nGrammarly for Windows\n, which supports integration with multiple applications and websites, including Microsoft Office apps. Alternatively, we encourage you to give\nthe Grammarly Editor\na try.\nIf you need to reinstall Grammarly for Microsoft Office, please follow the steps below:\nUninstall your current version of the Grammarly add-in via\nControl Panel\n>\nPrograms and Features\n> right-click on\nGrammarly for Microsoft® Office Suite\n> select\nUninstall\n.\nIf you use Windows 10:\nRight-click the\nStart\nbutton in the lower-left corner of the screen, and select\nApps and Features\non the pop-up menu. Click on\nGrammarly for Microsoft® Office Suite\n> select\nUninstall\n.\nDownload the latest version from\nhttps://www.grammarly.com/office-addin/downloading\nand follow the instructions within the installer:\nOpen any text document in Word, find the Grammarly tab in the toolbar, then click\nOpen Grammarly\n.\nLog in using your Grammarly credentials if prompted.\nYou should see the Grammarly sidebar on the right. It should say\nChecking...\nand then start displaying suggestions.\nIf the installation is not successful, please send us the\nerror details\n, and we will contact you with a solution.",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

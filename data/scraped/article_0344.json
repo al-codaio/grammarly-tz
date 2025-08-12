@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360052374352-Error-System-OutOfMemoryException",
+  "scraped_at": "2025-08-11T20:42:36.496474+00:00",
+  "title": "Error: System.OutOfMemoryException",
+  "content": "To resolve this issue, please restart Microsoft Word or Outlook. If this doesn’t help, we recommend that you reinstall your video card driver:\nGo to\nDisplay settings\n>\nAdvanced display settings\n>\nDisplay adapter properties\n>\nProperties\n>\nDriver\nand click\nUninstall Device\nRestart your PC, go to\nDisplay settings\n>\nAdvanced display settings\n>\nDisplay adapter properties\n>\nProperties\n>\nDriver\nand click Update driver\nIf the issue persists, please press\nWin\n+\nR\n, insert %Temp% and press\nEnter\n. Then, delete all files in the Temp folder that opens next. Also, make sure there is at least 1 GB of free space on your C drive.\nIf Grammarly for Microsoft Office doesn’t work after trying these steps, and you’re using Windows 10 or newer, we suggest switching to\nGrammarly for Windows\n. This product offering also supports integration with Microsoft Word and Outlook. To find out more, check out\nthis article\n.\nAlternatively, you can give\nthe Grammarly Editor\na try. For more information about the Grammarly Editor, visit\nthis page\n.",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090252-Error-Grammarly-couldn-t-establish-a-connection-to-the-server",
+  "scraped_at": "2025-08-11T20:48:03.629573+00:00",
+  "title": "Error: Grammarly couldn't establish a connection to the server",
+  "content": "You may see \"Grammarly couldn't establish a connection to the server\" when working in the Grammarly Editor:\nTo resolve this, we recommend refreshing your browser's page and reconnecting to the internet.\nIf the issue persists, make sure that you successfully pass the WebSockets tests\nhere\n. If any section of your test results says\nFailed\n, take a look at\nthis article\n.\nNote:\nAntivirus, firewall, VPN, and network proxy settings can cause the issue. Please try to resolve it by temporarily turning them off. If that helps, we suggest that you add Grammarly to that software's allowed list to resolve the issue.",
+  "category": "Grammarly Editor",
+  "tags": []
+}

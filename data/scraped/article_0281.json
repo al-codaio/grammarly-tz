@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090031-Why-was-my-payment-method-declined",
+  "scraped_at": "2025-08-11T20:40:04.640633+00:00",
+  "title": "Why was my payment method declined?",
+  "content": "If you have encountered an error when we attempted to process your credit card, please double-check your payment details and try again.\nOnly your bank or credit card issuer can confirm the specific reason. Here are a few of the most common ones:\nIncorrect credit card number or expiration date\nInsufficient funds\nSome banks will reject charges based on location; online international payments should be enabled\nSome banks will reject charges based on their own fraud rules\nGrammarly accepts the following payment methods: credit cards, PayPal, debit cards (with the exception of Visa Electron, Mastercard Maestro, and Interac); you can use PayPal as an alternative to a credit card payment.\nDue to restrictions specific to some payment processors, some payment methods may not be available. The list of available payment methods will be shown upon checkout.\nWe do not accept personal checks, money orders, or payments made by phone.",
+  "category": "How to Upgrade",
+  "tags": []
+}

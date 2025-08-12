@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090232-Why-can-t-I-upload-my-document",
+  "scraped_at": "2025-08-11T20:45:16.232341+00:00",
+  "title": "Why can't I upload my document?",
+  "content": "To determine the root cause and resolve this issue, please check the following:\nThe number of characters in the document must be lower than 100,000 (including spaces). Documents that exceed this limit can’t be uploaded to the Grammarly Editor. To find out how to check the number of characters, check out\nthis article\n.\nThe size of your document doesn't exceed 4 MB.\nThe format of the document in question is supported. At this time, we support these formats: Microsoft Word (.doc, .docx), OpenOffice (.odt), .txt, and .rtf.\nIf you see \"Your document contains revisions\" when uploading a document, you will need to accept all revisions before proceeding. To learn how to accept tracked changes in your document, please visit\nthis page\n.",
+  "category": "Grammarly Editor",
+  "tags": []
+}

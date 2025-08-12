@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/17362956938509-I-can-t-log-in-to-Grammarly-for-Android-with-my-login-details",
+  "scraped_at": "2025-08-11T20:40:28.152486+00:00",
+  "title": "I can't log in to Grammarly for Android with my login details",
+  "content": "If you see \"HTTP ERROR 403 Invalid referer\", we recommend temporarily changing your default web browser to Chrome and trying to log in again. Here is how to do that:\nOpen your device settings, s\ncroll down, and select\nApps & notifications\nor\nApps\nSelect\nDefault apps\nor\nDefault browser\nChoose\nChrome\nfrom the list of available browsers\nOnce you've set Chrome as your default browser, log back into your Grammarly account in the Grammarly companion app for seamless integration and access to all features\nIf you experience a different issue when trying to sign in to Grammarly for Android, follow these steps to troubleshoot the issue:\nOpen your device’s settings, go to\nNetwork\nor\nConnections\n, and try to fix or reset network settings if such an option is available.\nReboot your Wi-Fi router and try signing in to Grammarly again. If you're using a 3G or 4G network, please check whether you're able to access the internet using your browser.\nIf you’re using a VPN and/or an antivirus app on your mobile device, temporarily turn them off.\nTry to log in to Grammarly for Android from another location (office, home, etc.) where the internet service provider is different.\nIf the issue persists, please take a full-screen screenshot of the problem and send it to us by submitting a request at\nContact Support\n.",
+  "category": "Grammarly for Android",
+  "tags": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415366735245-Error-Unable-to-validate-assertion",
+  "scraped_at": "2025-08-11T20:41:28.830684+00:00",
+  "title": "Error: Unable to validate assertion",
+  "content": "Error examples:\nUnable to validate assertion: email must not be blank\nUnable to validate assertion: name must not be blank\nUnable to validate assertion: email must be a well-formed email address\nIf you’re a member of an organizational subscription, click here to expand this section\nThis error indicates that the SAML single sign-on authentication for your organization’s Grammarly subscription has been set up incorrectly in your organization’s identity provider.\nTo resolve this issue, please contact your organization’s IT support with a request to ensure that access to Grammarly is set up as described in this article:\nAdd Grammarly to an identity provider\nIf you’re an admin of an organizational subscription, click here to expand this section\nIf you see the “Unable to validate assertion” error when setting up SAML single sign-on or signing in to your account, it typically indicates that the parameters in your identity provider were mapped incorrectly.\nTo resolve this, we recommend verifying that the mapping of all LDAP attributes and the outgoing name ID format are set correctly.\nGrammarly supports the following name ID format:\nEmailAddress\nThe required attributes/claims:\nEmailAddress\nFirstName\nLastName\nNote:\nThe names of attributes/claims must follow the specified format. Alternative name spellings or FriendlyNames are not supported.\nFor more information, please see\nthis article:\nAdd Grammarly to an identity provider",
+  "category": "Resolve Issues",
+  "tags": []
+}

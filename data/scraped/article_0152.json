@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000089931-I-ve-requested-a-password-reset-but-I-haven-t-received-an-email-yet",
+  "scraped_at": "2025-08-11T20:34:56.463632+00:00",
+  "title": "I've requested a password reset, but I haven't received an email yet",
+  "content": "If you sent yourself the email but never received it, follow these steps:\nCheck your spam and promotions folders (and any email filters you've set up) to make sure the message isn't being directed away from your email inbox.\nIf you cannot find the password reset email after checking your spam folder, try adding the following email addresses to your email contact list and send yourself a password reset email again afterward:\nhello@info.grammarly.com\nhello@mail.grammarly.com\nhello@notification.grammarly.com\nIf the password reset link redirects you to the login page, follow\nthese steps.",
+  "category": "Sign-in Help",
+  "tags": []
+}

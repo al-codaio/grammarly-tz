@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/26521773751821-Can-I-use-screen-readers-with-Grammarly-for-Windows-and-Mac",
+  "scraped_at": "2025-08-11T20:43:07.850884+00:00",
+  "title": "Can I use screen readers with Grammarly for Windows and Mac?",
+  "content": "Grammarly for Windows\nand\nGrammarly for Mac\nare compatible with the following assistive technologies:\n• NVDA and JAWS on Windows\n• VoiceOver on macOS\nNote:\nFor a better experience with your screen reader, we suggest that you\nuse keyboard navigation\n.\nWhen Grammarly for Windows and Mac is active, it will announce that it is available when a text area receives focus (a text area is focused when it is active and ready to receive text input from the keyboard). The popover window that announces Grammarly is active can be turned off by checking the\nDon’t show this alert again\ncheckbox before closing the window. Additionally, when you press the keyboard shortcut to open the Grammarly assistant, a window will open, letting you know that keyboard mode has been activated. When you close this window, your focus will move to the Grammarly assistant. You can turn this window alert off as well, by checking the\nDon’t show this alert again\ncheckbox.\nKeyboard mode means two things: It moves focus to the assistant, and it allows you to navigate through and accept/reject Grammarly’s suggestions using keyboard shortcuts (instead of a mouse). The focus remains on the Grammarly assistant until you dismiss it with the escape key or you close the assistant with the close button.",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

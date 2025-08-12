@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/29727766416781-I-receive-requests-to-join-my-Grammarly-team",
+  "scraped_at": "2025-08-11T20:41:36.122610+00:00",
+  "title": "I receive requests to join my Grammarly team",
+  "content": "If you receive requests to join my Grammarly team from people you did not invite, it means your invite settings are configured to allow anyone with your corporate domain to discover your Grammarly team and request to join it.\nTo review pending membership requests, go to the\nMembers\npage and select the\nMembership requests\ntab at the top. From there, you can accept or decline these requests.\nNote:\nMembership requests are automatically canceled if no action is taken within 30 days.\nIf you’d like to stop receiving membership requests, go to the\nInvite Settings\npage and select\nOnly invited colleagues can join your account\n:",
+  "category": "Resolve Issues",
+  "tags": []
+}

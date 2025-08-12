@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/28935792710925-I-can-t-log-in-to-Grammarly-for-iPhone-and-iPad-with-my-login-details",
+  "scraped_at": "2025-08-11T20:30:27.663999+00:00",
+  "title": "I can't log in to Grammarly for iPhone and iPad with my login details",
+  "content": "Please try these steps to resolve this issue:\nReboot your Wi-Fi router and try signing in to Grammarly again. If you're using a 3G or 4G network, please check whether you're able to access the internet using your browser.\nIf you’re using a VPN and/or an antivirus app on your mobile device, temporarily turn them off.\nGo to\nSettings\n>\nSafari\nand make sure the options\nPrevent Cross-Site Tracking\nand\nBlock All Cookies\nare switched off.\nTry to log in to Grammarly for iPhone and iPad from another location (office, home, etc.) where the internet service provider is different.\nIf you registered your Grammarly account via Apple, please also try the following:\nOn your mobile device, open\nSettings\nand select your Apple account.\nGo to\nPassword & Security\n>\nApps Using Your Apple ID\n.\nFind and open Grammarly.\nTap\nStop using Apple ID\n.\nOpen the Grammarly app and select\nSign in with Apple\n.\nIf the issue persists, please take a full-screen screenshot of the problem and send it to us by submitting a request at\nContact Support\n.\nFor additional guidance on how to take a screenshot, visit this page:\nHow to take a screenshot of the issue I’m experiencing\n.",
+  "category": "Grammarly for iPhone and iPad",
+  "tags": []
+}

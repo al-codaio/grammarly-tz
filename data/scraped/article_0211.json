@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/24059143083277-Can-I-use-my-keyboard-to-navigate-Grammarly-for-Windows-and-Mac",
+  "scraped_at": "2025-08-11T20:37:13.979003+00:00",
+  "title": "Can I use my keyboard to navigate Grammarly for Windows and Mac?",
+  "content": "Yes, Grammarly for Windows and Mac supports keyboard navigation. Grammarly’s interface can be navigated using the\nTab\nkey to move to the next interactive element, and\nShift\n+\nTab\nto go back to the previous one. To activate a link or button, press\nEnter\nor\nSpace\n. Additionally, configurable shortcuts, detailed later in the article, can be used to access specific Grammarly functions.\nTo open the Grammarly assistant, please use the following key combination:\nOn Mac:\nShift\n+\nCtrl\n+\nCmd\n+\nG\n(or\nCtrl\n+\nG\n, if you’re using the\nAI Chat\n)\nOn Windows:\nShift\n+\nCtrl\n+\nAlt\n+\nG\nTo close the assistant, press\nEsc\n.\nAdditionally, to move to the next interactive element, press\nTab\n. To return to the previous interactive element, press\nShift\n+\nTab\n. To activate a link or a button, press\nEnter\nor\nSpace\n.\nTo open or close the\nsidebar\n, use the following key combination:\nOn Mac:\nShift\n+\nCmd\n+\nG\nOn Windows:\nShift\n+\nCtrl\n+\nG\nIf you see the corresponding option appear on your text, you can accept spelling, grammar, or punctuation suggestions by pressing\nTab\non your keyboard. See this article for more information:\nIntroducing quick fix\n.",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

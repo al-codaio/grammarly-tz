@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/10007640062605-How-do-I-reinstall-Grammarly-for-Microsoft-Office-for-all-users",
+  "scraped_at": "2025-08-11T20:31:53.234083+00:00",
+  "title": "How do I reinstall Grammarly for Microsoft Office for \"all users\"?",
+  "content": "To reinstall Grammarly for Microsoft Office on Windows for “all users,”, follow the steps below.\nRight-click the\nStart\nbutton in the lower-left corner of the screen and select\nApps and Features\non the pop-up menu. Click on\nGrammarly for Microsoft Office Suite\n> select\nUninstall.\nIf you use Windows 7: Uninstall your current version via\nControl Panel\n>\nPrograms and Features\n> right-click on\nGrammarly for Microsoft Office Suite\n> select\nUninstall.\nDownload the latest version from\nthis page\n.\nRight-click on the GrammarlyAddInSetup.exe file that has been downloaded to your machine and select\nRun as administrator.\nIf you don't have this option, log in to Windows using the administrator account and try again.\nWhen you see the “Welcome to Grammarly” window, hold down the\nShift\nand\nCtrl\nkeys on your keyboard, and then click\nGet Started.\nCheck the\nInstall for all users\noption and click\nNext\n:",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

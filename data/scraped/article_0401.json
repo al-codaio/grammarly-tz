@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/17774768944269-Error-message-Can-t-help-with-this-text",
+  "scraped_at": "2025-08-11T20:44:54.187591+00:00",
+  "title": "Error message: \"Can't help with this text\"",
+  "content": "If our generative AI assistance detects potentially sensitive language in the output it generates, users will receive an error message stating that its assistance is unavailable for that text or prompt:\nThis process helps ensure that the resulting AI-generated content and writing suggestions are free from harmful language.\nNote:\nYou can review our company’s stance and commitment to using generative AI in an ethical manner on the following web pages:\n1.\nHow Grammarly Is Writing New Standards for Responsible AI\n2.\nOur Commitment to the Responsible Innovation and Development of AI\nPlease keep in mind that if there is any potentially sensitive wording in your document, our generative AI assistance will not be available for the entire document.\nSome of the sensitive topics include, but are not limited to, the following:\nViolence\nReligion\nPolitics\nSex\nMedicine\nThis list may change as we work on finetuning our generative AI assistance. We appreciate your patience as we focus on optimizing your experience.\nIf you believe that your text does not contain sensitive language and wish to have our team investigate this further, please\ncontact Support\nand provide the sample of text that caused this error message to appear.\nIf the sentence or paragraph is part of a larger document, please also provide the complete text or document. While we won’t be able to fix the issue right away, this information will help us continually improve.",
+  "category": "Generative AI assistance",
+  "tags": []
+}

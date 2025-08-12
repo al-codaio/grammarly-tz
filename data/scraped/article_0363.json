@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4416824061453-I-received-an-email-from-Grammarly-but-I-do-not-have-an-account",
+  "scraped_at": "2025-08-11T20:43:22.479960+00:00",
+  "title": "I received an email from Grammarly, but I do not have an account",
+  "content": "This can happen if someone registered a Grammarly account under your email address (by mistyping their own, for example). In this case, the owner of the email (you) can delete the Grammarly account in question. To do this, please follow these steps:\nRequest a password reset at\nhttps://grammarly.com/resetpassword\nand follow the instructions provided in the email you’ll receive shortly after.\nLog in to Grammarly at\nhttps://app.grammarly.com\nwith the newly created password.\nNavigate to\nhttps://account.grammarly.com\nand click\nDelete account\nat the bottom of the page.",
+  "category": "Privacy and Security",
+  "tags": []
+}

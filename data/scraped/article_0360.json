@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4410366341773-My-team-is-using-single-sign-on-and-I-can-t-log-in",
+  "scraped_at": "2025-08-11T20:43:14.922737+00:00",
+  "title": "My team is using single sign-on, and I can’t log in",
+  "content": "If your organization uses SAML single sign-on for authentication to third-party applications and services, please sign in to Grammarly through your identity provider, such as Okta, Microsoft Entra ID, Google, or another.\nIf you do not see Grammarly listed among the available applications in your identity provider, we recommend contacting your organization’s IT support to request access to Grammarly.\nRelated articles\nError validating SAML message\nError: Unable to validate assertion\nWe enabled SSO, but some members are prompted to enter passwords",
+  "category": "Resolve Issues",
+  "tags": []
+}

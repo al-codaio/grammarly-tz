@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415373748493-I-can-t-sign-in-Unable-to-sign-you-in-because-there-is-a-personal-Grammarly-account-associated-with-your-work-email-address",
+  "scraped_at": "2025-08-11T20:48:01.308909+00:00",
+  "title": "I can’t sign in: Unable to sign you in because there is a personal Grammarly account associated with your work email address",
+  "content": "This notification indicates that your organization allows the use of work email addresses only for accounts that are part of its Grammarly subscription.\nIf you want to continue using your Grammarly account individually, change your email address by following the steps in this article:\nI need to change my email address\nTo join your organization’s Grammarly subscription using your work email address, please sign in to Grammarly through your organization’s identity provider, such as Okta, Microsoft Entra ID, Google, or another.",
+  "category": "Resolve Issues",
+  "tags": []
+}

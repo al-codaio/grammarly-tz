@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360041204871-I-did-not-receive-a-confirmation-email",
+  "scraped_at": "2025-08-11T20:42:04.861968+00:00",
+  "title": "I did not receive a confirmation email",
+  "content": "To resolve this issue, please try the following steps:\nCheck your spam or junk folder and any tabs in your inbox.\nAdd the following email addresses to your email contact list and try requesting a confirmation email again:\nhello@mail.grammarly.com\nhello@info.grammarly.com\nhello@notification.grammarly.com\nIf the confirmation email still doesn’t arrive, your firewall, email server, or filter is likely blocking Grammarly’s emails. We recommend contacting your IT department or your email service provider’s customer support to add the following IP addresses and domains to the allowed list:\nIP addresses:\n168.203.32.162\n168.203.32.146\n168.203.32.149\n168.203.32.144\n168.203.32.145\nDomains:\nmail.grammarly.com\ninfo.grammarly.com\nnotification.grammarly.com\nOnce you’ve followed these steps, please request a confirmation email again.",
+  "category": "Resolve Issues",
+  "tags": []
+}

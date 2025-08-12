@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360052374432-Error-System-NullReferenceException",
+  "scraped_at": "2025-08-11T20:31:34.360841+00:00",
+  "title": "Error: System.NullReferenceException",
+  "content": "Follow these steps to resolve the issue:\nUninstall your current version of the Grammarly add-in via\nControl Panel\n>\nPrograms and Features\n> right-click on\nGrammarly for Microsoft Office Suite\n> select\nUninstall\n.\nIf you use Windows 10:\nRight-click the\nStart\nbutton in the lower left corner of the screen, and select\nApps and Features\non the pop-up menu. Click on\nGrammarly for Microsoft Office Suite\n> select\nUninstall\n.\nDownload the latest version from\nhttps://www.grammarly.com/office-addin/downloading\nRight-click on the GrammarlyAddInSetup.exe file that has been downloaded to your machine and choose\nRun as administrator\n. If you don’t have this option, log in to Windows using the administrator account and install the add-in.\nIf Grammarly for Microsoft Office doesn’t work after trying these steps, and you’re using Windows 10 or newer, we suggest switching to\nGrammarly for Windows\n. This product offering also supports integration with Microsoft Word and Outlook. To find out more, check out\nthis article\n.\nAlternatively, you can give\nthe Grammarly Editor\na try. For more information about the Grammarly Editor, visit\nthis page\n.",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

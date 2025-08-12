@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/18151199767949-How-to-collect-Grammarly-browser-extension-logs",
+  "scraped_at": "2025-08-11T20:43:36.631266+00:00",
+  "title": "How to collect Grammarly browser extension logs",
+  "content": "Error logs are typically requested by our Support team when there is a technical issue with the Grammarly browser extension. If you experience a technical issue, please check out the\nResolve Issues\nsection of our Support site first.\nTo collect the Grammarly browser extension logs, please follow the steps below:\nClick the Grammarly icon in your browser’s toolbar. If the Grammarly icon isn't visible in your browser's toolbar, click the\nExtensions\nicon (represented by the puzzle piece) and select Grammarly from the list.\nTip:\nFor easy access in the future, you can also choose to pin Grammarly for Chrome within your toolbar by selecting the\nPin\nicon within the\nExtensions\nmenu.\nWith the Grammarly browser extension menu open, press and hold\nOption+Ctrl+Shift+D\n(macOS) or\nAlt+Ctrl+Shift+D\n(Windows/ChromeOS) on your keyboard to reveal the\nDebug Menu.\nScroll down to the bottom of the Grammarly browser extension menu and switch on\nLogging\nand\nAdvanced Logging:\nNote:\nAdvanced Logging may temporarily affect the performance of Grammarly and your computer.\nOpen the website where the issue occurs and try to reproduce it.\nOnce you’ve reproduced it, click\nDownload Logs\nwithin the\nDebug Menu.\nShare the logs with us as an attachment.\nTo turn off logging within Grammarly for Chrome, scroll down to the bottom of the Grammarly browser extension menu and switch off\nLogging.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

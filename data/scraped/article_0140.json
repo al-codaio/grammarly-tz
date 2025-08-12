@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360052374532-Error-System-InvalidOperationException",
+  "scraped_at": "2025-08-11T20:34:28.341876+00:00",
+  "title": "Error: System.InvalidOperationException",
+  "content": "Follow these steps to resolve the issue:\nUninstall your current version of the Grammarly add-in via\nControl Panel\n>\nPrograms and Features\n> right-click on\nGrammarly for Microsoft Office Suite\n> select\nUninstall\n.\nIf you use Windows 10:\nRight-click the\nStart\nbutton in the lower left corner of the screen, and select\nApps and Features\non the pop-up menu. Click on\nGrammarly for Microsoft Office Suite\n> select\nUninstall\n.\nDownload Grammarly for Microsoft Office at\nhttps://www.grammarly.com/office-addin/downloading\nDouble-click the GrammarlyAddInSetup.exe file\nWhen you see the “Welcome to Grammarly” window, click\nGet Started\nwhile pressing the Shift and Ctrl keys on your keyboard.\nCheck the\nInstall for all users\noption and click\nNext\n:\nIf you don’t see the option to install for all users, please download and run\nthis file\n.\nIf Grammarly for Microsoft Office doesn’t work after trying these steps, and you’re using Windows 10 or newer, we suggest switching to\nGrammarly for Windows\n. This product offering also supports integration with Microsoft Word and Outlook. To find out more, check out\nthis article\n.\nAlternatively, you can give\nthe Grammarly Editor\na try. For more information about the Grammarly Editor, visit\nthis page\n.",
+  "category": "Grammarly for Microsoft Office",
+  "tags": []
+}

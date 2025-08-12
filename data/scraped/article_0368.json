@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/9182515060877-Error-Sorry-your-plan-could-not-be-changed-at-this-time",
+  "scraped_at": "2025-08-11T20:43:34.258381+00:00",
+  "title": "Error: Sorry, your plan could not be changed at this time",
+  "content": "This error message may appear when you’re trying to adjust your subscription preferences in the following cases:\n1. You purchased a subscription via the Apple App Store or Google Play Store and tried to apply a promotional offer or change your subscription.\nThe Apple App Store and Google Play Store manage the billing process on their side. As a result, promotional offers cannot be applied to those subscriptions, and attempts to change your plan via our website won’t be successful.\nIf you’d like to change your plan, follow\nthese steps\nif you used the App Store or\nthese steps\nif you used the Google Play Store.\nIf you’d like to benefit from future promotional offers, we suggest canceling your current subscription and, once it expires, purchasing a new one via our website once an offer becomes available.\n2. You signed up for a free trial of Grammarly and tried to apply a promotional offer.\nThe option to apply a promo offer while your account is on a 7-day free trial is currently unavailable. However, once your free trial ends, you’ll be able to benefit from future promo offers.\nIf none of these cases apply, feel free to\ncontact our Support team\nfor assistance.",
+  "category": "Manage Payments",
+  "tags": []
+}

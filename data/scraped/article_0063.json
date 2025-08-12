@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360046272532-Can-I-stop-Grammarly-from-checking-text-in-quotes",
+  "scraped_at": "2025-08-11T20:31:29.831654+00:00",
+  "title": "Can I stop Grammarly from checking text in quotes?",
+  "content": "You can adjust your document settings to stop Grammarly from checking text that appears inside quotation marks. At this time, this setting is available only in\nthe Grammarly Editor\n.\nTo prevent Grammarly from offering suggestions on quoted text, click the\nMenu\nicon (shown as three horizontal lines) in the upper-left corner and select\nEditor settings\n. In the window that opens next, switch on\nDon’t check text inside quotes\n:\nWhen you activate this setting, Grammarly will not make spelling or grammar suggestions for quoted text. However, this text will still be checked for plagiarism if you activate the plagiarism checker.",
+  "category": "Grammarly Editor (classic)",
+  "tags": []
+}

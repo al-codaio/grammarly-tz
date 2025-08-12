@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/17775079326349-Error-message-Something-went-wrong",
+  "scraped_at": "2025-08-11T20:45:25.514831+00:00",
+  "title": "Error message: \"Something went wrong\"",
+  "content": "This error message may appear if the prompt window has been left open for an extended period of time or if you have navigated to another window and the service timed out.\nTo troubleshoot this issue, please refresh the page where the problem occurred and try entering your prompt once more. If the issue occurs in a desktop application, please close the application and reopen it.\nIf the issue persists, please\ncontact Support\nso that our team can investigate this matter further for you.",
+  "category": "Generative AI assistance",
+  "tags": []
+}

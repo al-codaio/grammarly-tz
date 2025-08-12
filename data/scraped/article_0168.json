@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000091391-Does-Grammarly-work-in-Pages",
+  "scraped_at": "2025-08-11T20:35:33.377510+00:00",
+  "title": "Does Grammarly work in Pages?",
+  "content": "You can use Grammarly in Pages by installing\nGrammarly for Mac\non your computer if you have macOS 10.15 or newer. To find out more about Grammarly for Mac, check out\nthis article\n.\nIf you use an older version of macOS, you can also upload your documents to\nthe Grammarly Editor\n.\nNote:\nAt this time, the Grammarly Editor supports these file types only: Microsoft Word (.doc, .docx), OpenOffice (.odt), .txt and .rtf.\nTo upload a Pages document to the Grammarly Editor, save it in .docx or .doc format by following the steps below:\nOpen the file you want to convert into a .docx/.doc document.\nIn the menu bar, click\nFile\n→\nExport To\n.\nSelect\nWord\nNext, click\nAdvanced Options\n. You should see a drop-down menu titled\nFormat\n.\nNow, choose the appropriate file format – \".docx\" or \".doc\"\nClick\nNext\n.\nType a name for the Word document, pick a destination, and click\nExport\n.",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

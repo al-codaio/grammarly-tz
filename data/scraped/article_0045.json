@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000090451-Error-Grammarly-is-active-but-key-features-are-missing",
+  "scraped_at": "2025-08-11T20:30:48.432599+00:00",
+  "title": "Error: Grammarly is active, but key features are missing",
+  "content": "To resolve this issue, follow the instructions below:\nChrome\nFirefox\nEdge\nIf you are logged in to your Grammarly account at\nhttps://\napp.grammarly.com\n, but the issue persists, right-click the G icon in the browser's toolbar, click\nThis Can Read and Change Site Data\n, and check the box next to\nOn All Sites\n:\nThen, please restart your browser and check if the issue persists.\nIf you are logged in to your Grammarly account at\nhttps://\napp.grammarly.com\n, but the issue persists, please configure your browser's settings at\nabout:Preferences#privacy\nas shown in the screenshot below:\nThen, restart Firefox to make sure the change is applied and sign in to Grammarly again. Please note that the change won't be applied by reloading the tabs.\nIf you are logged in to your Grammarly account at\nhttps://\napp.grammarly.com\n, but the issue persists, right-click the G icon in your browser's toolbar, click\nThis Can Read and Change Site Data\n, and check the box next to\nOn All Sites\n:\nThen, please restart your browser and check if the issue persists.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

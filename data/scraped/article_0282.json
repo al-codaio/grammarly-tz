@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360057393832-Error-The-browser-you-re-using-doesn-t-support-JavaScript-or-has-JavaScript-turned-off",
+  "scraped_at": "2025-08-11T20:40:07.018146+00:00",
+  "title": "Error: The browser you’re using doesn’t support JavaScript, or has JavaScript turned off",
+  "content": "If you are trying to log in to Grammarly for Microsoft Word on Mac and you used Google to create your account, you might encounter this issue:\nTo resolve the issue, please reinstall Grammarly for Microsoft Word on Mac:\nOpen Microsoft Word on your Mac.\nIn the\nInsert\nmenu, navigate to\nMy Add-ins\n.\nSelect\nGrammarly for Microsoft Word\n, and then click the three dots in the top right corner next to it.\nIn the drop-down menu, click\nRemove\n.\nRestart Microsoft Word.\nThen, open a blank Microsoft Word document on your Mac.\nOpen the\nInsert\nmenu and click\nGet Add-ins\nor\nStore\n.\nType\nGrammarly\nin the search field and press\nEnter\n.\nNext to\nGrammarly for Microsoft Word\n, click\nAdd\n.\nAlternatively, you\ncan set a password for your Grammarly account at\nhttps://www.grammarly.com/resetpassword\n. Once that’s done, you can log in to Grammarly for Microsoft Word on Mac using your email address and the new password.\nIf the issue persists after trying these steps, we suggest switching to\nGrammarly for Mac\n. This product offering also supports integration with Microsoft Word and Outlook. To find out more, check out\nthis article\n.\nYou can also give\nthe Grammarly Editor\na try. For more information about the Grammarly Editor, visit\nthis page\n.",
+  "category": "Grammarly for Microsoft Word on Mac",
+  "tags": []
+}

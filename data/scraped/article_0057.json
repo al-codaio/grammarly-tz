@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/27953439227405-Error-Something-went-wrong-when-I-use-the-Improve-it-feature-on-Android",
+  "scraped_at": "2025-08-11T20:31:16.043325+00:00",
+  "title": "Error: \"Something went wrong\" when I use the \"Improve it\" feature on Android",
+  "content": "If you see the error message \"Something went wrong\" while using Grammarly’s generative AI assistance on your Android device, try following these instructions to troubleshoot it:\nOpen your device’s settings, go to\nNetwork\nor\nConnections\n, and try to fix or reset network settings if such an option is available.\nCheck whether you have a stable internet connection and whether you can access the internet using your browser.\nTemporarily turn off your VPN (if you are using one).\nSwitch between Wi-Fi and cellular connections and see if the issue is only happening on a particular network.\nRestart your device.",
+  "category": "Grammarly for Android",
+  "tags": []
+}

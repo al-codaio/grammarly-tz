@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/29727043766413-People-who-I-did-not-invite-joined-my-Grammarly-team",
+  "scraped_at": "2025-08-11T20:34:23.745054+00:00",
+  "title": "People who I did not invite joined my Grammarly team",
+  "content": "This can happen if your invite settings are configured to allow anyone with your corporate domain to discover your Grammarly team and join without an invitation.\nIf there are vacant seats in your plan, new members will occupy those seats first. If all seats are occupied, more seats for new members will be added to your plan, and they will be able to use Grammarly for free for up to two months.\nWithin a two-month period, you will be charged for each additional seat based on the days remaining in your current subscription period.\nYou can see the number of additional seats in use and the scheduled charge date on your\nSubscription\npage.\nTo avoid charges for additional seats, remove the team members who occupy these seats on the\nMembers\npage at least 24 hours before the scheduled charge date.\nIf you’d like to prevent new members from automatically joining your Grammarly team, you can change this on the\nInvite Settings\npage:\nTo have the option to approve or reject new members’ requests to join your Grammarly team, check the box next to\nRequire admin approval\n.\nIf you’d like further control over who can join your Grammarly team, select\nOnly invited colleagues can join your account\n.",
+  "category": "Resolve Issues",
+  "tags": []
+}

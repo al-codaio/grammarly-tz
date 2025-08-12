@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4415366537229-I-can-t-test-SSO-Error-validating-the-SSO-certificate",
+  "scraped_at": "2025-08-11T20:37:33.660019+00:00",
+  "title": "I can’t test SSO: Error validating the SSO certificate",
+  "content": "If you see this error when setting up SSO, it might indicate that the certificate is invalid or corrupted.\nThe certificate can be invalid if:\nthe wrong certificate is used\nthe certificate is copied incorrectly\nthe certificate has expired\nTo resolve this issue, we recommend the following steps:\nIn your identity provider, check if the certificate is active and not expired.\nDownload the certificate, open the file in the text editor, and copy the content to\nthe Grammarly SSO set-up page\n. Make sure that the content is copied correctly.\nIf this doesn’t resolve the issue, we recommend generating a new certificate in your identity provider and configuring SSO on the Grammarly side using the new certificate.\nNote:\nWith Microsoft Entra ID (Azure AD), there can be a delay in updating the parameters on the Entra ID side. To avoid any issues with configuring SSO on the Grammarly side, we recommend waiting 1–2 hours after generating the certificate in Entra ID and before enabling SSO in the Grammarly interface.",
+  "category": "Resolve Issues",
+  "tags": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/13510454089357-Configure-SCIM-provisioning-with-Rippling",
+  "scraped_at": "2025-08-11T20:33:00.484427+00:00",
+  "title": "Configure SCIM provisioning with Rippling",
+  "content": "Included in:\nGrammarly Enterprise plans\nManaged by:\nAdmins\nThis guide provides the steps required to configure SCIM provisioning for Grammarly in Rippling. For general information about SCIM provisioning, please refer to this article:\nConfigure SCIM provisioning\nTopics covered in this article:\nFeatures\nRequirements\nStep-by-Step Configuration Instructions\nFeatures\nThe following provisioning features are supported in Rippling:\nCreate users in Grammarly\nRemove users in Grammarly when they no longer require access\nKeep user attributes synchronized between Rippling and Grammarly\nRequirements\nA Rippling\naccount\nA user account in Rippling with permission to configure provisioning\nA\nGrammarly Enterprise\nor\nGrammarly for Education\naccount with the\nadmin role\nor a designated custom role\nA Grammarly\napp configured in Rippling\nSAML Single Sign-On (SSO) enabled in Grammarly\nStep-by-Step Configuration Instructions\nContact the\nGrammarly Support team\nand request a SCIM token. Please specify if you’d like to receive it attached in an email reply or uploaded to a cloud drive.\nLaunch the\nRippling API Configuration Wizard\nfor Grammarly in the\nRippling App Shop\n.\nWhen prompted, paste the SCIM token into the\nGrammarly Business Bearer Token\nfield.\nComplete the Rippling API Configuration Wizard for Grammarly.",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

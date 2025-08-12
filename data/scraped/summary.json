@@ -1,0 +1,2496 @@
+{
+  "total_articles": 489,
+  "scraped_at": "2025-08-11T20:48:25.042194+00:00",
+  "categories": [
+    "Sign-in Help",
+    "Weekly Progress Reports",
+    "Grammarly for iPhone",
+    "Grammarly for iPhone and iPad",
+    "Bug Resolution Updates",
+    "Configure Access & Security",
+    "Grammarly Browser Extension",
+    "Common Questions",
+    "Manage Members & Permissions",
+    "Update Your Account",
+    "Generative AI assistance",
+    "Grammarly Editor",
+    "Grammarly for Windows and Mac",
+    "Fraud FAQ",
+    "Account Settings",
+    "Resolve Issues",
+    "Ideas & Feedback",
+    "Manage Subscription & Billing",
+    "Grammarly for Android",
+    "Grammarly for iPad",
+    "Grammarly Editor (classic)",
+    "Grammarly's Affiliate Program",
+    "Plagiarism Checker",
+    "Agents",
+    "Grammarly's Referral Program",
+    "Team Features",
+    "SAML Single Sign-On",
+    "Questions about Grammarly features",
+    "Grammarly for Microsoft Word on Mac",
+    "Grammarly for Microsoft Office",
+    "Privacy and Security",
+    "Other Tips & Tutorials",
+    "Grammarly API",
+    "Grammarly for Nonprofits and NGOs",
+    "Manage Payments",
+    "Deployment Guide for IT Teams",
+    "Account Security",
+    "Other Grammarly Services",
+    "Grammarly for Samsung Keyboard",
+    "Grammarly for Education",
+    "How to Upgrade",
+    "Docs",
+    "Grammarly Pro"
+  ],
+  "articles": [
+    {
+      "title": "Configure SCIM provisioning with Okta",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360058725831-Configure-SCIM-provisioning-with-Okta",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Does Grammarly charge tax?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/33154429182861-Does-Grammarly-charge-tax",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Group manager permissions for team members",
+      "url": "https://support.grammarly.com/hc/en-us/articles/19026306820109-Group-manager-permissions-for-team-members",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "How do I uninstall Grammarly for Microsoft Word on Mac?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041472171-How-do-I-uninstall-Grammarly-for-Microsoft-Word-on-Mac",
+      "category": "Grammarly for Microsoft Word on Mac"
+    },
+    {
+      "title": "Error message: The application was unable to start correctly (0xc0000135)",
+      "url": "https://support.grammarly.com/hc/en-us/articles/7144890844685--Error-message-The-application-was-unable-to-start-correctly-0xc0000135",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Introducing Grammarly’s Writing Score Canvas Integration",
+      "url": "https://support.grammarly.com/hc/en-us/articles/33433628591629-Introducing-Grammarly-s-Writing-Score-Canvas-Integration",
+      "category": "Grammarly for Education"
+    },
+    {
+      "title": "I signed up with the wrong email",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089972-I-signed-up-with-the-wrong-email",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "Grammarly for Windows and Mac doesn’t appear in Microsoft Word",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4428237509645-Grammarly-for-Windows-and-Mac-doesn-t-appear-in-Microsoft-Word",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Customize writing preferences",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4410375670541-Customize-writing-preferences",
+      "category": "Team Features"
+    },
+    {
+      "title": "How to update my phone number",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360059175872-How-to-update-my-phone-number",
+      "category": "Account Security"
+    },
+    {
+      "title": "Grammarly's Bug Resolution Updates",
+      "url": "https://support.grammarly.com/hc/en-us/articles/19810879382285-Grammarly-s-Bug-Resolution-Updates",
+      "category": "Bug Resolution Updates"
+    },
+    {
+      "title": "I can’t join the team: There are no available seats in this organization",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360049254951-I-can-t-join-the-team-There-are-no-available-seats-in-this-organization",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Introducing the Effective Communication Score",
+      "url": "https://support.grammarly.com/hc/en-us/articles/32478363601549-Introducing-the-Effective-Communication-Score",
+      "category": "Team Features"
+    },
+    {
+      "title": "Grammarly for Windows or Grammarly for Mac crashes",
+      "url": "https://support.grammarly.com/hc/en-us/articles/36124112455949-Grammarly-for-Windows-or-Grammarly-for-Mac-crashes",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "I don’t see the full list of suggestions when using the Grammarly browser extension",
+      "url": "https://support.grammarly.com/hc/en-us/articles/5321259769357-I-don-t-see-the-full-list-of-suggestions-when-using-the-Grammarly-browser-extension",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Can I change how many suggestions I see at a time?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/13109812751117-Can-I-change-how-many-suggestions-I-see-at-a-time",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "How to turn off autocorrect in Grammarly for iPhone",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000729831-How-to-turn-off-autocorrect-in-Grammarly-for-iPhone",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Set up SSO with OneLogin",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360052210371-Set-up-SSO-with-OneLogin",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "How does Grammarly for Safari on iOS work?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4409116148237-How-does-Grammarly-for-Safari-on-iOS-work",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Grammarly for Safari doesn't appear on a website",
+      "url": "https://support.grammarly.com/hc/en-us/articles/20888320537485-Grammarly-for-Safari-doesn-t-appear-on-a-website",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "I don't see a sidebar with Grammarly's suggestions",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360038128432-I-don-t-see-a-sidebar-with-Grammarly-s-suggestions",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Select between British English, American English, Canadian English, Australian English, and Indian English",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089992-Select-between-British-English-American-English-Canadian-English-Australian-English-and-Indian-English",
+      "category": "Account Settings"
+    },
+    {
+      "title": "Why was I charged more than the last time?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/31858319855373-Why-was-I-charged-more-than-the-last-time",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "We enabled SSO, but some members are prompted to enter passwords",
+      "url": "https://support.grammarly.com/hc/en-us/articles/29756026978317-We-enabled-SSO-but-some-members-are-prompted-to-enter-passwords",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "How to install Grammarly for Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/15606513164429-How-to-install-Grammarly-for-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "I can’t log in to Grammarly for Windows and Mac or it logs me out all the time",
+      "url": "https://support.grammarly.com/hc/en-us/articles/6580956538765-I-can-t-log-in-to-Grammarly-for-Windows-and-Mac-or-it-logs-me-out-all-the-time",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Error: Can't open Grammarly",
+      "url": "https://support.grammarly.com/hc/en-us/articles/24827424872333-Error-Can-t-open-Grammarly",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Update payment method",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000932412-Update-payment-method",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "How do I cancel my Grammarly subscription?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090172-How-do-I-cancel-my-Grammarly-subscription",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "How to choose where Grammarly for Windows and Mac works",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4406998780813-How-to-choose-where-Grammarly-for-Windows-and-Mac-works",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "How do I set a password if I registered using Google, Facebook, or Apple?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360058560411-How-do-I-set-a-password-if-I-registered-using-Google-Facebook-or-Apple",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "Error: Sorry, Office 365 has been configured to prevent individual acquisition of Office Add-ins.",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041042352-Error-Sorry-Office-365-has-been-configured-to-prevent-individual-acquisition-of-Office-Add-ins",
+      "category": "Grammarly for Microsoft Word on Mac"
+    },
+    {
+      "title": "I haven't received a text message with a verification code",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360059603051-I-haven-t-received-a-text-message-with-a-verification-code",
+      "category": "Account Security"
+    },
+    {
+      "title": "Introducing your writing progress dashboard",
+      "url": "https://support.grammarly.com/hc/en-us/articles/21940617172877-Introducing-your-writing-progress-dashboard",
+      "category": "Team Features"
+    },
+    {
+      "title": "What data does Grammarly for Safari collect and process?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360054625491-What-data-does-Grammarly-for-Safari-collect-and-process",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "How do I use the Grammarly Keyboard on iPad?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045034851-How-do-I-use-the-Grammarly-Keyboard-on-iPad",
+      "category": "Grammarly for iPad"
+    },
+    {
+      "title": "I can't log in to Grammarly for iPhone and iPad with my login details",
+      "url": "https://support.grammarly.com/hc/en-us/articles/28935792710925-I-can-t-log-in-to-Grammarly-for-iPhone-and-iPad-with-my-login-details",
+      "category": "Grammarly for iPhone and iPad"
+    },
+    {
+      "title": "Remove team members",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000930532-Remove-team-members",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "Turn off the Grammarly browser extension",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091632-Turn-off-the-Grammarly-browser-extension",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "I have a paid account, but the Grammarly add-in prompts me to upgrade",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090532-I-have-a-paid-account-but-the-Grammarly-add-in-prompts-me-to-upgrade",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "I haven’t received a confirmation email on sign-up. What should I do?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4409116491149-I-haven-t-received-a-confirmation-email-on-sign-up-What-should-I-do",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "How do I check what devices are linked to my Grammarly account?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4418264113165-How-do-I-check-what-devices-are-linked-to-my-Grammarly-account",
+      "category": "Account Security"
+    },
+    {
+      "title": "Set up SSO with Centrify",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360049254651-Set-up-SSO-with-Centrify",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Download receipts",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041219071-Download-receipts",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "How to use Grammarly's generative AI on my mobile device",
+      "url": "https://support.grammarly.com/hc/en-us/articles/24086943816845-How-to-use-Grammarly-s-generative-AI-on-my-mobile-device",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Error: Grammarly is active, but key features are missing",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090451-Error-Grammarly-is-active-but-key-features-are-missing",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "How many generative AI prompts do I have?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/17775763102989-How-many-generative-AI-prompts-do-I-have",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Transfer the admin role to a team member",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360036905172-Transfer-the-admin-role-to-a-team-member",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "How does Grammarly for Microsoft Word work on Macs?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041471771-How-does-Grammarly-for-Microsoft-Word-work-on-Macs",
+      "category": "Grammarly for Microsoft Word on Mac"
+    },
+    {
+      "title": "About Grammarly Pro",
+      "url": "https://support.grammarly.com/hc/en-us/articles/25043801131149-About-Grammarly-Pro",
+      "category": "Grammarly Pro"
+    },
+    {
+      "title": "What do you mean by \"User Content\" in your Privacy Policy/Terms of Service?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003815952-What-do-you-mean-by-User-Content-in-your-Privacy-Policy-Terms-of-Service",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Grammarly shows I had no activity",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090771-Grammarly-shows-I-had-no-activity",
+      "category": "Weekly Progress Reports"
+    },
+    {
+      "title": "Does Grammarly offer autocorrect?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045029412-Does-Grammarly-offer-autocorrect",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Enable generative AI for your team",
+      "url": "https://support.grammarly.com/hc/en-us/articles/15090646612237-Enable-generative-AI-for-your-team",
+      "category": "Team Features"
+    },
+    {
+      "title": "How can I keep my Grammarly account secure?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090212-How-can-I-keep-my-Grammarly-account-secure",
+      "category": "Fraud FAQ"
+    },
+    {
+      "title": "Access Grammarly on a new device",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091571-Access-Grammarly-on-a-new-device",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Set up SSO with PingOne",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360049541012-Set-up-SSO-with-PingOne",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Error: \"Something went wrong\" when I use the \"Improve it\" feature on Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27953439227405-Error-Something-went-wrong-when-I-use-the-Improve-it-feature-on-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "I have an Indian credit card on file, and my renewal payment doesn’t go through",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412769756557-I-have-an-Indian-credit-card-on-file-and-my-renewal-payment-doesn-t-go-through",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "App actions data sharing",
+      "url": "https://support.grammarly.com/hc/en-us/articles/21849156621837-App-actions-data-sharing",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Error: \"Grammarly Assistant is not enabled right now\"",
+      "url": "https://support.grammarly.com/hc/en-us/articles/25028519116429-Error-Grammarly-Assistant-is-not-enabled-right-now",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "Problems signing in",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089892-Problems-signing-in",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "Network configuration blocks Grammarly services",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090271-Network-configuration-blocks-Grammarly-services",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Can I stop Grammarly from checking text in quotes?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360046272532-Can-I-stop-Grammarly-from-checking-text-in-quotes",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Ask your admin to enable app actions",
+      "url": "https://support.grammarly.com/hc/en-us/articles/23896396976781-Ask-your-admin-to-enable-app-actions",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Error: System.NullReferenceException",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360052374432-Error-System-NullReferenceException",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Create style rules",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360043832652-Create-style-rules",
+      "category": "Team Features"
+    },
+    {
+      "title": "Add or remove seats",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000930491-Add-or-remove-seats",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "Can I sign up for beta testing of Grammarly for Android?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/34666347423629-Can-I-sign-up-for-beta-testing-of-Grammarly-for-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "How to reinstall Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360039004612-How-to-reinstall-Grammarly-for-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How to send advanced user diagnostic information to Grammarly",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090612-How-to-send-advanced-user-diagnostic-information-to-Grammarly",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Can I use Grammarly offline?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091011-Can-I-use-Grammarly-offline",
+      "category": "Common Questions"
+    },
+    {
+      "title": "How to share a copy of my Google Docs document",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10007614860813-How-to-share-a-copy-of-my-Google-Docs-document",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "How do I reinstall Grammarly for Microsoft Office for \"all users\"?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10007640062605-How-do-I-reinstall-Grammarly-for-Microsoft-Office-for-all-users",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How do you create the weekly Grammarly Insights reports I get in my email?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003816132-How-do-you-create-the-weekly-Grammarly-Insights-reports-I-get-in-my-email",
+      "category": "Common Questions"
+    },
+    {
+      "title": "I can’t provision a user: There are no available seats in the organization",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415389035405-I-can-t-provision-a-user-There-are-no-available-seats-in-the-organization",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Deactivate SSO",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360049254711-Deactivate-SSO",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Changing your email to an email that already exists",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090791-Changing-your-email-to-an-email-that-already-exists",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "Does Grammarly offer a trial?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360033548272-Does-Grammarly-offer-a-trial",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Error: SSO is not enabled/active for your organization",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415367249165-Error-SSO-is-not-enabled-active-for-your-organization",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Set up SSO with Okta",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360048773252-Set-up-SSO-with-Okta",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "I can’t sign in to my admin account using SSO",
+      "url": "https://support.grammarly.com/hc/en-us/articles/17009076093197-I-can-t-sign-in-to-my-admin-account-using-SSO",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Why is my account associated with an email ending in privaterelay.appleid.com?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045030012-Why-is-my-account-associated-with-an-email-ending-in-privaterelay-appleid-com",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "How do I switch from a team plan to an individual plan?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/36062098867981-How-do-I-switch-from-a-team-plan-to-an-individual-plan",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "I experience issues in Microsoft Word",
+      "url": "https://support.grammarly.com/hc/en-us/articles/22595729580301-I-experience-issues-in-Microsoft-Word",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Microsoft Office is slow or crashes when I'm using Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360039005112-Microsoft-Office-is-slow-or-crashes-when-I-m-using-Grammarly-for-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How can I improve my organization’s Effective Communication Score?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/33753422373389-How-can-I-improve-my-organization-s-Effective-Communication-Score",
+      "category": "Team Features"
+    },
+    {
+      "title": "I need to change my email address",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089932-I-need-to-change-my-email-address",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "Does Grammarly support Word Online?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360046670892-Does-Grammarly-support-Word-Online",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Create organizational dictionary",
+      "url": "https://support.grammarly.com/hc/en-us/articles/14441067751309-Create-organizational-dictionary",
+      "category": "Team Features"
+    },
+    {
+      "title": "Get started with Grammarly for Education",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090152-Get-started-with-Grammarly-for-Education",
+      "category": "Grammarly for Education"
+    },
+    {
+      "title": "Does Grammarly offer autocomplete?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360053604991-Does-Grammarly-offer-autocomplete",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "I can’t invite team members: Unable to process payment",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360040781412-I-can-t-invite-team-members-Unable-to-process-payment",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Humanizer user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38552339652109-Humanizer-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "Institutional and business licensing",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091671-Institutional-and-business-licensing",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "WebSockets Configuration Troubleshooting",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360000921692-WebSockets-Configuration-Troubleshooting",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "How many devices can I use Grammarly on?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360001784711-How-many-devices-can-I-use-Grammarly-on",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Docs: Grammarly’s new AI writing surface—user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38552281546765-Docs-Grammarly-s-new-AI-writing-surface-user-guide",
+      "category": "Docs"
+    },
+    {
+      "title": "Grammarly says my browser is not compatible",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090291-Grammarly-says-my-browser-is-not-compatible",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Who are Grammarly's business partners?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003835411-Who-are-Grammarly-s-business-partners",
+      "category": "Common Questions"
+    },
+    {
+      "title": "How to uninstall Grammarly for Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/34666169822221-How-to-uninstall-Grammarly-for-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "Download Grammarly’s Saudi Arabia VAT registration certificate",
+      "url": "https://support.grammarly.com/hc/en-us/articles/20090749731213-Download-Grammarly-s-Saudi-Arabia-VAT-registration-certificate",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Configure SCIM provisioning with Rippling",
+      "url": "https://support.grammarly.com/hc/en-us/articles/13510454089357-Configure-SCIM-provisioning-with-Rippling",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Enterprise domain controls for new signups and existing users",
+      "url": "https://support.grammarly.com/hc/en-us/articles/33885668963469-Enterprise-domain-controls-for-new-signups-and-existing-users",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "What do I need to use Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090811-What-do-I-need-to-use-Grammarly",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Introducing generative AI assistance",
+      "url": "https://support.grammarly.com/hc/en-us/articles/14528857014285-Introducing-generative-AI-assistance",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Introducing strategic suggestions",
+      "url": "https://support.grammarly.com/hc/en-us/articles/25351804320397-Introducing-strategic-suggestions",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "What are the limitations when using Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090911-What-are-the-limitations-when-using-Grammarly",
+      "category": "Common Questions"
+    },
+    {
+      "title": "The password reset link redirects me to the login page",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360055103031-The-password-reset-link-redirects-me-to-the-login-page",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "What is Performance and how is it calculated?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360007144751-What-is-Performance-and-how-is-it-calculated",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Add Grammarly to an identity provider",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360048773472-Add-Grammarly-to-an-identity-provider",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Why do I see Grammarly ads?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/34231264478349-Why-do-I-see-Grammarly-ads",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Is Grammarly down?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360020646111-Is-Grammarly-down",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Common questions about weekly Grammarly Insights reports",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090892-Common-questions-about-weekly-Grammarly-Insights-reports",
+      "category": "Common Questions"
+    },
+    {
+      "title": "I get this message: Your organization’s Grammarly subscription has been deactivated/has expired",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415367480333-I-get-this-message-Your-organization-s-Grammarly-subscription-has-been-deactivated-has-expired",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Does Grammarly support Google Docs?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090991-Does-Grammarly-support-Google-Docs",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "How does Grammarly for Microsoft Office work?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091672-How-does-Grammarly-for-Microsoft-Office-work",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Does Grammarly own everything I write?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003816012-Does-Grammarly-own-everything-I-write",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Can Grammarly help me with citations and a bibliography?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/9182359307917-Can-Grammarly-help-me-with-citations-and-a-bibliography",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "Configure SCIM provisioning with Microsoft Entra ID (Azure AD)",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360058948112-Configure-SCIM-provisioning-with-Microsoft-Entra-ID-Azure-AD",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "What are the system requirements for Grammarly for Windows and Grammarly for Mac?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412835748877-What-are-the-system-requirements-for-Grammarly-for-Windows-and-Grammarly-for-Mac",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "What Apple's full access warning actually means",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115003339991-What-Apple-s-full-access-warning-actually-means",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "I need to change my password",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089951-I-need-to-change-my-password",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "How to use drafts in Grammarly for Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/22594543393805-How-to-use-drafts-in-Grammarly-for-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "Will I see advanced suggestions when using the Samsung Keyboard?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4408003986573-Will-I-see-advanced-suggestions-when-using-the-Samsung-Keyboard",
+      "category": "Grammarly for Samsung Keyboard"
+    },
+    {
+      "title": "Can I use Grammarly for iPad with a hardware keyboard?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045034891-Can-I-use-Grammarly-for-iPad-with-a-hardware-keyboard",
+      "category": "Grammarly for iPad"
+    },
+    {
+      "title": "Why was I charged for additional seats?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/31826911408653-Why-was-I-charged-for-additional-seats",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "Set up SSO with Google",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360051598552-Set-up-SSO-with-Google",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Grammarly logs me out",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360056546371-Grammarly-logs-me-out",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Error: Error loading add-ins",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041042212-Error-Error-loading-add-ins",
+      "category": "Grammarly for Microsoft Word on Mac"
+    },
+    {
+      "title": "Error: We weren't able to find a supported Microsoft Office product on your computer",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360036559831-Error-We-weren-t-able-to-find-a-supported-Microsoft-Office-product-on-your-computer",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Why was I charged during a free trial?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/9527130695309-Why-was-I-charged-during-a-free-trial",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "How to deactivate suggestions in Grammarly for Windows or Grammarly for Mac",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412837103117-How-to-deactivate-suggestions-in-Grammarly-for-Windows-or-Grammarly-for-Mac",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Analytics API",
+      "url": "https://support.grammarly.com/hc/en-us/articles/31543373220621-Analytics-API",
+      "category": "Grammarly API"
+    },
+    {
+      "title": "Android Go devices are no longer supported",
+      "url": "https://support.grammarly.com/hc/en-us/articles/33238912780045-Android-Go-devices-are-no-longer-supported",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "We no longer accept applications for Grammarly for Nonprofits and NGOs",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360054000712-We-no-longer-accept-applications-for-Grammarly-for-Nonprofits-and-NGOs",
+      "category": "Grammarly for Nonprofits and NGOs"
+    },
+    {
+      "title": "Does Grammarly offer generative AI assistance?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/13830705037965-Does-Grammarly-offer-generative-AI-assistance",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Who uses Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090891-Who-uses-Grammarly",
+      "category": "Common Questions"
+    },
+    {
+      "title": "People who I did not invite joined my Grammarly team",
+      "url": "https://support.grammarly.com/hc/en-us/articles/29727043766413-People-who-I-did-not-invite-joined-my-Grammarly-team",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "How to automatically join or send a request to join a team plan",
+      "url": "https://support.grammarly.com/hc/en-us/articles/19489029001869-How-to-automatically-join-or-send-a-request-to-join-a-team-plan",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "Error: System.InvalidOperationException",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360052374532-Error-System-InvalidOperationException",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How do I install Grammarly for Windows or Grammarly for Mac?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412835925389-How-do-I-install-Grammarly-for-Windows-or-Grammarly-for-Mac",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "I cannot access Grammarly through my Samsung Keyboard",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4408004008205-I-cannot-access-Grammarly-through-my-Samsung-Keyboard",
+      "category": "Grammarly for Samsung Keyboard"
+    },
+    {
+      "title": "I see a notification that Grammarly has been successfully installed",
+      "url": "https://support.grammarly.com/hc/en-us/articles/7144088232717-I-see-a-notification-that-Grammarly-has-been-successfully-installed",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Managing your settings in Grammarly for iPad",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360044592712-Managing-your-settings-in-Grammarly-for-iPad",
+      "category": "Grammarly for iPad"
+    },
+    {
+      "title": "How do I log in to my account in Grammarly for Safari on iOS?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4409120877197-How-do-I-log-in-to-my-account-in-Grammarly-for-Safari-on-iOS",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "How to install Grammarly for iPad",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045034751-How-to-install-Grammarly-for-iPad",
+      "category": "Grammarly for iPad"
+    },
+    {
+      "title": "AI Chat Support and FAQs",
+      "url": "https://support.grammarly.com/hc/en-us/articles/32389426694029-AI-Chat-Support-and-FAQs",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "How to check emails with Grammarly",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000271852-How-to-check-emails-with-Grammarly",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "Can I use my keyboard to navigate the Grammarly browser extension?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/34517006125837-Can-I-use-my-keyboard-to-navigate-the-Grammarly-browser-extension",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "I received an email that appears to be from Grammarly; how do I know if it’s legitimate?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4416837787149-I-received-an-email-that-appears-to-be-from-Grammarly-how-do-I-know-if-it-s-legitimate",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "I forgot my Grammarly account login",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089891-I-forgot-my-Grammarly-account-login",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "I've requested a password reset, but I haven't received an email yet",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089931-I-ve-requested-a-password-reset-but-I-haven-t-received-an-email-yet",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "Managing your keyboard settings in Grammarly for iPhone",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041391992-Managing-your-keyboard-settings-in-Grammarly-for-iPhone",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Organize exported team overview analytics data",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4403095501453-Organize-exported-team-overview-analytics-data",
+      "category": "Team Features"
+    },
+    {
+      "title": "I can't use Grammarly's generative AI features",
+      "url": "https://support.grammarly.com/hc/en-us/articles/15509056440461-I-can-t-use-Grammarly-s-generative-AI-features",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Product Improvement and Training Control",
+      "url": "https://support.grammarly.com/hc/en-us/articles/25555503115277-Product-Improvement-and-Training-Control",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Grammarly disappeared from Microsoft Word or Outlook",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090511-Grammarly-disappeared-from-Microsoft-Word-or-Outlook",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Why can’t I pass the CAPTCHA verification?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/34229560223885-Why-can-t-I-pass-the-CAPTCHA-verification",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "Introducing Knowledge Share",
+      "url": "https://support.grammarly.com/hc/en-us/articles/16664924710797-Introducing-Knowledge-Share",
+      "category": "Team Features"
+    },
+    {
+      "title": "Grammarly for Android disappeared",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27953375285901-Grammarly-for-Android-disappeared",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "I can’t sign in: Your account has been deactivated",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415389556365-I-can-t-sign-in-Your-account-has-been-deactivated",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Set up multi-tenant SSO with Microsoft Entra ID (Azure AD)",
+      "url": "https://support.grammarly.com/hc/en-us/articles/25045817701645-Set-up-multi-tenant-SSO-with-Microsoft-Entra-ID-Azure-AD",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Grammarly with other apps (Slack, Skype, Apple Mail, Discord, etc.)",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041105652-Grammarly-with-other-apps-Slack-Skype-Apple-Mail-Discord-etc",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Can Grammarly check the formatting style of my document?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360038975792-Can-Grammarly-check-the-formatting-style-of-my-document",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Can I download Grammarly to my computer?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090831-Can-I-download-Grammarly-to-my-computer",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Error: Can't connect to Grammarly or Something went wrong",
+      "url": "https://support.grammarly.com/hc/en-us/articles/5806184637325-Error-Can-t-connect-to-Grammarly-or-Something-went-wrong",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Error: \"Whoops! Adjust the cursor's position and try again”",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27953501271949-Error-Whoops-Adjust-the-cursor-s-position-and-try-again",
+      "category": "Grammarly for iPhone and iPad"
+    },
+    {
+      "title": "Does Grammarly work in Pages?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091391-Does-Grammarly-work-in-Pages",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "I can't log in to Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041827671-I-can-t-log-in-to-Grammarly-for-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How do I use my personal dictionary?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091491-How-do-I-use-my-personal-dictionary",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "About true-up billing",
+      "url": "https://support.grammarly.com/hc/en-us/articles/25256977816717-About-true-up-billing",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "Set up SSO with ClassLink",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10330583822477-Set-up-SSO-with-ClassLink",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Introducing billing groups",
+      "url": "https://support.grammarly.com/hc/en-us/articles/31296804338061-Introducing-billing-groups",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "Manage the admin’s seat",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360040793112-Manage-the-admin-s-seat",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "Enable confidential mode",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27455819234317-Enable-confidential-mode",
+      "category": "Configure Access & Security"
+    },
+    {
+      "title": "How to turn off Grammarly for Samsung Keyboard?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/5009674207245-How-to-turn-off-Grammarly-for-Samsung-Keyboard",
+      "category": "Grammarly for Samsung Keyboard"
+    },
+    {
+      "title": "Grammarly for Microsoft Office doesn't show suggestions",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090571-Grammarly-for-Microsoft-Office-doesn-t-show-suggestions",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "I need a quote to purchase a subscription",
+      "url": "https://support.grammarly.com/hc/en-us/articles/37173465011213-I-need-a-quote-to-purchase-a-subscription",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Manage team member roles",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360059662992-Manage-team-member-roles",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "I can't access the paid features after paying via the App Store or Google Play Store",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045353252-I-can-t-access-the-paid-features-after-paying-via-the-App-Store-or-Google-Play-Store",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "Configure SCIM provisioning",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4403054674829-Configure-SCIM-provisioning",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "How do I clear cache and cookies?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090272-How-do-I-clear-cache-and-cookies",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Why Grammarly needs full access on iOS",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000730091-Why-Grammarly-needs-full-access-on-iOS",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Grammarly for Windows and Grammarly for Mac user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412816078349-Grammarly-for-Windows-and-Grammarly-for-Mac-user-guide",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Why was I charged again?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090071-Why-was-I-charged-again",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "Grammarly for Android user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/15606282682637-Grammarly-for-Android-user-guide",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "Report grammar checking error",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090772-Report-grammar-checking-error",
+      "category": "Ideas & Feedback"
+    },
+    {
+      "title": "Error message: \"You're out of prompts\"",
+      "url": "https://support.grammarly.com/hc/en-us/articles/17776038294285-Error-message-You-re-out-of-prompts",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Change organization name",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360040792892-Change-organization-name",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "How do Grammarly’s tone suggestions work?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10674801783309-How-do-Grammarly-s-tone-suggestions-work",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "Error: \"Grammarly is temporarily unavailable!\" on Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27953468911629-Error-Grammarly-is-temporarily-unavailable-on-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "I'd like to edit my name",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089952-I-d-like-to-edit-my-name",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "How do I open my browser in incognito mode?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360053595331-How-do-I-open-my-browser-in-incognito-mode",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "I do not see the G icon on a certain web page or in a certain text field but see it on other web pages",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090392-I-do-not-see-the-G-icon-on-a-certain-web-page-or-in-a-certain-text-field-but-see-it-on-other-web-pages",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "The macOS spell-checker was turned off. How do I turn it back on?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10673656034829-The-macOS-spell-checker-was-turned-off-How-do-I-turn-it-back-on",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "What is Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090792-What-is-Grammarly",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Contact Grammarly Support",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000271412-Contact-Grammarly-Support",
+      "category": "Common Questions"
+    },
+    {
+      "title": "I can’t provision a user: SAML authentication unsuccessful because the user account hasn’t been provisioned",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415366821645-I-can-t-provision-a-user-SAML-authentication-unsuccessful-because-the-user-account-hasn-t-been-provisioned",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Can I use screen readers with the Grammarly browser extension?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/34666141058573-Can-I-use-screen-readers-with-the-Grammarly-browser-extension",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Error: A small error has occurred, causing an interruption of service",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360059177752-Error-A-small-error-has-occurred-causing-an-interruption-of-service",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "How to transfer Grammarly Pro plan ownership",
+      "url": "https://support.grammarly.com/hc/en-us/articles/36867353710349-How-to-transfer-Grammarly-Pro-plan-ownership",
+      "category": "Grammarly Pro"
+    },
+    {
+      "title": "Will my text show up as plagiarized if I use Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090872-Will-my-text-show-up-as-plagiarized-if-I-use-Grammarly",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Analyze my team’s writing performance",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360061408151-Analyze-my-team-s-writing-performance",
+      "category": "Team Features"
+    },
+    {
+      "title": "What is document domain, and how do I change it?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091472-What-is-document-domain-and-how-do-I-change-it",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "How to deactivate certain suggestions in the Grammarly Editor",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045784631-How-to-deactivate-certain-suggestions-in-the-Grammarly-Editor",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "About Grammarly Authorship",
+      "url": "https://support.grammarly.com/hc/en-us/articles/29548735595405-About-Grammarly-Authorship",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Grammarly's suggestions or buttons are unresponsive",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360047953292-Grammarly-s-suggestions-or-buttons-are-unresponsive",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Error: Unable to authenticate this SAML response because it has already been processed",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415367687181-Error-Unable-to-authenticate-this-SAML-response-because-it-has-already-been-processed",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Turn off Grammarly's browser extension in a text field",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091572-Turn-off-Grammarly-s-browser-extension-in-a-text-field",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Error message: \"Hmm, don't know that language\"",
+      "url": "https://support.grammarly.com/hc/en-us/articles/17774966110861-Error-message-Hmm-don-t-know-that-language",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Can I use my keyboard to navigate Grammarly for Windows and Mac?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/24059143083277-Can-I-use-my-keyboard-to-navigate-Grammarly-for-Windows-and-Mac",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "How to install the Grammarly browser extension",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091552-How-to-install-the-Grammarly-browser-extension",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Known issues on websites",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041953832-Known-issues-on-websites",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Commissions and remittance options",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360037054452-Commissions-and-remittance-options",
+      "category": "Grammarly's Affiliate Program"
+    },
+    {
+      "title": "How to install Grammarly as administrator",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090691-How-to-install-Grammarly-as-administrator",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "WebSockets Support Q&A for System Administrators",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090311-WebSockets-Support-Q-A-for-System-Administrators",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "What should I do if I suspect that my account was hacked?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041542831-What-should-I-do-if-I-suspect-that-my-account-was-hacked",
+      "category": "Fraud FAQ"
+    },
+    {
+      "title": "How does Grammarly charge my account?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090112-How-does-Grammarly-charge-my-account",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "I can’t test SSO: Error validating the SSO certificate",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415366537229-I-can-t-test-SSO-Error-validating-the-SSO-certificate",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Capture SAML assertion",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4402820842637-Capture-SAML-assertion",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Using the tone detector in the Grammarly browser extension",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360034328531-Using-the-tone-detector-in-the-Grammarly-browser-extension",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Who is the administrator of our team account?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/35334342967181-Who-is-the-administrator-of-our-team-account",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "How can I enable dark mode on iOS?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041392092-How-can-I-enable-dark-mode-on-iOS",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Grammarly’s product offerings",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090851-Grammarly-s-product-offerings",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Grammarly Proofreader user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091411-Grammarly-Proofreader-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "How to preserve text formatting in the Grammarly iPhone Editor",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412642922637-How-to-preserve-text-formatting-in-the-Grammarly-iPhone-Editor",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "I can't activate the plagiarism checker",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090632-I-can-t-activate-the-plagiarism-checker",
+      "category": "Plagiarism Checker"
+    },
+    {
+      "title": "Unsubscribe from Grammarly emails",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090032-Unsubscribe-from-Grammarly-emails",
+      "category": "Account Settings"
+    },
+    {
+      "title": "Grammarly Editor user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003474732-Grammarly-Editor-user-guide",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Introducing Grammarly's plugin for Figma and FigJam",
+      "url": "https://support.grammarly.com/hc/en-us/articles/24089819317389-Introducing-Grammarly-s-plugin-for-Figma-and-FigJam",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "How to record a video of a technical issue I’m experiencing",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10002357019405-How-to-record-a-video-of-a-technical-issue-I-m-experiencing",
+      "category": "Other Tips & Tutorials"
+    },
+    {
+      "title": "Configure Managed Mode",
+      "url": "https://support.grammarly.com/hc/en-us/articles/8341171286541-Configure-Managed-Mode",
+      "category": "Configure Access & Security"
+    },
+    {
+      "title": "Set brand tones",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4403544890253-Set-brand-tones",
+      "category": "Team Features"
+    },
+    {
+      "title": "Does Grammarly offer family plans?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38275806619661-Does-Grammarly-offer-family-plans",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Set up SSO with JumpCloud",
+      "url": "https://support.grammarly.com/hc/en-us/articles/30987878974989-Set-up-SSO-with-JumpCloud",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "How to send error details to Grammarly",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090592-How-to-send-error-details-to-Grammarly",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "I paid my invoice, but I don’t have access to Grammarly Business",
+      "url": "https://support.grammarly.com/hc/en-us/articles/14050349159565-I-paid-my-invoice-but-I-don-t-have-access-to-Grammarly-Business",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Download PDF report of document statistics",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091492-Download-PDF-report-of-document-statistics",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "AI Chat user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/32955241736973-AI-Chat-user-guide",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Accept an invitation from your school",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000782691-Accept-an-invitation-from-your-school",
+      "category": "Grammarly for Education"
+    },
+    {
+      "title": "The G icon is constantly spinning but does not underline mistakes",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090492-The-G-icon-is-constantly-spinning-but-does-not-underline-mistakes",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "I can't uninstall Grammarly for Mac",
+      "url": "https://support.grammarly.com/hc/en-us/articles/28935443221901-I-can-t-uninstall-Grammarly-for-Mac",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Can I use my keyboard to navigate the Grammarly Editor?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10725118477069-Can-I-use-my-keyboard-to-navigate-the-Grammarly-Editor",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Grammarly's browser extension user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091592-Grammarly-s-browser-extension-user-guide",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Manage domain controls",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27448664194957-Manage-domain-controls",
+      "category": "Configure Access & Security"
+    },
+    {
+      "title": "How to deploy Grammarly for Microsoft Edge",
+      "url": "https://support.grammarly.com/hc/en-us/articles/8342906066317-How-to-deploy-Grammarly-for-Microsoft-Edge",
+      "category": "Deployment Guide for IT Teams"
+    },
+    {
+      "title": "Why does the Grammarly Keyboard for iOS request to track me across apps and websites?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360060362791-Why-does-the-Grammarly-Keyboard-for-iOS-request-to-track-me-across-apps-and-websites",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Review member usage analytics",
+      "url": "https://support.grammarly.com/hc/en-us/articles/11226802974477-Review-member-usage-analytics",
+      "category": "Team Features"
+    },
+    {
+      "title": "How to add Grammarly for Safari on iOS",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4409116052109-How-to-add-Grammarly-for-Safari-on-iOS",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Remove Grammarly from Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091692-Remove-Grammarly-from-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Delete and recover documents in the Grammarly Editor",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091371-Delete-and-recover-documents-in-the-Grammarly-Editor",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "What data does Grammarly collect on iOS?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360054509951-What-data-does-Grammarly-collect-on-iOS",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Create, upload, and download your documents",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091352-Create-upload-and-download-your-documents",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "I did not receive a confirmation email after signing up for a school account",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091711-I-did-not-receive-a-confirmation-email-after-signing-up-for-a-school-account",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Error validating SAML message",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4410365455373-Error-validating-SAML-message",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Writing Score API",
+      "url": "https://support.grammarly.com/hc/en-us/articles/31367208940941-Writing-Score-API",
+      "category": "Grammarly API"
+    },
+    {
+      "title": "How does Grammarly review text so quickly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090852-How-does-Grammarly-review-text-so-quickly",
+      "category": "Common Questions"
+    },
+    {
+      "title": "How can I promote Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360037426451-How-can-I-promote-Grammarly",
+      "category": "Grammarly's Affiliate Program"
+    },
+    {
+      "title": "Can I become an affiliate?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360037054712-Can-I-become-an-affiliate",
+      "category": "Grammarly's Affiliate Program"
+    },
+    {
+      "title": "How do I get a receipt?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090192-How-do-I-get-a-receipt",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "How to set up two-step verification",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360032922091-How-to-set-up-two-step-verification",
+      "category": "Account Security"
+    },
+    {
+      "title": "Introducing Grammarly’s translation feature",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27518589299725-Introducing-Grammarly-s-translation-feature",
+      "category": "Team Features"
+    },
+    {
+      "title": "Introducing extended style rules functionality",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27195639866509-Introducing-extended-style-rules-functionality",
+      "category": "Team Features"
+    },
+    {
+      "title": "Grammarly overlaps my text or text area",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4410364740877-Grammarly-overlaps-my-text-or-text-area",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "How to take a screenshot of the issue I’m experiencing",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10004466548621-How-to-take-a-screenshot-of-the-issue-I-m-experiencing",
+      "category": "Other Tips & Tutorials"
+    },
+    {
+      "title": "How do I reinstall Grammarly for Mac or Grammarly for Windows?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4403747415821-How-do-I-reinstall-Grammarly-for-Mac-or-Grammarly-for-Windows",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Why am I seeing a message that my payment method does not match the billing country?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/14034418233997-Why-am-I-seeing-a-message-that-my-payment-method-does-not-match-the-billing-country",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Paraphraser agent user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38552469933837-Paraphraser-agent-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "How to view your generative AI prompt history",
+      "url": "https://support.grammarly.com/hc/en-us/articles/22594867207949-How-to-view-your-generative-AI-prompt-history",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Where can I check my current plan?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/36063232375949-Where-can-I-check-my-current-plan",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "I can't access my email address to verify my account",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360028308911-I-can-t-access-my-email-address-to-verify-my-account",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "What certifications and attestations has Grammarly obtained?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4403227105549-What-certifications-and-attestations-has-Grammarly-obtained",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Set up SSO with Auth0",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360050011931-Set-up-SSO-with-Auth0",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "How can I access Grammarly through the Samsung Keyboard?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4408003975949-How-can-I-access-Grammarly-through-the-Samsung-Keyboard",
+      "category": "Grammarly for Samsung Keyboard"
+    },
+    {
+      "title": "Is Grammarly available on mobile devices?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360038144732-Is-Grammarly-available-on-mobile-devices",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Why do you need to know my geographic area?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003835251-Why-do-you-need-to-know-my-geographic-area",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "I can't install Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090512-I-can-t-install-Grammarly-for-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Error: \"Grammarly is temporarily unavailable. There is an issue connecting to your organization security settings.\"",
+      "url": "https://support.grammarly.com/hc/en-us/articles/24058745495053-Error-Grammarly-is-temporarily-unavailable-There-is-an-issue-connecting-to-your-organization-security-settings",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Why does Grammarly need access to accessibility features?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360059770451-Why-does-Grammarly-need-access-to-accessibility-features",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Free trial eligibility requirements for Samsung users",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4407988470157-Free-trial-eligibility-requirements-for-Samsung-users",
+      "category": "Grammarly for Samsung Keyboard"
+    },
+    {
+      "title": "Why was my payment method declined?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090031-Why-was-my-payment-method-declined",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Error: The browser you’re using doesn’t support JavaScript, or has JavaScript turned off",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360057393832-Error-The-browser-you-re-using-doesn-t-support-JavaScript-or-has-JavaScript-turned-off",
+      "category": "Grammarly for Microsoft Word on Mac"
+    },
+    {
+      "title": "Does Grammarly offer discounts?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360038523451-Does-Grammarly-offer-discounts",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "I do not receive emails from Grammarly. What do I do?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4410369792397-I-do-not-receive-emails-from-Grammarly-What-do-I-do",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "Manage application controls",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27454187430029-Manage-application-controls",
+      "category": "Configure Access & Security"
+    },
+    {
+      "title": "Is Grammarly a keylogger?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003816032-Is-Grammarly-a-keylogger",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "I've lost access to my phone and can't log in",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360059175892-I-ve-lost-access-to-my-phone-and-can-t-log-in",
+      "category": "Account Security"
+    },
+    {
+      "title": "AI Chat user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38734303573773-AI-Chat-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "I cannot log in with my correct login details",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089911-I-cannot-log-in-with-my-correct-login-details",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "Bring Your Own Key FAQ",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27895143707405-Bring-Your-Own-Key-FAQ",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "I can't log in to Grammarly for Android with my login details",
+      "url": "https://support.grammarly.com/hc/en-us/articles/17362956938509-I-can-t-log-in-to-Grammarly-for-Android-with-my-login-details",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "Set an organization-wide dialect preference",
+      "url": "https://support.grammarly.com/hc/en-us/articles/15858322185357-Set-an-organization-wide-dialect-preference",
+      "category": "Team Features"
+    },
+    {
+      "title": "Download Grammarly’s W-9 form",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360052041851-Download-Grammarly-s-W-9-form",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "How do I change my payment date?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090091-How-do-I-change-my-payment-date",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "How do I check which version of the Grammarly browser extension I have currently?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360061237391-How-do-I-check-which-version-of-the-Grammarly-browser-extension-I-have-currently",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Enable Data Loss Prevention (DLP)",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27458670736525-Enable-Data-Loss-Prevention-DLP",
+      "category": "Configure Access & Security"
+    },
+    {
+      "title": "Error: Hm, something went wrong",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360001608811-Error-Hm-something-went-wrong",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Error: Something went wrong, payment button is spinning, or error 403 in the payment method fields",
+      "url": "https://support.grammarly.com/hc/en-us/articles/18503842009229-Error-Something-went-wrong-payment-button-is-spinning-or-error-403-in-the-payment-method-fields",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "Does Grammarly’s product read everything I write?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003835311-Does-Grammarly-s-product-read-everything-I-write",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "I need to change my team members’ email addresses",
+      "url": "https://support.grammarly.com/hc/en-us/articles/36973362047501-I-need-to-change-my-team-members-email-addresses",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "I see \"Update required\" when trying to use Grammarly in Google Docs",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4409422127501-I-see-Update-required-when-trying-to-use-Grammarly-in-Google-Docs",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Grammarly's expert writing service has been discontinued",
+      "url": "https://support.grammarly.com/hc/en-us/articles/34083794138381-Grammarly-s-expert-writing-service-has-been-discontinued",
+      "category": "Common Questions"
+    },
+    {
+      "title": "How does Grammarly work?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090871-How-does-Grammarly-work",
+      "category": "Common Questions"
+    },
+    {
+      "title": "How to collect error logs in Grammarly for Windows and Mac",
+      "url": "https://support.grammarly.com/hc/en-us/articles/7145206934029-How-to-collect-error-logs-in-Grammarly-for-Windows-and-Mac",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "I do not see the plagiarism checker among the options",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090672-I-do-not-see-the-plagiarism-checker-among-the-options",
+      "category": "Plagiarism Checker"
+    },
+    {
+      "title": "Does Grammarly sell my data?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003815992-Does-Grammarly-sell-my-data",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "I can’t invite team members: You are only able to invite others who do not belong to another institution",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27762477773069-I-can-t-invite-team-members-You-are-only-able-to-invite-others-who-do-not-belong-to-another-institution",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "How do I cancel my free trial?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/31475970390285-How-do-I-cancel-my-free-trial",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "Why am I seeing a message that there is a problem with my payment?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090151-Why-am-I-seeing-a-message-that-there-is-a-problem-with-my-payment",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "How do I print my document?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000271151-How-do-I-print-my-document",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Set up SSO with ADFS",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360054130472-Set-up-SSO-with-ADFS",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Set up SSO with QuickLaunch",
+      "url": "https://support.grammarly.com/hc/en-us/articles/16673179115917-Set-up-SSO-with-QuickLaunch",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Where does Grammarly store my data? Is it on their servers?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003835291-Where-does-Grammarly-store-my-data-Is-it-on-their-servers",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Session Timeout FAQ",
+      "url": "https://support.grammarly.com/hc/en-us/articles/26230680413325-Session-Timeout-FAQ",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "How do I update the extension to the latest version?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360016106252-How-do-I-update-the-extension-to-the-latest-version",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Error: Unable to validate assertion",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415366735245-Error-Unable-to-validate-assertion",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "How to deactivate certain suggestions in Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045028772-How-to-deactivate-certain-suggestions-in-Grammarly-for-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Receive an invoice to purchase Grammarly Business",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4478776460045-Receive-an-invoice-to-purchase-Grammarly-Business",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "I receive requests to join my Grammarly team",
+      "url": "https://support.grammarly.com/hc/en-us/articles/29727766416781-I-receive-requests-to-join-my-Grammarly-team",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Grammarly doesn’t recognize my paid account",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115001417232-Grammarly-doesn-t-recognize-my-paid-account",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "I can’t request a discount on SheerID because my organization or school is not on the list",
+      "url": "https://support.grammarly.com/hc/en-us/articles/32619189344653-I-can-t-request-a-discount-on-SheerID-because-my-organization-or-school-is-not-on-the-list",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "How to change the number of seats on an issued invoice",
+      "url": "https://support.grammarly.com/hc/en-us/articles/36250880169997-How-to-change-the-number-of-seats-on-an-issued-invoice",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "I can’t activate generative AI in Grammarly for Android (the option is grayed out)",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27952990201101-I-can-t-activate-generative-AI-in-Grammarly-for-Android-the-option-is-grayed-out",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "Set up SSO with Microsoft Entra ID (Azure AD)",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360049536832-Set-up-SSO-with-Microsoft-Entra-ID-Azure-AD",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Error: Connecting to the Grammarly server…",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090611-Error-Connecting-to-the-Grammarly-server",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Introducing the feature access panel",
+      "url": "https://support.grammarly.com/hc/en-us/articles/32752750261517-Introducing-the-feature-access-panel",
+      "category": "Team Features"
+    },
+    {
+      "title": "Manage client apps controls",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27455112673165-Manage-client-apps-controls",
+      "category": "Configure Access & Security"
+    },
+    {
+      "title": "How to deploy Grammarly for Chrome",
+      "url": "https://support.grammarly.com/hc/en-us/articles/8343923417485-How-to-deploy-Grammarly-for-Chrome",
+      "category": "Deployment Guide for IT Teams"
+    },
+    {
+      "title": "Replace members",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000929331-Replace-members",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "Add team members when SSO is activated",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360048773832-Add-team-members-when-SSO-is-activated",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "I did not receive a confirmation email",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041204871-I-did-not-receive-a-confirmation-email",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "I need Grammarly to fill out a security assessment or questionnaire",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4416837636493-I-need-Grammarly-to-fill-out-a-security-assessment-or-questionnaire",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Preserve text formatting",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091512-Preserve-text-formatting",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Turn off generative AI for my team",
+      "url": "https://support.grammarly.com/hc/en-us/articles/18192682302605-Turn-off-generative-AI-for-my-team",
+      "category": "Team Features"
+    },
+    {
+      "title": "How Grammarly protects your privacy on Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115003350672-How-Grammarly-protects-your-privacy-on-Android",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Citation Finder user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38552451211533-Citation-Finder-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "How to reinstall Grammarly for Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10017951635981-How-to-reinstall-Grammarly-for-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "I do not see the Grammarly icon on my keyboard",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000737152-I-do-not-see-the-Grammarly-icon-on-my-keyboard",
+      "category": "Grammarly for iPhone and iPad"
+    },
+    {
+      "title": "How do I update my billing details?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090051-How-do-I-update-my-billing-details",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "Can Grammarly check my text for fluency?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360050380631-Can-Grammarly-check-my-text-for-fluency",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Updating the Grammarly Premium plan to the Grammarly Pro plan",
+      "url": "https://support.grammarly.com/hc/en-us/articles/33347704601613-Updating-the-Grammarly-Premium-plan-to-the-Grammarly-Pro-plan",
+      "category": "Grammarly Pro"
+    },
+    {
+      "title": "Create snippets",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4403077145485-Create-snippets",
+      "category": "Team Features"
+    },
+    {
+      "title": "I don't see Grammarly for iPhone in a certain app",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412821029773-I-don-t-see-Grammarly-for-iPhone-in-a-certain-app",
+      "category": "Grammarly for iPhone and iPad"
+    },
+    {
+      "title": "Error: System.OutOfMemoryException",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360052374352-Error-System-OutOfMemoryException",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "I can't download the PDF report",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360039402991-I-can-t-download-the-PDF-report",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Setting up and using a recovery email for your Grammarly account",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38717781371405-Setting-up-and-using-a-recovery-email-for-your-Grammarly-account",
+      "category": "Account Security"
+    },
+    {
+      "title": "Error: Your password is incorrect or this account doesn’t exist",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4409703520909-Error-Your-password-is-incorrect-or-this-account-doesn-t-exist",
+      "category": "Sign-in Help"
+    },
+    {
+      "title": "How to reinstall the Grammarly browser extension",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10017919817869-How-to-reinstall-the-Grammarly-browser-extension",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Why am I getting billed after I canceled?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090111-Why-am-I-getting-billed-after-I-canceled",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "Using the tone detector in Grammarly for iPhone",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360058226552-Using-the-tone-detector-in-Grammarly-for-iPhone",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Grammarly’s Billing Policy",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090132-Grammarly-s-Billing-Policy",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Set up SSO with CyberArk Identity",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4406295232781-Set-up-SSO-with-CyberArk-Identity",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Invite team members",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000931852-Invite-team-members",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "I don't see the Grammarly icon in text fields",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090372-I-don-t-see-the-Grammarly-icon-in-text-fields",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "How can I turn off the Grammarly AI? Does Grammarly use trigger AI detectors?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/26993719119501-How-can-I-turn-off-the-Grammarly-AI-Does-Grammarly-use-trigger-AI-detectors",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Manage your subscription",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090012-Manage-your-subscription",
+      "category": "Account Settings"
+    },
+    {
+      "title": "Can I use screen readers with Grammarly for Windows and Mac?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/26521773751821-Can-I-use-screen-readers-with-Grammarly-for-Windows-and-Mac",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "How do I integrate Grammarly with my website or application?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10139846131213-How-do-I-integrate-Grammarly-with-my-website-or-application",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "Reader Reactions user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38552519578893-Reader-Reactions-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "My team is using single sign-on, and I can’t log in",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4410366341773-My-team-is-using-single-sign-on-and-I-can-t-log-in",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "How to uninstall Grammarly for Windows or Grammarly for Mac",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412832963469-How-to-uninstall-Grammarly-for-Windows-or-Grammarly-for-Mac",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "I'm redirected to Microsoft Store when installing Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360053596271-I-m-redirected-to-Microsoft-Store-when-installing-Grammarly-for-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "I received an email from Grammarly, but I do not have an account",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4416824061453-I-received-an-email-from-Grammarly-but-I-do-not-have-an-account",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "The formatting of my document changes when I export it",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090312-The-formatting-of-my-document-changes-when-I-export-it",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "I signed up using my school email address, but my account still shows as Free",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091691-I-signed-up-using-my-school-email-address-but-my-account-still-shows-as-Free",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Grammarly’s sidebar got detached",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360056100832-Grammarly-s-sidebar-got-detached",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How to deactivate the Grammarly Keyboard on iPhones",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000729971-How-to-deactivate-the-Grammarly-Keyboard-on-iPhones",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Error: Sorry, your plan could not be changed at this time",
+      "url": "https://support.grammarly.com/hc/en-us/articles/9182515060877-Error-Sorry-your-plan-could-not-be-changed-at-this-time",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "How to collect Grammarly browser extension logs",
+      "url": "https://support.grammarly.com/hc/en-us/articles/18151199767949-How-to-collect-Grammarly-browser-extension-logs",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "What is Grammarly Premium, and how is it different from Grammarly Free?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090812-What-is-Grammarly-Premium-and-how-is-it-different-from-Grammarly-Free",
+      "category": "Common Questions"
+    },
+    {
+      "title": "How to add Grammarly to Microsoft Office on Windows",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000271392-How-to-add-Grammarly-to-Microsoft-Office-on-Windows",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "How do I manage my linked social accounts?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360058228672-How-do-I-manage-my-linked-social-accounts",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "How does Grammarly keep my data secure on their servers (at rest)?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003815972-How-does-Grammarly-keep-my-data-secure-on-their-servers-at-rest",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Download Grammarly receipts",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089991-Download-Grammarly-receipts",
+      "category": "Account Settings"
+    },
+    {
+      "title": "How to deploy Grammarly for Windows",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4422076438029-How-to-deploy-Grammarly-for-Windows",
+      "category": "Deployment Guide for IT Teams"
+    },
+    {
+      "title": "Introducing app actions",
+      "url": "https://support.grammarly.com/hc/en-us/articles/21227721882253-Introducing-app-actions",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "About Grammarly's affiliate program",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360037424871-About-Grammarly-s-affiliate-program",
+      "category": "Grammarly's Affiliate Program"
+    },
+    {
+      "title": "Can anyone at Grammarly read my text?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003835331-Can-anyone-at-Grammarly-read-my-text",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Cancel my subscription",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000930251-Cancel-my-subscription",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "Suggestions are not applied in Google Docs in Chrome",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4428305823117-Suggestions-are-not-applied-in-Google-Docs-in-Chrome",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "AI Grader user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38552360525837-AI-Grader-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "How to retrieve performance logs in Grammarly for Windows",
+      "url": "https://support.grammarly.com/hc/en-us/articles/26799394449805-How-to-retrieve-performance-logs-in-Grammarly-for-Windows",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Can I link my Google, Facebook, or Apple accounts to my Grammarly account?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360058105432-Can-I-link-my-Google-Facebook-or-Apple-accounts-to-my-Grammarly-account",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "How do I get a post-payment invoice?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/36861657286541-How-do-I-get-a-post-payment-invoice",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "Remove team members with SSO activated",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360051749352-Remove-team-members-with-SSO-activated",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "How to deploy Grammarly for Mac",
+      "url": "https://support.grammarly.com/hc/en-us/articles/8341875702413-How-to-deploy-Grammarly-for-Mac",
+      "category": "Deployment Guide for IT Teams"
+    },
+    {
+      "title": "Select between document types in Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091712-Select-between-document-types-in-Grammarly-for-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How do I sign out of a device I no longer use?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4418264353677-How-do-I-sign-out-of-a-device-I-no-longer-use",
+      "category": "Account Security"
+    },
+    {
+      "title": "Grammarly for Windows or Grammarly for Mac disappeared",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412825587085-Grammarly-for-Windows-or-Grammarly-for-Mac-disappeared",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Grammarly Handbook",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091312-Grammarly-Handbook",
+      "category": "Other Grammarly Services"
+    },
+    {
+      "title": "Grammarly for Microsoft Office system requirements",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091652-Grammarly-for-Microsoft-Office-system-requirements",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How to install Grammarly on a desktop computer?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360047727871-How-to-install-Grammarly-on-a-desktop-computer",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "How does the Grammarly Keyboard work on iPhones?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360009187612-How-does-the-Grammarly-Keyboard-work-on-iPhones",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "How to prevent Grammarly for Microsoft Office from updating automatically",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360056099552-How-to-prevent-Grammarly-for-Microsoft-Office-from-updating-automatically",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How to install Grammarly for Microsoft Office on a terminal server",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360056101332-How-to-install-Grammarly-for-Microsoft-Office-on-a-terminal-server",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Receive OAuth 2.0 credentials",
+      "url": "https://support.grammarly.com/hc/en-us/articles/31625547341965-Receive-OAuth-2-0-credentials",
+      "category": "Grammarly API"
+    },
+    {
+      "title": "Grammarly for iPad user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360044592352-Grammarly-for-iPad-user-guide",
+      "category": "Grammarly for iPad"
+    },
+    {
+      "title": "Join a subscription with SSO activated",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360048773912-Join-a-subscription-with-SSO-activated",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Error: Your Internet Connection Is Unstable",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360024580031-Error-Your-Internet-Connection-Is-Unstable",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Personal data report",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27530062641293-Personal-data-report",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Error message: \"Can't help with this text\"",
+      "url": "https://support.grammarly.com/hc/en-us/articles/17774768944269-Error-message-Can-t-help-with-this-text",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "How can I view a list of Grammarly's suggestions?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/13109786615309-How-can-I-view-a-list-of-Grammarly-s-suggestions",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "Error: Text Checking Is Temporarily Unavailable",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090251-Error-Text-Checking-Is-Temporarily-Unavailable",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Tailored Assistance Support",
+      "url": "https://support.grammarly.com/hc/en-us/articles/29422880260621-Tailored-Assistance-Support",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Can I use PayPal to pay for Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090092-Can-I-use-PayPal-to-pay-for-Grammarly",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Set up SSO with Rippling",
+      "url": "https://support.grammarly.com/hc/en-us/articles/13509792602381-Set-up-SSO-with-Rippling",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "WebSockets Configuration Troubleshooting",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360000934011-WebSockets-Configuration-Troubleshooting",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "WebSockets Support Q&A for System Administrators",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090731-WebSockets-Support-Q-A-for-System-Administrators",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How to use Grammarly through the Samsung Keyboard",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4407988620173-How-to-use-Grammarly-through-the-Samsung-Keyboard",
+      "category": "Grammarly for Samsung Keyboard"
+    },
+    {
+      "title": "Why can't I upload my document?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090232-Why-can-t-I-upload-my-document",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Introducing quick fix",
+      "url": "https://support.grammarly.com/hc/en-us/articles/30200604226573-Introducing-quick-fix",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "I can’t test SSO: Unsuccessful request",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415390337037-I-can-t-test-SSO-Unsuccessful-request",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Turn off Grammarly on one or more websites",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091612-Turn-off-Grammarly-on-one-or-more-websites",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "Error message: \"Something went wrong\"",
+      "url": "https://support.grammarly.com/hc/en-us/articles/17775079326349-Error-message-Something-went-wrong",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "Grammarly tab doesn't appear in Microsoft Word on Mac after installation",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360045901052-Grammarly-tab-doesn-t-appear-in-Microsoft-Word-on-Mac-after-installation",
+      "category": "Grammarly for Microsoft Word on Mac"
+    },
+    {
+      "title": "Introducing paragraph-level rewrites",
+      "url": "https://support.grammarly.com/hc/en-us/articles/30916398193037-Introducing-paragraph-level-rewrites",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "How to reinstall Grammarly for Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27952775125133-How-to-reinstall-Grammarly-for-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "About custom roles",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27540336731149-About-custom-roles",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "Why am I seeing multiple charges on my statement?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090131-Why-am-I-seeing-multiple-charges-on-my-statement",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "How can I pay for Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090072-How-can-I-pay-for-Grammarly",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "View synonyms or vocabulary enhancements",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091531-View-synonyms-or-vocabulary-enhancements",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "How can I use the synonyms feature on iOS?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041826511-How-can-I-use-the-synonyms-feature-on-iOS",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Grammarly Expert Review user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38552366848781-Grammarly-Expert-Review-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "Is Grammarly safe?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360027918171-Is-Grammarly-safe",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Grammarly’s browser extension stopped working on a specific website",
+      "url": "https://support.grammarly.com/hc/en-us/articles/11967492973325-Grammarly-s-browser-extension-stopped-working-on-a-specific-website",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "I don't see Grammarly for iPhone after installation",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360038081992-I-don-t-see-Grammarly-for-iPhone-after-installation",
+      "category": "Grammarly for iPhone and iPad"
+    },
+    {
+      "title": "How much does Grammarly Pro cost?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090011-How-much-does-Grammarly-Pro-cost",
+      "category": "How to Upgrade"
+    },
+    {
+      "title": "Introducing voice features",
+      "url": "https://support.grammarly.com/hc/en-us/articles/23153676821773-Introducing-voice-features",
+      "category": "Team Features"
+    },
+    {
+      "title": "Grammarly for Mac's background processes overview",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38717930873229-Grammarly-for-Mac-s-background-processes-overview",
+      "category": "Grammarly for Windows and Mac"
+    },
+    {
+      "title": "I can’t find my documents on Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/16561823602445-I-can-t-find-my-documents-on-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "Privacy and security FAQ",
+      "url": "https://support.grammarly.com/hc/en-us/articles/20916119474829-Privacy-and-security-FAQ",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Grammarly for iPhone user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412642815117-Grammarly-for-iPhone-user-guide",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Introducing generative AI assistance on Grammarly for iPhone and iPad",
+      "url": "https://support.grammarly.com/hc/en-us/articles/22594181774605-Introducing-generative-AI-assistance-on-Grammarly-for-iPhone-and-iPad",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Change subscription settings",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360054000152-Change-subscription-settings",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "AI Detector user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/28936304999949-AI-Detector-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "A writing preference I want to change is locked by the admin",
+      "url": "https://support.grammarly.com/hc/en-us/articles/29754754563469-A-writing-preference-I-want-to-change-is-locked-by-the-admin",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "How to create or edit documents on iPhones",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4412638077709-How-to-create-or-edit-documents-on-iPhones",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Configure SCIM provisioning with OneLogin",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4410368818445-Configure-SCIM-provisioning-with-OneLogin",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Get started with Grammarly",
+      "url": "https://support.grammarly.com/hc/en-us/articles/19812297751053-Get-started-with-Grammarly",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "I'd like to update my payment information",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000089971-I-d-like-to-update-my-payment-information",
+      "category": "Update Your Account"
+    },
+    {
+      "title": "There’s a Grammarly charge on my credit card—which account is this for?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090171-There-s-a-Grammarly-charge-on-my-credit-card-which-account-is-this-for",
+      "category": "Fraud FAQ"
+    },
+    {
+      "title": "Grammarly Blog",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091311-Grammarly-Blog",
+      "category": "Other Grammarly Services"
+    },
+    {
+      "title": "Error: We can't start this add-in because it isn't set up properly",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4409703457549-Error-We-can-t-start-this-add-in-because-it-isn-t-set-up-properly",
+      "category": "Grammarly for Microsoft Word on Mac"
+    },
+    {
+      "title": "Does Grammarly support languages other than English?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090971-Does-Grammarly-support-languages-other-than-English",
+      "category": "Common Questions"
+    },
+    {
+      "title": "Grammarly for Android will no longer be available on Android Go devices",
+      "url": "https://support.grammarly.com/hc/en-us/articles/31883019381645-Grammarly-for-Android-will-no-longer-be-available-on-Android-Go-devices",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "How to install Grammarly for iPhone",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000736292-How-to-install-Grammarly-for-iPhone",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "Uninstall the Grammarly browser extension",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091591-Uninstall-the-Grammarly-browser-extension",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "My account and Grammarly Editor settings",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091392-My-account-and-Grammarly-Editor-settings",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Grammarly for Nonprofits and NGOs has been discontinued",
+      "url": "https://support.grammarly.com/hc/en-us/articles/23933968316557-Grammarly-for-Nonprofits-and-NGOs-has-been-discontinued",
+      "category": "Grammarly for Nonprofits and NGOs"
+    },
+    {
+      "title": "Does Grammarly use Sub-processors?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360036884632-Does-Grammarly-use-Sub-processors",
+      "category": "Privacy and Security"
+    },
+    {
+      "title": "Deprovisioned user accounts are not removed from the subscription",
+      "url": "https://support.grammarly.com/hc/en-us/articles/36868778228109-Deprovisioned-user-accounts-are-not-removed-from-the-subscription",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "I’m seeing charges from Grammarly that I did not authorize",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090211-I-m-seeing-charges-from-Grammarly-that-I-did-not-authorize",
+      "category": "Fraud FAQ"
+    },
+    {
+      "title": "Delete your Grammarly account",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090052-Delete-your-Grammarly-account",
+      "category": "Account Settings"
+    },
+    {
+      "title": "Can I get a refund from Grammarly?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360049189071-Can-I-get-a-refund-from-Grammarly",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "Receive a refund for an individual plan after upgrading to a team plan",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360040778172-Receive-a-refund-for-an-individual-plan-after-upgrading-to-a-team-plan",
+      "category": "Manage Subscription & Billing"
+    },
+    {
+      "title": "Grammarly for Microsoft Word on Mac system requirements",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360041041912-Grammarly-for-Microsoft-Word-on-Mac-system-requirements",
+      "category": "Grammarly for Microsoft Word on Mac"
+    },
+    {
+      "title": "Error: Grammarly add-in has failed to load",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360047798371-Error-Grammarly-add-in-has-failed-to-load",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Error: The Grammarly add-in has stopped working",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360050724352-Error-The-Grammarly-add-in-has-stopped-working",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How to enable the inactive Grammarly add-in",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090552-How-to-enable-the-inactive-Grammarly-add-in",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How to deactivate or uninstall Grammarly for Safari on iOS",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4409116184973-How-to-deactivate-or-uninstall-Grammarly-for-Safari-on-iOS",
+      "category": "Grammarly for iPhone"
+    },
+    {
+      "title": "How to switch to the Grammarly Keyboard on iPadOS 17 or newer using a hardware keyboard",
+      "url": "https://support.grammarly.com/hc/en-us/articles/27952426585485-How-to-switch-to-the-Grammarly-Keyboard-on-iPadOS-17-or-newer-using-a-hardware-keyboard",
+      "category": "Grammarly for iPad"
+    },
+    {
+      "title": "Accept an invitation to join your team’s Grammarly plan",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000930791-Accept-an-invitation-to-join-your-team-s-Grammarly-plan",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "Switch SSO settings from one identity provider to another",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360048773932-Switch-SSO-settings-from-one-identity-provider-to-another",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "Underlines are misplaced in Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360047953132-Underlines-are-misplaced-in-Grammarly-for-Microsoft-Office",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "Can I use screen readers with the Grammarly Editor?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10725131673357-Can-I-use-screen-readers-with-the-Grammarly-Editor",
+      "category": "Grammarly Editor (classic)"
+    },
+    {
+      "title": "Organize team members into groups",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415031489037-Organize-team-members-into-groups",
+      "category": "Manage Members & Permissions"
+    },
+    {
+      "title": "I don't see Grammarly underlines in Google Docs",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360039003572-I-don-t-see-Grammarly-underlines-in-Google-Docs",
+      "category": "Grammarly Browser Extension"
+    },
+    {
+      "title": "An invoice I want to pay has been voided",
+      "url": "https://support.grammarly.com/hc/en-us/articles/38650877521293-An-invoice-I-want-to-pay-has-been-voided",
+      "category": "Manage Payments"
+    },
+    {
+      "title": "What are Goals?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360054679292-What-are-Goals",
+      "category": "Questions about Grammarly features"
+    },
+    {
+      "title": "Set up SSO for team members with generic email domain",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360048773872-Set-up-SSO-for-team-members-with-generic-email-domain",
+      "category": "SAML Single Sign-On"
+    },
+    {
+      "title": "How do I download the Grammarly Editor log?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/34666268634253-How-do-I-download-the-Grammarly-Editor-log",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Grammarly doesn't flag any plagiarism",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090652-Grammarly-doesn-t-flag-any-plagiarism",
+      "category": "Plagiarism Checker"
+    },
+    {
+      "title": "Sign-up process for Grammarly for Education users",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091651-Sign-up-process-for-Grammarly-for-Education-users",
+      "category": "Grammarly for Education"
+    },
+    {
+      "title": "Is Grammarly compatible with my Apple Mac computer?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090931-Is-Grammarly-compatible-with-my-Apple-Mac-computer",
+      "category": "Common Questions"
+    },
+    {
+      "title": "How can I tell if I use a proxy server?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090431-How-can-I-tell-if-I-use-a-proxy-server",
+      "category": "Other Tips & Tutorials"
+    },
+    {
+      "title": "Grammarly's Refer Friends program will be discontinued",
+      "url": "https://support.grammarly.com/hc/en-us/articles/20299587306509-Grammarly-s-Refer-Friends-program-will-be-discontinued",
+      "category": "Grammarly's Referral Program"
+    },
+    {
+      "title": "What is the Grammarly Security Hub?",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4418242515597-What-is-the-Grammarly-Security-Hub",
+      "category": "Account Security"
+    },
+    {
+      "title": "There’s a charge on a new card I haven’t added to Grammarly",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090191-There-s-a-charge-on-a-new-card-I-haven-t-added-to-Grammarly",
+      "category": "Fraud FAQ"
+    },
+    {
+      "title": "I can’t sign in: Unable to sign you in because there is a personal Grammarly account associated with your work email address",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415373748493-I-can-t-sign-in-Unable-to-sign-you-in-because-there-is-a-personal-Grammarly-account-associated-with-your-work-email-address",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Error: Grammarly couldn't establish a connection to the server",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000090252-Error-Grammarly-couldn-t-establish-a-connection-to-the-server",
+      "category": "Grammarly Editor"
+    },
+    {
+      "title": "Error message: \"Couldn't Generate Text\"",
+      "url": "https://support.grammarly.com/hc/en-us/articles/15509186369037-Error-message-Couldn-t-Generate-Text",
+      "category": "Generative AI assistance"
+    },
+    {
+      "title": "How to reinstall Grammarly for iPhone",
+      "url": "https://support.grammarly.com/hc/en-us/articles/10017944310157-How-to-reinstall-Grammarly-for-iPhone",
+      "category": "Grammarly for iPhone and iPad"
+    },
+    {
+      "title": "How to deploy Grammarly for Microsoft Office",
+      "url": "https://support.grammarly.com/hc/en-us/articles/8327686426637-How-to-deploy-Grammarly-for-Microsoft-Office",
+      "category": "Deployment Guide for IT Teams"
+    },
+    {
+      "title": "Plagiarism Checker user guide",
+      "url": "https://support.grammarly.com/hc/en-us/articles/115000091452-Plagiarism-Checker-user-guide",
+      "category": "Agents"
+    },
+    {
+      "title": "Using the tone detector in Grammarly for Microsoft Office in Outlook",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360046272372-Using-the-tone-detector-in-Grammarly-for-Microsoft-Office-in-Outlook",
+      "category": "Grammarly for Microsoft Office"
+    },
+    {
+      "title": "How to block and manage blocked apps in Grammarly for Android",
+      "url": "https://support.grammarly.com/hc/en-us/articles/21602062542989-How-to-block-and-manage-blocked-apps-in-Grammarly-for-Android",
+      "category": "Grammarly for Android"
+    },
+    {
+      "title": "I can’t test SSO: No SSO settings found",
+      "url": "https://support.grammarly.com/hc/en-us/articles/4415373429901-I-can-t-test-SSO-No-SSO-settings-found",
+      "category": "Resolve Issues"
+    },
+    {
+      "title": "Set up SAML single sign-on",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360048683092-Set-up-SAML-single-sign-on",
+      "category": "SAML Single Sign-On"
+    }
+  ]
+}

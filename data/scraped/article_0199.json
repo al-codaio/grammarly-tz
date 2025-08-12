@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/34666141058573-Can-I-use-screen-readers-with-the-Grammarly-browser-extension",
+  "scraped_at": "2025-08-11T20:36:46.425748+00:00",
+  "title": "Can I use screen readers with the Grammarly browser extension?",
+  "content": "The Grammarly browser extension is designed to be compatible with the following assistive technologies:\nFirefox with NVDA on Windows\nChrome with JAWS on Windows\nSafari with VoiceOver on macOS\nNote:\nFor a better experience with your screen reader, we suggest that you use keyboard navigation. To learn more, visit\nCan I use my keyboard to navigate the Grammarly browser extension?\nThe focus remains on the Grammarly assistant until you dismiss it with the\nEsc\nkey or close the assistant with the close button.",
+  "category": "Grammarly Browser Extension",
+  "tags": []
+}

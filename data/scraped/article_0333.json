@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000091512-Preserve-text-formatting",
+  "scraped_at": "2025-08-11T20:42:10.159597+00:00",
+  "title": "Preserve text formatting",
+  "content": "If you copy and paste your formatted text into the Grammarly Editor, only the following formatting will be preserved:\nBold and italic text\nNumbered lists and bullet points\nH1 and H2 headers\nLinks\nTo preserve the full original formatting of your document, please use the\nUpload\nbutton to upload it into the Grammarly Editor. After editing, use the\nDownload\nbutton to download your text.\nKeep in mind that upon uploading your document, Grammarly’s formatting options will be switched off—although your document will appear in plain text in the Grammarly Editor, your original formatting will be preserved in the version you download after editing.\nThe Grammarly Editor supports the following file types: Microsoft Word (.doc, .docx), OpenOffice (.odt), .txt, and .rtf.\nNote:\nYou can also download\nGrammarly for Windows and Mac\nand use Grammarly without leaving your preferred text editor.",
+  "category": "Grammarly Editor (classic)",
+  "tags": []
+}

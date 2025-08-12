@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4409703520909-Error-Your-password-is-incorrect-or-this-account-doesn-t-exist",
+  "scraped_at": "2025-08-11T20:42:43.636511+00:00",
+  "title": "Error: Your password is incorrect or this account doesn’t exist",
+  "content": "Note:\nIf you logged out of your Grammarly account, navigate to\ngrammarly.com/signin\n. You should see a menu displaying the email addresses you previously used to log in.\nIf you are seeing this error message, please ensure that the login information you are using is correct. For detailed password reset instructions, please check out this article:\nProblems signing in\n.\nMy login details are correct, but I still see this error message\nTemporarily turn off your VPN, proxy, antivirus, and firewall software and try logging in one more time.\nIf turning off your antivirus or firewall software helped, we suggest that you add Grammarly to that software’s allowed list to resolve the issue.\nBrowser extensions like VPNs or ad blockers may also prevent you from logging in to Grammarly. Try turning off any of these browser extensions that you may have and see if you are able to log in. You can turn off other extensions in your browser settings:\nChrome\n: Copy\nchrome:extensions\ninto your address bar\nFirefox\n: Open\nTools\n>\nAdd-ons\n>\nExtensions\nSafari\n: Open\nSafari\n>\nPreferences\n>\nExtensions\nMicrosoft Edge\n: Copy\nedge:extensions\ninto your address bar\nThere might also be an issue with your browser cookies. Please clear cookies in your browser using the instructions\nhere\n.",
+  "category": "Sign-in Help",
+  "tags": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360007144751-What-is-Performance-and-how-is-it-calculated",
+  "scraped_at": "2025-08-11T20:33:16.166829+00:00",
+  "title": "What is Performance and how is it calculated?",
+  "content": "The performance score shows how accurate your document is compared to those written by other Grammarly users with similar goals. It measures accuracy based on your document’s total word count and the number and types of writing issues detected. Grammarly then compares this accuracy level to that of other users’ documents with matching goals. For example, if your score is 90, it means your writing is better than 90% of others aiming for the same outcomes. This score gives you a clear picture of how your writing stacks up against your peers, helping you identify areas for improvement.\nTo access your performance score, open any document in\nthe Grammarly Editor\nand click\nOverall score\nat the top of the page:\nThis menu also allows you to check the document statistics, such as\nreadability score\n, word count, and\nvocabulary use\n.",
+  "category": "Grammarly Editor (classic)",
+  "tags": []
+}

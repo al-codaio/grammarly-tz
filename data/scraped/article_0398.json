@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/360048773912-Join-a-subscription-with-SSO-activated",
+  "scraped_at": "2025-08-11T20:44:47.412723+00:00",
+  "title": "Join a subscription with SSO activated",
+  "content": "If your organization uses SAML single sign-on (SSO) authentication for its Grammarly subscription, please launch Grammarly through your identity provider to join the subscription. If you don’t have a Grammarly account, it will be created for you automatically. If your email address is linked to an existing Grammarly account, you will be prompted to sign in with your default credentials once before joining your organization’s subscription.\nIf you do not see the Grammarly app in your identity provider’s dashboard, please contact your identity provider administrator or IT team for further assistance.",
+  "category": "SAML Single Sign-On",
+  "tags": []
+}

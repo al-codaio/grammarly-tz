@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/4410369792397-I-do-not-receive-emails-from-Grammarly-What-do-I-do",
+  "scraped_at": "2025-08-11T20:40:11.637898+00:00",
+  "title": "I do not receive emails from Grammarly. What do I do?",
+  "content": "If you have requested an email from Grammarly, but never received it, your firewall, email server, or filter is likely blocking Grammarly’s emails. We recommend contacting your IT department or your email service provider’s customer support to add the following IPs and domains to the allowed list:\nIP addresses:\n168.203.32.162\n168.203.32.146\n168.203.32.149\n168.203.32.144\n168.203.32.145\nDomains:\nmail.grammarly.com\ninfo.grammarly.com\nnotification.grammarly.com\nOnce you’ve followed these steps, please request an email again.",
+  "category": "Sign-in Help",
+  "tags": []
+}

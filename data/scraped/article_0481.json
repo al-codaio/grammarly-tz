@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/15509186369037-Error-message-Couldn-t-Generate-Text",
+  "scraped_at": "2025-08-11T20:48:06.093708+00:00",
+  "title": "Error message: \"Couldn't Generate Text\"",
+  "content": "Grammarly's generative AI features are\nunavailable when you input your text in a language other than English or when you run out of prompts.\nNote:\nAt this time, Grammarly Free users have 100 prompts per month, Grammarly Premium users have 1000 prompts per month, and Grammarly for Business or Grammarly for Education users have 2000 prompts per month.\nIf you have some prompts left and the text of your prompt is in English, please\ncontact our Support team\nand send us the text of the prompt you’re using when this issue occurs.",
+  "category": "Generative AI assistance",
+  "tags": []
+}

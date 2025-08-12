@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/24827424872333-Error-Can-t-open-Grammarly",
+  "scraped_at": "2025-08-11T20:30:04.761200+00:00",
+  "title": "Error: Can't open Grammarly",
+  "content": "If you use Windows, Grammarly may not work if you don’t have the WebView package installed. To resolve this issue, please follow these steps:\nStep 1: Reinstall Grammarly for Windows\nRight-click the Grammarly icon in the system tray and select\nQuit Grammarly\n:\nThen, right-click the\nStart\nbutton in the lower-left corner of the screen and select\nApps and Features\nfrom the pop-up menu. Click\nGrammarly for Windows\nand select\nUninstall\n.\nIf you use Windows 11, right-click the\nStart\nbutton and select\nInstalled Apps\n. Then, find\nGrammarly for Windows\n, click the three dots (…), and select\nUninstall\n:\nDownload the installation file by following this link:\nGrammarly for Windows\nOnce the file is downloaded, click\nRun\nin the pop-up menu at the bottom of the screen. Alternatively, locate the file on your computer and double-click on it.\nWhen the installation is complete, click\nLog in to existing account\nand enter your login credentials.\nStep 2: Install WebView\nIf that didn't help, you can install the WebView package by following this link:\nMicrosoft Edge WebView2\n.\nStep 3: Ask your admin to allow WebView to run\nIf you can't install the WebView package, contact your administrator and ask them to allow WebView to run. You can share this resource with your admin as well:\nMicrosoft Edge WebView2\n.",
+  "category": "Grammarly for Windows and Mac",
+  "tags": []
+}

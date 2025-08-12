@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/10725118477069-Can-I-use-my-keyboard-to-navigate-the-Grammarly-Editor",
+  "scraped_at": "2025-08-11T20:38:32.564002+00:00",
+  "title": "Can I use my keyboard to navigate the Grammarly Editor?",
+  "content": "Yes, the Grammarly Editor supports keyboard navigation.\nTo navigate through the Grammarly Editor interface without using a mouse or a touchpad, please press\nF6\non your keyboard to highlight the first element on the page.\nThen, use\nF6\nto move to the next element or\nShift+F6\nto focus on the previous one. To navigate within the focused section, press\nTab\nor\nShift+Tab.\nUse\nSpace\nor\nReturn\nto activate the link or click the\nbutton,\nand then press\nTab\nto reach the next element.\nNote:\nIf you use macOS, please visit\nthis page\nto learn more about using the function keys on your computer.",
+  "category": "Grammarly Editor (classic)",
+  "tags": []
+}

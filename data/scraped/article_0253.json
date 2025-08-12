@@ -1,0 +1,8 @@
+{
+  "url": "https://support.grammarly.com/hc/en-us/articles/115000091352-Create-upload-and-download-your-documents",
+  "scraped_at": "2025-08-11T20:38:56.602243+00:00",
+  "title": "Create, upload, and download your documents",
+  "content": "When using the Grammarly Editor, you can create a document by clicking\nNew document\n. If you want to check an existing document on your computer, click\nUpload file\n:\nAnother option for importing existing text is to create a blank document, then paste in text from your clipboard.\nNote:\nIf you use this option, some of your document’s original formatting may be lost. Visit this page to find out more:\nPreserve text formatting\n.\nWhen you finish editing, you can download your document by clicking the\nMenu\nicon (\n) in the upper-left corner and selecting\nDownload\n:\nIf you started by uploading a document file, Grammarly will export your document in the same file format that you began with. For example, if you started by uploading a .docx file, your Grammarly document will be available to download as a .docx file.\nException:\nIf you upload a .txt file, it will be exported as a .docx file.",
+  "category": "Grammarly Editor (classic)",
+  "tags": []
+}
