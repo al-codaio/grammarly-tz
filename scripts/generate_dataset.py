@@ -158,23 +158,71 @@ class DatasetGenerator:
         else:
             return "medium"
     
+    def find_relevant_articles(self, query: str, entities: Dict[str, Any], top_k: int = 3) -> List[Dict[str, Any]]:
+        """Find relevant articles based on query and entities."""
+        relevant_articles = []
+        query_lower = query.lower()
+        
+        # Score each article based on relevance
+        for article in self.articles:
+            score = 0
+            title_lower = article['title'].lower()
+            content_lower = article['content'].lower()
+            
+            # Check for entity matches
+            for product in entities.get('product', []):
+                if product.replace('_', ' ') in title_lower or product.replace('_', ' ') in content_lower:
+                    score += 2
+            
+            for platform in entities.get('platform', []):
+                if platform.replace('_', ' ') in title_lower or platform.replace('_', ' ') in content_lower:
+                    score += 2
+            
+            # Check for query keyword matches
+            query_words = query_lower.split()
+            for word in query_words:
+                if len(word) > 3:  # Skip short words
+                    if word in title_lower:
+                        score += 3
+                    if word in content_lower:
+                        score += 1
+            
+            if score > 0:
+                relevant_articles.append((score, article))
+        
+        # Sort by score and return top k
+        relevant_articles.sort(key=lambda x: x[0], reverse=True)
+        return [article for _, article in relevant_articles[:top_k]]
+    
     async def generate_ideal_response(self, query: str, intent: str, entities: Dict[str, Any]) -> str:
         """Generate an ideal support response using GPT-4."""
+        # Find relevant articles
+        relevant_articles = self.find_relevant_articles(query, entities)
+        
+        # Build context from articles
+        article_context = ""
+        if relevant_articles:
+            article_context = "\n\nRelevant help articles:\n"
+            for i, article in enumerate(relevant_articles, 1):
+                article_context += f"\n{i}. {article['title']}\n{article['content'][:500]}...\n"
+        
         prompt = f"""You are a Grammarly customer support specialist. Generate an ideal response to this customer query.
 
 Query: {query}
 Intent: {intent}
 Identified Products: {', '.join(entities.get('product', []))}
 Identified Platforms: {', '.join(entities.get('platform', []))}
+{article_context}
 
 Requirements:
 1. Be empathetic and acknowledge their issue
 2. Provide clear, actionable steps to resolve the problem
-3. Offer alternatives if the primary solution might not work
-4. Be concise but thorough
-5. End with next steps or additional resources
-6. If the issue requires human support, include [ESCALATE] in your response
-7. If you're suggesting specific actions, include them as [ACTIONS] followed by a numbered list
+3. Use information from the relevant help articles when available
+4. Offer alternatives if the primary solution might not work
+5. Be concise but thorough
+6. End with next steps or additional resources
+7. If the issue requires human support, include [ESCALATE] in your response
+8. If you're suggesting specific actions, include them as [ACTIONS] followed by a numbered list
 
 Generate the ideal support response:"""
         
