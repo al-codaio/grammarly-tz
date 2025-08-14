@@ -6,7 +6,13 @@
       "Bash(/home/alchen/.cache/selenium/chromedriver/linux64/139.0.7258.66/chromedriver --version)",
       "Bash(source:*)",
       "Bash(pip install:*)",
-      "Bash(docker compose:*)"
+      "Bash(docker compose:*)",
+      "Bash(docker exec:*)",
+      "Bash(mv:*)",
+      "WebFetch(domain:github.com)",
+      "WebSearch",
+      "Bash(docker logs:*)",
+      "WebFetch(domain:raw.githubusercontent.com)"
     ],
     "deny": []
   }

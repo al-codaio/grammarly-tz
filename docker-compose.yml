@@ -1,72 +1,54 @@
 services:
-  # ClickHouse for TensorZero data storage
   clickhouse:
-    image: clickhouse/clickhouse-server:24.10
-    container_name: grammarly-clickhouse
+    image: clickhouse/clickhouse-server:24.10-alpine
     ports:
       - "8123:8123"
-      - "9000:9000"
     environment:
-      CLICKHOUSE_USER: tensorzero
-      CLICKHOUSE_PASSWORD: tensorzero_password
-      CLICKHOUSE_DB: tensorzero
+      CLICKHOUSE_USER: chuser
+      CLICKHOUSE_PASSWORD: chpassword
       CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
     volumes:
       - clickhouse_data:/var/lib/clickhouse
-      - ./config/clickhouse/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+      - ./config/clickhouse/create_tables.sql:/docker-entrypoint-initdb.d/create_tables.sql:ro
     healthcheck:
-      test: ["CMD", "clickhouse-client", "--query", "SELECT 1"]
+      test: ["CMD", "clickhouse-client", "--user", "chuser", "--password", "chpassword", "--query", "SELECT 1"]
       interval: 10s
-      timeout: 5s
-      retries: 5
+      start_period: 30s
 
-  # TensorZero Gateway
   tensorzero:
-    image: tensorzero/gateway:latest
-    container_name: grammarly-tensorzero
+    image: tensorzero/gateway:2025.7.2
     ports:
       - "3000:3000"
     environment:
-      CLICKHOUSE_URL: "http://tensorzero:tensorzero_password@clickhouse:8123/tensorzero"
-      RUST_LOG: info
-      CONFIG_PATH: /app/config/tensorzero.toml
+      TENSORZERO_CLICKHOUSE_URL: "http://chuser:chpassword@clickhouse:8123/tensorzero"
       OPENAI_API_KEY: ${OPENAI_API_KEY}
     volumes:
       - ./config:/app/config:ro
+    command: --config-file /app/config/tensorzero.toml
     depends_on:
       clickhouse:
         condition: service_healthy
-    command: ["--config-file", "/app/config/tensorzero.toml"]
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      test: ["CMD-SHELL", "wget -q -O - http://localhost:3000/health || exit 1"]
       interval: 10s
-      timeout: 5s
-      retries: 5
 
-  # TensorZero UI
   tensorzero-ui:
     image: tensorzero/ui:latest
-    container_name: grammarly-tensorzero-ui
     ports:
       - "4000:3000"
     environment:
       TENSORZERO_GATEWAY_URL: http://tensorzero:3000
-      CLICKHOUSE_URL: "http://tensorzero:tensorzero_password@clickhouse:8123/tensorzero"
+      TENSORZERO_CLICKHOUSE_URL: "http://chuser:chpassword@clickhouse:8123/tensorzero"
     depends_on:
       - tensorzero
       - clickhouse
 
-  # LangGraph Application (for development)
-  langgraph-app:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    container_name: grammarly-langgraph
+  app:
+    build: .
     ports:
       - "8000:8000"
     environment:
       TENSORZERO_GATEWAY_URL: http://tensorzero:3000
-      CLICKHOUSE_URL: "http://tensorzero:tensorzero_password@clickhouse:8123/tensorzero"
       OPENAI_API_KEY: ${OPENAI_API_KEY}
       PYTHONPATH: /app
     volumes:
@@ -82,7 +64,3 @@ services:
 
 volumes:
   clickhouse_data:
-
-networks:
-  default:
-    name: grammarly-network
