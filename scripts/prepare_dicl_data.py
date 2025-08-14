@@ -2,16 +2,21 @@
 
 import json
 import csv
+import os
 from pathlib import Path
 from typing import List, Dict, Any
 import asyncio
+from dotenv import load_dotenv
 from openai import AsyncOpenAI
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 class DICLDataPreparer:
     """Prepare scraped articles and examples for DICL."""
     
-    def __init__(self, articles_dir: str = "../data/scraped"):
+    def __init__(self, articles_dir: str = "data/scraped"):
         self.articles_dir = Path(articles_dir)
         self.client = AsyncOpenAI()
         
@@ -94,7 +99,7 @@ class DICLDataPreparer:
         
         return embeddings
     
-    async def prepare_knowledge_base(self, output_dir: str = "../data/processed"):
+    async def prepare_knowledge_base(self, output_dir: str = "data/processed"):
         """Prepare knowledge base for DICL."""
         output_path = Path(output_dir)
         output_path.mkdir(parents=True, exist_ok=True)
@@ -187,7 +192,7 @@ Generate a natural customer query (1-2 sentences) that someone might ask if they
                 await asyncio.sleep(1)  # Rate limiting
         
         # Save examples
-        output_path = Path("../data/processed")
+        output_path = Path("data/processed")
         examples_path = output_path / "dicl_examples.json"
         with open(examples_path, 'w', encoding='utf-8') as f:
             json.dump(examples, f, indent=2)

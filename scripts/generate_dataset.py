@@ -79,7 +79,7 @@ class DatasetGenerator:
             "bug_description": ["suggestions appear behind the text", "the sidebar overlaps with content", "undo doesn't work properly"]
         }
     
-    def load_articles(self) -> List[Dict[str, Any]]:
+    def 3cles(self) -> List[Dict[str, Any]]:
         """Load scraped articles."""
         articles = []
         for file_path in self.articles_dir.glob("article_*.json"):

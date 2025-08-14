@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   # ClickHouse for TensorZero data storage
   clickhouse:
@@ -32,11 +30,13 @@ services:
       CLICKHOUSE_URL: "http://tensorzero:tensorzero_password@clickhouse:8123/tensorzero"
       RUST_LOG: info
       CONFIG_PATH: /app/config/tensorzero.toml
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
     volumes:
       - ./config:/app/config:ro
     depends_on:
       clickhouse:
         condition: service_healthy
+    command: ["--config-file", "/app/config/tensorzero.toml"]
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
       interval: 10s
@@ -70,14 +70,15 @@ services:
       OPENAI_API_KEY: ${OPENAI_API_KEY}
       PYTHONPATH: /app
     volumes:
-      - ./langgraph:/app/langgraph
+      - ./src:/app/src
       - ./utils:/app/utils
       - ./scripts:/app/scripts
       - ./data:/app/data
+      - ./config:/app/config
     depends_on:
       tensorzero:
         condition: service_healthy
-    command: python -m uvicorn langgraph.server:app --host 0.0.0.0 --port 8000 --reload
+    command: python -m uvicorn src.server:app --host 0.0.0.0 --port 8000 --reload
 
 volumes:
   clickhouse_data:

@@ -1,0 +1,16 @@
+{
+  "knowledge_base": {
+    "embeddings_path": "/app/data/processed/knowledge_base_embeddings.json",
+    "examples_path": "/app/data/processed/dicl_examples.json"
+  },
+  "retrieval": {
+    "top_k": 5,
+    "similarity_threshold": 0.7,
+    "cache_ttl": 3600
+  },
+  "inference": {
+    "include_examples": true,
+    "max_examples_per_prompt": 3,
+    "example_format": "qa_pairs"
+  }
+}

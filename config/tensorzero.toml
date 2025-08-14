@@ -28,7 +28,8 @@ system_instructions = "functions/classify_intent/prompts/system_template.minijin
 json_mode = "strict"
 
 [functions.generate_response]
-type = "chat"
+type = "json"
+user_schema = "functions/generate_response/input_schema.json"
 
 [functions.generate_response.variants.gpt_4o]
 type = "chat_completion"
@@ -49,7 +50,6 @@ embedding_model = "text-embedding-3-small"
 model = "openai::gpt-4o-mini-2024-07-18"
 k = 10
 system_instructions = "functions/generate_response/prompts/system_template.minijinja"
-user_template = "functions/generate_response/prompts/user_template.minijinja"
 
 # ┌────────────────────────────────────────────────────────────────────────────┐
 # │                                  METRICS                                   │

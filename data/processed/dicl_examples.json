@@ -1,0 +1,302 @@
+[
+  {
+    "query": "Hi, I'm trying to set up SCIM provisioning for Grammarly using Okta, but I'm not sure where to start. Could you provide me with a step-by-step guide on how to configure this?",
+    "response": "Based on the article 'Configure SCIM provisioning with Okta': Included in:\nGrammarly Enterprise plans\nManaged by:\nAdmins\nThis guide provides the steps required to configure SCIM provisioning for Grammarly in Okta. For general information about SCIM provisioning, please see this article:\nConfigure SCIM provisioning\nTopics covered in this article:\nFeatures\nRequi...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360058725831-Configure-SCIM-provisioning-with-Okta",
+    "category": "SAML Single Sign-On"
+  },
+  {
+    "query": "Hi, I\u2019m considering upgrading to a premium subscription with Grammarly, but I wanted to know if there will be any taxes added to my total based on my billing address. Also, do you accept tax exemption requests for subscriptions?",
+    "response": "Based on the article 'Does Grammarly charge tax?': Tax and tax exemption\nTo ensure our services are legally compliant in each country, Grammarly may charge applicable taxes based on your billing address. The tax amount may be indicated on the checkout page as a separate fee or included in the subscription price. In the latter case, Grammarly will re...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/33154429182861-Does-Grammarly-charge-tax",
+    "category": "How to Upgrade"
+  },
+  {
+    "query": "Hi, can you explain how I can assign group manager permissions to one of my team members? Also, what specific permissions do they get when I do this?",
+    "response": "Based on the article 'Group manager permissions for team members': Included in:\nGrammarly Enterprise plans\nManaged by:\nAdmins and account managers\nTeam members with the admin and account manager roles can grant group manager permissions to team members with the user role to enable them to manage enterprise features for selected member groups.\nTopics covered in this...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/19026306820109-Group-manager-permissions-for-team-members",
+    "category": "Manage Members & Permissions"
+  },
+  {
+    "query": "Hi, I need help with uninstalling Grammarly from Microsoft Word on my Mac. Could you provide me with the steps to do that?",
+    "response": "Based on the article 'How do I uninstall Grammarly for Microsoft Word on Mac?': To uninstall Grammarly for Microsoft Word on your Mac, please see the steps below:\nOpen Microsoft Word on your Mac.\nIn the\nInsert\nmenu, navigate to\nMy Add-ins\n.\nSelect\nGrammarly for Microsoft Word\nand then click the three dots in the top-right corner next to it.\nIn the drop-down menu, click\nRemove\n....",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360041472171-How-do-I-uninstall-Grammarly-for-Microsoft-Word-on-Mac",
+    "category": "Grammarly for Microsoft Word on Mac"
+  },
+  {
+    "query": "I'm getting an error message that says \"The application was unable to start correctly (0xc0000135)\" every time I try to open Grammarly on my computer. Can you help me resolve this issue?",
+    "response": "Based on the article 'Error message: The application was unable to start correctly (0xc0000135)': To troubleshoot the issue, follow these steps:\nDownload the Microsoft .NET Framework Repair Tool from\nthis page\n.\nRight-click on the downloaded file and select\nRun as administrator\n.\nNote:\nIf the tool repairs any system files, please restart your computer and see if the issue you reported persists.\n...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/7144890844685--Error-message-The-application-was-unable-to-start-correctly-0xc0000135",
+    "category": "Grammarly for Windows and Mac"
+  },
+  {
+    "query": "Hi, I'm a faculty member at my school, and I heard about Grammarly's integration with Canvas. Can you explain how I can use the writing score feature to evaluate my students' submissions?",
+    "response": "Based on the article 'Introducing Grammarly\u2019s Writing Score Canvas Integration': Included in:\nOrganization-wide Grammarly for Education plans\nManaged by:\nAdmins\nAvailable to:\nFaculty and students\nGrammarly\u2019s integration with Canvas allows students to evaluate their written assignments for essential correctness, clarity, engagement, and delivery quality before submitting them. Th...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/33433628591629-Introducing-Grammarly-s-Writing-Score-Canvas-Integration",
+    "category": "Grammarly for Education"
+  },
+  {
+    "query": "Hi, I accidentally signed up for Grammarly using the wrong email address and would like to change it to the correct one. Can you guide me on how to update my email?",
+    "response": "Based on the article 'I signed up with the wrong email': If you have access to the email address you used to sign up, you can update your Grammarly account information by following these instructions:\nSign in\nto your Grammarly account.\nNavigate to the\nProfile\ntab in your account.\nClick\nUpdate\nnext to\nEmail\n.\nEnter your new email address and click\nUpdate\no...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000089972-I-signed-up-with-the-wrong-email",
+    "category": "Update Your Account"
+  },
+  {
+    "query": "I'm having trouble getting Grammarly to show up in Microsoft Word on my Windows computer. How can I fix this?",
+    "response": "Based on the article 'Grammarly for Windows and Mac doesn\u2019t appear in Microsoft Word': Windows\nAt this time, Grammarly for Windows supports the following versions of Microsoft Office:\nMicrosoft Office 2016\nand newer\nMicrosoft Office 365 (installed/updated after February 2020)\nIf you\u2019d like to check the details of your Microsoft Office version, please follow the instructions in\nthis Mi...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/4428237509645-Grammarly-for-Windows-and-Mac-doesn-t-appear-in-Microsoft-Word",
+    "category": "Grammarly for Windows and Mac"
+  },
+  {
+    "query": "Hi, I'm an admin for our team and I want to customize the writing suggestions in Grammarly to better align with our company's style. Can you guide me on how to manage these writing preferences for our team?",
+    "response": "Based on the article 'Customize writing preferences': Included in:\nGrammarly Pro, Business, and Enterprise plans\nManaged by:\nAdmins, account managers, group managers, and members with designated custom roles\nWriting preferences\nallow you to customize Grammarly\u2019s suggestions to your team\u2019s writing style. You can manage a preset selection of stylistic su...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/4410375670541-Customize-writing-preferences",
+    "category": "Team Features"
+  },
+  {
+    "query": "Hi, I recently changed my phone number and I\u2019m having trouble updating it for the two-step verification on my Grammarly account. Can you guide me on how to do this?",
+    "response": "Based on the article 'How to update my phone number': If you previously set up two-step verification on your Grammarly account and plan to change your phone number, we suggest updating it in your settings as follows:\nSign in to your Grammarly account and click\nSettings\nin the left-side panel.\nIn the\nSecurity\nsection, select\nTwo-Step Verification\n.\nClic...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360059175872-How-to-update-my-phone-number",
+    "category": "Account Security"
+  },
+  {
+    "query": "Hi, I\u2019ve been experiencing some bugs with my Grammarly for Windows app, and I\u2019d like to know if there have been any recent updates or bug fixes that address these issues. Can you provide me with the latest changelog?",
+    "response": "Based on the article 'Grammarly's Bug Resolution Updates': Stay updated with our ongoing commitment to improve! This changelog provides a concise record of the bugs we've addressed in the last two months across our various product offerings. Each entry highlights the specific product, the version where the bug was resolved, and a brief description of the is...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/19810879382285-Grammarly-s-Bug-Resolution-Updates",
+    "category": "Bug Resolution Updates"
+  },
+  {
+    "query": "I'm trying to join my team's Grammarly account, but I keep getting an error message saying there are no available seats. How can I resolve this issue?",
+    "response": "Based on the article 'I can\u2019t join the team: There are no available seats in this organization': This error message indicates that all seats in your organization\u2019s Grammarly subscription have been allocated.\nYour organization\u2019s admin can add more seats by following the steps in this article:\nAdd or remove seats\nNote:\nIf your organization\u2019s Grammarly subscription was purchased through our Sales ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360049254951-I-can-t-join-the-team-There-are-no-available-seats-in-this-organization",
+    "category": "Resolve Issues"
+  },
+  {
+    "query": "Hi, I\u2019m interested in understanding how the Effective Communication Score works and how it can benefit my team's communication. Can you explain what metrics it includes and how I can access this feature?",
+    "response": "Based on the article 'Introducing the Effective Communication Score': Included in:\nGrammarly Enterprise plans\nManaged by:\nAdmins and account managers\nThe Effective Communication Score on the\nTeam overview\npage represents the overall strength of your organization\u2019s communication. By surfacing key metrics, Grammarly can show you where teams are doing well\u2014and where they...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/32478363601549-Introducing-the-Effective-Communication-Score",
+    "category": "Team Features"
+  },
+  {
+    "query": "I'm having trouble with Grammarly on my Windows computer\u2014it keeps crashing unexpectedly. I've tried restarting my computer, but that hasn't helped. What should I do next?",
+    "response": "Based on the article 'Grammarly for Windows or Grammarly for Mac crashes': Important:\nSometimes, this issue can be solved by simply restarting your computer. Make sure that you do so before proceeding to the steps below.\nWindows\nGrammarly for Windows relies on the Microsoft .NET Framework. Please ensure that this system component is healthy.\nTo fix the Microsoft .NET Frame...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/36124112455949-Grammarly-for-Windows-or-Grammarly-for-Mac-crashes",
+    "category": "Grammarly for Windows and Mac"
+  },
+  {
+    "query": "I'm using the Grammarly browser extension, but I only see one suggestion at a time instead of a full list. Has something changed with the interface?",
+    "response": "Based on the article 'I don\u2019t see the full list of suggestions when using the Grammarly browser extension': The design of the sidebar was changed as a part of a product update. Instead of seeing the sidebar with all suggestions at once, you will see one suggestion at a time after clicking the Grammarly icon:\nNote:\nThis interface is also available through Grammarly for Windows and Mac. To learn more about ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/5321259769357-I-don-t-see-the-full-list-of-suggestions-when-using-the-Grammarly-browser-extension",
+    "category": "Grammarly Browser Extension"
+  },
+  {
+    "query": "Hi, I noticed that the suggestion view in Grammarly for my Microsoft Word has changed to a list format after the recent update. Is there any way to adjust how many suggestions I see at a time, or switch back to the previous view?",
+    "response": "Based on the article 'Can I change how many suggestions I see at a time?': As a part of our recent update to Grammarly for Windows and Mac, the view of suggestions in applications typically used for longer documents was replaced with a list view of suggestions.\nWith this view, you can review all suggestions in a list, instead of going through them one by one. At this time,...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/13109812751117-Can-I-change-how-many-suggestions-I-see-at-a-time",
+    "category": "Grammarly for Windows and Mac"
+  },
+  {
+    "query": "Hi, I\u2019m having trouble with the autocorrect feature in the Grammarly app on my iPhone. Can you please guide me on how to turn it off?",
+    "response": "Based on the article 'How to turn off autocorrect in Grammarly for iPhone': To turn off the autocorrect feature, please open the Grammarly companion app installed on your mobile device. Select\nKeyboard\nand switch off\nAuto-Correction\n.\nTo learn more about how to customize your experience with the Grammarly Keyboard for iOS, check\nthis article\n....",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000729831-How-to-turn-off-autocorrect-in-Grammarly-for-iPhone",
+    "category": "Grammarly for iPhone"
+  },
+  {
+    "query": "Hi, I'm trying to set up Single Sign-On for Grammarly using OneLogin but I'm not sure what the prerequisites are or how to start the process. Could you guide me through the steps?",
+    "response": "Based on the article 'Set up SSO with OneLogin': Requirements\n- OneLogin account with access to the administrator console\n-\nGrammarly Business\n, Grammarly Pro, or a\nGrammarly for Education\naccount with the\nadmin role\nor a designated custom role\nLog in to your admin dashboard and go to the\nApplications\ntab\nClick\nAdd App\nat the top right corner of t...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360052210371-Set-up-SSO-with-OneLogin",
+    "category": "SAML Single Sign-On"
+  },
+  {
+    "query": "\"Hi, I just installed Grammarly for Safari on my iPhone, but I'm not sure if my iOS version is compatible. Can you confirm if I need to update to iOS 15 or if it works with earlier versions?\"",
+    "response": "Based on the article 'How does Grammarly for Safari on iOS work?': You can now use Grammarly for Safari on your iOS devices!\nNote:\nBefore\ninstalling Grammarly for Safari on iOS\n, make sure to\nupdate your operating system\nto iOS 15. This product offering does not support older versions of iOS at this time.\nOnce you install the extension and start typing your text on...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/4409116148237-How-does-Grammarly-for-Safari-on-iOS-work",
+    "category": "Grammarly for iPhone"
+  },
+  {
+    "query": "Hi, I recently installed Grammarly for Safari, but it doesn't seem to be working on some websites. How can I make sure it works everywhere?",
+    "response": "Based on the article 'Grammarly for Safari doesn't appear on a website': After installing Grammarly for Safari, you might need to adjust your settings in order to ensure the extension functions seamlessly across all websites you visit.\nThe first time you try out Grammarly for Safari,\nplease c\nlick the Grammarly icon and choose\nAlways Allow on Every Website....",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/20888320537485-Grammarly-for-Safari-doesn-t-appear-on-a-website",
+    "category": "Grammarly Browser Extension"
+  },
+  {
+    "query": "I'm trying to use Grammarly with Microsoft Word, but I don't see the sidebar with suggestions. Could this be related to the type of document I'm opening, or is there something else I need to check?",
+    "response": "Based on the article 'I don't see a sidebar with Grammarly's suggestions': At this time, Grammarly for Microsoft Office may not initialize if:\nYou\u2019re opening a password-protected Microsoft Word document.\nYour document is open in\nProtected View\n.\nYou\u2019re opening a document stored on a network resource.\nIf one of these scenarios applies to your document, follow these steps:\nS...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360038128432-I-don-t-see-a-sidebar-with-Grammarly-s-suggestions",
+    "category": "Grammarly for Microsoft Office"
+  },
+  {
+    "query": "Hi, I want to make sure my writing reflects the correct dialect for my audience. How can I change the setting to use British English instead of American English in my Grammarly account?",
+    "response": "Based on the article 'Select between British English, American English, Canadian English, Australian English, and Indian English': You can specify whether you'd like to use an American, British, Canadian, Australian, or Indian dialect to check your writing. In addition to the spelling differences between these dialects, Grammarly recognizes a number of differences in grammar and punctuation.\nPlease follow the steps below to cho...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000089992-Select-between-British-English-American-English-Canadian-English-Australian-English-and-Indian-English",
+    "category": "Account Settings"
+  },
+  {
+    "query": "I just checked my account and noticed that my Grammarly subscription renewal was higher than last time. Can you explain why I was charged more?",
+    "response": "Based on the article 'Why was I charged more than the last time?': You may have been charged for your Grammarly subscription more than last time if you initially subscribed at a discounted rate and your subscription later renewed at a standard rate. Grammarly\u2019s promo offers are valid for one subscription period only.\nIf you purchased a Grammarly Pro subscription fo...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/31858319855373-Why-was-I-charged-more-than-the-last-time",
+    "category": "Manage Payments"
+  },
+  {
+    "query": "I'm having issues with SSO for my team\u2014some members are still being asked to enter their passwords when signing in. Can you explain why this is happening and how to resolve it?",
+    "response": "Based on the article 'We enabled SSO, but some members are prompted to enter passwords': SAML single sign-on only applies to current members of the organization\u2019s subscription for which it is enabled. Team members who are not part of the subscription with enabled SSO will continue to sign in using their usual credentials.\nAdditionally, team members with existing Grammarly accounts will ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/29756026978317-We-enabled-SSO-but-some-members-are-prompted-to-enter-passwords",
+    "category": "Resolve Issues"
+  },
+  {
+    "query": "Hi, I'm trying to install Grammarly on my Android device, but I'm not sure if my phone is compatible or how to do it. Can you provide some steps to help me get started?",
+    "response": "Based on the article 'How to install Grammarly for Android': System requirements:\nGrammarly for Android is compatible with mobile phones and tablets running Android 9.0 or newer.\nTo begin the installation, open the Google Play Store on your Android device and search for Grammarly. You can also go directly to the\nGrammarly - Writing Assistant installation page...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/15606513164429-How-to-install-Grammarly-for-Android",
+    "category": "Grammarly for Android"
+  },
+  {
+    "query": "I'm having trouble logging into my Grammarly on my Windows laptop, and I keep getting logged out unexpectedly. Can you help me figure out what's going on?",
+    "response": "Based on the article 'I can\u2019t log in to Grammarly for Windows and Mac or it logs me out all the time': This issue may occur when specific browser settings or extensions block Grammarly for Windows and Mac from receiving a confirmation that you have logged in successfully.\nIf you noticed that you're constantly logged out,\u00a0even though you've previously logged in to your Grammarly account, or that the l...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/6580956538765-I-can-t-log-in-to-Grammarly-for-Windows-and-Mac-or-it-logs-me-out-all-the-time",
+    "category": "Grammarly for Windows and Mac"
+  },
+  {
+    "query": "\"I keep getting an error message saying I can't open Grammarly on my Windows computer. Could you help me figure out how to fix this issue?\"",
+    "response": "Based on the article 'Error: Can't open Grammarly': If you use Windows, Grammarly may not work if you don\u2019t have the WebView package installed. To resolve this issue, please follow these steps:\nStep 1: Reinstall Grammarly for Windows\nRight-click the Grammarly icon in the system tray and select\nQuit Grammarly\n:\nThen, right-click the\nStart\nbutton in th...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/24827424872333-Error-Can-t-open-Grammarly",
+    "category": "Grammarly for Windows and Mac"
+  },
+  {
+    "query": "Hi, I need help updating my payment method for my Grammarly Pro subscription. Can you guide me on how to do this?",
+    "response": "Based on the article 'Update payment method': Included in:\nGrammarly Pro and Business plans\nManaged by:\nAdmins\nTo update your payment method, follow these steps:\nGo to the\nSubscription\npage.\nIn the\nDetails\nsection, click\nUpdate\nnext to\nPayment Method\n.\nChoose your payment type, fill in the required fields, and click\nUpdate\nto save the changes.\n...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000932412-Update-payment-method",
+    "category": "Manage Subscription & Billing"
+  },
+  {
+    "query": "Hi, I want to cancel my Grammarly subscription but I'm not sure how to do it. Can you guide me through the cancellation process?",
+    "response": "Based on the article 'How do I cancel my Grammarly subscription?': Go to\nthe\nSubscription\npage.\nClick\nCancel Subscription\nat the bottom of the page.\nIn the window that appears next, click\nContinue\n.\nChoose a reason for cancellation and click\nCancel Subscription\n.\nAt the end of your current billing cycle, your account will be converted to Grammarly Free, and all fut...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000090172-How-do-I-cancel-my-Grammarly-subscription",
+    "category": "Manage Payments"
+  },
+  {
+    "query": "Hi, I want to disable Grammarly for a specific app on my Mac, but I'm not sure how to do that. Can you guide me on how to turn off Grammarly for certain applications?",
+    "response": "Based on the article 'How to choose where Grammarly for Windows and Mac works': With Grammarly for Windows and Mac, you can choose which apps you\u2019d prefer Grammarly not to initialize in.\nIf you\u2019d like to stop checking text on a specific website or application, right-click the floating Grammarly widget that appears when you start typing. You\u2019ll then see the option to turn off Gr...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/4406998780813-How-to-choose-where-Grammarly-for-Windows-and-Mac-works",
+    "category": "Grammarly for Windows and Mac"
+  },
+  {
+    "query": "Hi, I registered for my Grammarly account using my Google account, and I want to set a separate password for it. Can you guide me on how to do that?",
+    "response": "Based on the article 'How do I set a password if I registered using Google, Facebook, or Apple?': If you registered your account with Google, Facebook, or Apple, you can also set a separate password for your Grammarly account at any time by following these steps:\nLog in to your Grammarly account at\nhttps://account.grammarly.com\n.\nClick\nCreate\nnext to the password field. Once you click the button...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360058560411-How-do-I-set-a-password-if-I-registered-using-Google-Facebook-or-Apple",
+    "category": "Update Your Account"
+  },
+  {
+    "query": "\"I'm trying to install the Grammarly add-in for Microsoft Word on my Mac, but I keep getting an error message saying that my organization has prevented individual acquisition of Office Add-ins. Can you explain what this means and how I can get permission to install it?\"",
+    "response": "Based on the article 'Error: Sorry, Office 365 has been configured to prevent individual acquisition of Office Add-ins.': If you see this error message, Office 365 products you\u2019re using might be managed by your organization. Some organizations may block downloads of new add-ins from the Office Store to prevent their users from downloading add-ins that have not been approved by the organization:\nYou are welcome to check...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360041042352-Error-Sorry-Office-365-has-been-configured-to-prevent-individual-acquisition-of-Office-Add-ins",
+    "category": "Grammarly for Microsoft Word on Mac"
+  },
+  {
+    "query": "I'm trying to log into my account, but I haven't received the verification code via text. I've checked my phone, and everything seems fine; what should I do?",
+    "response": "Based on the article 'I haven't received a text message with a verification code': This issue may occur for a number of reasons including carrier content filtering, availability of the destination handset, etc. We ask that you try requesting a text message again and contact your mobile carrier if the issue persists.\nIf you\u2019ve lost access to your phone number, check\nthis article\n....",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360059603051-I-haven-t-received-a-text-message-with-a-verification-code",
+    "category": "Account Security"
+  },
+  {
+    "query": "Hi, I recently upgraded to a Grammarly Business plan, and I heard about the writing progress dashboard. Can you explain how I can access my performance score and what insights it provides to help me improve my writing skills?",
+    "response": "Based on the article 'Introducing your writing progress dashboard': Included in:\nGrammarly Business, Enterprise, and Grammarly for Education plans\nAvailable to:\nAll member roles\nYour writing progress\npage allows you to track your writing activity and progress over time to help you build your core writing skills. It\nprovides the following personalized insights:\nPerfo...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/21940617172877-Introducing-your-writing-progress-dashboard",
+    "category": "Team Features"
+  },
+  {
+    "query": "Hi, I\u2019m concerned about my privacy while using the Grammarly extension for Safari. Can you explain what data Grammarly collects and how it uses that information?",
+    "response": "Based on the article 'What data does Grammarly for Safari collect and process?': When you use the\nGrammarly browser extension for Safari\n, we will collect the following information to help us provide, improve, and promote our services:\nThe type of data we collect\nApple categorization\nWhat it consists of\nWhy we need it\nUser content\n\u201cUser content\u201d\nAny text that you check with the ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360054625491-What-data-does-Grammarly-for-Safari-collect-and-process",
+    "category": "Privacy and Security"
+  },
+  {
+    "query": "Hi, I just downloaded the Grammarly app on my iPad, but I'm not sure how to set up the Grammarly Keyboard to use it in other apps. Can you guide me through the process?",
+    "response": "Based on the article 'How do I use the Grammarly Keyboard on iPad?': You can both access the Grammarly Editor and set up the Grammarly Keyboard through one\nGrammarly app\non your iPad. The Grammarly Keyboard allows you to get suggestions from Grammarly in other apps.\nTo access the Grammarly Keyboard, open the Grammarly app and tap\nKeyboard\nat the bottom of the screen....",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360045034851-How-do-I-use-the-Grammarly-Keyboard-on-iPad",
+    "category": "Grammarly for iPad"
+  },
+  {
+    "query": "I'm having trouble logging into Grammarly on my iPhone and iPad with my login details. Can you help me troubleshoot this issue?",
+    "response": "Based on the article 'I can't log in to Grammarly for iPhone and iPad with my login details': Please try these steps to resolve this issue:\nReboot your Wi-Fi router and try signing in to Grammarly again. If you're using a 3G or 4G network, please check whether you're able to access the internet using your browser.\nIf you\u2019re using a VPN and/or an antivirus app on your mobile device, temporari...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/28935792710925-I-can-t-log-in-to-Grammarly-for-iPhone-and-iPad-with-my-login-details",
+    "category": "Grammarly for iPhone and iPad"
+  },
+  {
+    "query": "Hi, I need to remove a few team members from our Grammarly Business plan, but I'm not sure how to do it. Can you guide me through the process?",
+    "response": "Based on the article 'Remove team members': Included in:\nGrammarly Pro, Business, Enterprise, and Grammarly for Education plans\nManaged by:\nAdmins and members with designated custom roles\nTo remove members from your team plan, follow these steps:\nGo to the\nMembers\npage.\nCheck the boxes next to the members you\u2019d like to remove and click\nRemove...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000930532-Remove-team-members",
+    "category": "Manage Members & Permissions"
+  },
+  {
+    "query": "Hi, I\u2019d like to know how to temporarily disable the Grammarly extension in my browser without uninstalling it. Can you guide me through the process?",
+    "response": "Based on the article 'Turn off the Grammarly browser extension': If you think you might use Grammarly again later, you can temporarily turn off the extension instead of uninstalling it completely. This action has the same effect as uninstalling it\u2014you will no longer see Grammarly\u2019s spelling and grammar suggestions.\u00a0 If you change your mind, all you have to do is ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000091632-Turn-off-the-Grammarly-browser-extension",
+    "category": "Grammarly Browser Extension"
+  },
+  {
+    "query": "I'm a Grammarly Pro user, but every time I use the add-in in Microsoft Word, it keeps asking me to upgrade. What should I do?",
+    "response": "Based on the article 'I have a paid account, but the Grammarly add-in prompts me to upgrade': If you\u2019re a Grammarly Pro, Grammarly Premium, Grammarly Business, or Grammarly for Education user, but Grammarly still prompts you to upgrade, please make sure to use the email address associated with your paid account to log into Grammarly for Microsoft Office:\nClick the\nGrammarly\ntab in Microsoft ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000090532-I-have-a-paid-account-but-the-Grammarly-add-in-prompts-me-to-upgrade",
+    "category": "Grammarly for Microsoft Office"
+  },
+  {
+    "query": "Hi, I just signed up for a Grammarly account, but I haven't received the confirmation email yet. Can you help me figure out what to do?",
+    "response": "Based on the article 'I haven\u2019t received a confirmation email on sign-up. What should I do?': If you signed up for a Grammarly account at\nhttps://www.grammarly.com/signup\n, you may be asked to confirm your email address.\nIf you haven\u2019t received the confirmation email, we suggest the following steps to resolve this issue:\nCheck your spam or junk folder and any tabs in your inbox.\nTry adding t...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/4409116491149-I-haven-t-received-a-confirmation-email-on-sign-up-What-should-I-do",
+    "category": "Sign-in Help"
+  },
+  {
+    "query": "Hi, I want to make sure my Grammarly account is secure, but I'm not sure which devices are currently linked to it. How can I check this information?",
+    "response": "Based on the article 'How do I check what devices are linked to my Grammarly account?': You can view and manage all devices that are currently linked to your account via Grammarly\u2019s Security Hub.\nTo view the list of linked devices and active sessions:\nSign in to your\nGrammarly account\n.\nSelect the\nSettings\ntab on the left.\nIn the\nSecurity\nsection, select\nYour\nDevices\n.\nYou\u2019ll then see ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/4418264113165-How-do-I-check-what-devices-are-linked-to-my-Grammarly-account",
+    "category": "Account Security"
+  },
+  {
+    "query": "Hi, I'm trying to set up Single Sign-On for my Grammarly Business account using Centrify, but I'm not sure about the steps to follow. Can you guide me on how to properly configure this integration?",
+    "response": "Based on the article 'Set up SSO with Centrify': Requirements\n- Centrify account with access to the administrator console\n-\nGrammarly Business\n, Grammarly Pro, or a\nGrammarly for Education\naccount with the\nadmin role\nor a designated custom role\nLog in to your Centrify account.\nIn the\nAdmin Portal\n, click\nApps\n, then\nWeb Apps\n, then click\nAdd Web A...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360049254651-Set-up-SSO-with-Centrify",
+    "category": "SAML Single Sign-On"
+  },
+  {
+    "query": "Hi, I need to download my billing receipts for my Grammarly Pro subscription, but I'm not sure where to find them. Can you guide me on how to access and download my receipts?",
+    "response": "Based on the article 'Download receipts': Included in:\nGrammarly Pro and Business plans\nAvailable to:\nAdmins\nTo download your billing receipts, go\nto the\nSubscription\ntab, scroll down to\nBilling History\n,\nand click\nDownload All\n:\nTo download a receipt for a specific transaction, click the PDF file icon\nnext to it.\nIf you used an invoice to ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360041219071-Download-receipts",
+    "category": "Manage Subscription & Billing"
+  },
+  {
+    "query": "Hi, I'm trying to use Grammarly's generative AI on my Android phone to improve some text, but I'm not sure how to select the text and access the editing options. Can you guide me through the process?",
+    "response": "Based on the article 'How to use Grammarly's generative AI on my mobile device': Grammarly's generative AI assistance is available on Android, iPhones, and iPads.\nAndroid\nTo use Grammarly\u2019s generative AI on Android, please do the following:\n1. Select the text segment that you\u2019d like to improve. To do this, long-press on the text in question until the selection markers appear, th...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/24086943816845-How-to-use-Grammarly-s-generative-AI-on-my-mobile-device",
+    "category": "Generative AI assistance"
+  },
+  {
+    "query": "I'm experiencing an issue where Grammarly is active in my browser, but I'm missing some key features. I've logged into my account, but the problem still persists\u2014what should I do?",
+    "response": "Based on the article 'Error: Grammarly is active, but key features are missing': To resolve this issue, follow the instructions below:\nChrome\nFirefox\nEdge\nIf you are logged in to your Grammarly account at\nhttps://\napp.grammarly.com\n, but the issue persists, right-click the G icon in the browser's toolbar, click\nThis Can Read and Change Site Data\n, and check the box next to\nOn Al...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/115000090451-Error-Grammarly-is-active-but-key-features-are-missing",
+    "category": "Grammarly Browser Extension"
+  },
+  {
+    "query": "Hi, I was wondering how many generative AI prompts I have left in my Grammarly account, and how I can check my usage. Can you provide some information on that?",
+    "response": "Based on the article 'How many generative AI prompts do I have?': Your Grammarly account allows access to on-demand generative AI assistance via prompts.\nA prompt is a sentence or phrase that is used to initiate a response or action from Grammarly's generative AI. It can be a question, statement, or command. Each time you enter something in the prompt field or use...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/17775763102989-How-many-generative-AI-prompts-do-I-have",
+    "category": "Generative AI assistance"
+  },
+  {
+    "query": "Hi, I'm looking to transfer the admin role to one of my team members, but I'm not sure how to do that. Can you please guide me through the process?",
+    "response": "Based on the article 'Transfer the admin role to a team member': Included in:\nGrammarly Pro, Business, Enterprise, and Grammarly for Education plans\nManaged by:\nAdmins and members with designated custom roles\nFirst, assign the admin role to another team member by following these steps:\nGo to the\nMembers\npage.\nClick on a team member.\nIn the window that appears nex...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360036905172-Transfer-the-admin-role-to-a-team-member",
+    "category": "Manage Members & Permissions"
+  },
+  {
+    "query": "Hi, I\u2019m currently using Grammarly for Microsoft Word on my Mac, but I heard it's no longer being updated. Can you provide details on what I should do next or suggest any alternatives?",
+    "response": "Based on the article 'How does Grammarly for Microsoft Word work on Macs?': Important:\nGrammarly for Microsoft Word on Mac will no longer be updated. We suggest switching to\nGrammarly for Mac\n, which supports integration with multiple applications and websites, including Microsoft Office apps. Alternatively, if you work on longer documents, we encourage you to give\nthe Gram...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/360041471771-How-does-Grammarly-for-Microsoft-Word-work-on-Macs",
+    "category": "Grammarly for Microsoft Word on Mac"
+  },
+  {
+    "query": "Hi, I\u2019m considering upgrading to Grammarly Pro and would like to know what advanced features it offers compared to the free version. Can you also explain how it helps with team collaboration?",
+    "response": "Based on the article 'About Grammarly Pro': Grammarly Pro gives you all of Grammarly\u2019s most advanced writing features, such as full-sentence rewrites and tone suggestions, plus team features that help you work more efficiently with your team.\nNote:\nGrammarly Pro replaces Grammarly Premium and Grammarly Business plans.\nWith Grammarly Pro, you ...",
+    "article_url": "https://support.grammarly.com/hc/en-us/articles/25043801131149-About-Grammarly-Pro",
+    "category": "Grammarly Pro"
+  }
+]

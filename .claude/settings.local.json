@@ -5,7 +5,8 @@
       "Bash(curl:*)",
       "Bash(/home/alchen/.cache/selenium/chromedriver/linux64/139.0.7258.66/chromedriver --version)",
       "Bash(source:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(docker compose:*)"
     ],
     "deny": []
   }
