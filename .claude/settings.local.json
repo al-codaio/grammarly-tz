@@ -12,7 +12,12 @@
       "WebFetch(domain:github.com)",
       "WebSearch",
       "Bash(docker logs:*)",
-      "WebFetch(domain:raw.githubusercontent.com)"
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(python3:*)",
+      "Bash(rm:*)",
+      "Bash(python test:*)"
     ],
     "deny": []
   }

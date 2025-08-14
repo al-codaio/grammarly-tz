@@ -4,6 +4,15 @@ import logging
 from typing import Dict, Any, Optional
 from langgraph.graph import StateGraph, END
 from langgraph.checkpoint.memory import MemorySaver
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Enable LangSmith tracing
+import os
+os.environ["LANGCHAIN_TRACING_V2"] = "true"
+os.environ["LANGCHAIN_PROJECT"] = "grammarly-support-chatbot"
 
 from src.state import ConversationState, create_initial_state
 from src.nodes import (
@@ -116,7 +125,8 @@ class GrammarlySupportChatBot:
         query: str,
         conversation_id: Optional[str] = None,
         episode_id: Optional[str] = None,
-        user_context: Optional[Dict[str, Any]] = None
+        user_context: Optional[Dict[str, Any]] = None,
+        variant: Optional[str] = None
     ) -> Dict[str, Any]:
         """Process a customer support query."""
         
@@ -155,9 +165,15 @@ class GrammarlySupportChatBot:
         except Exception as e:
             logger.error(f"Error processing query: {e}")
             return {
-                "error": str(e),
+                "conversation_id": conversation_id,
+                "episode_id": episode_id,
+                "response": "I apologize, but I'm experiencing technical difficulties. Please contact our support team directly.",
+                "intent": None,
                 "requires_human": True,
-                "response": "I apologize, but I'm experiencing technical difficulties. Please contact our support team directly."
+                "quality_score": 0.0,
+                "suggested_actions": ["Contact support directly"],
+                "knowledge_articles": [],
+                "error": str(e)
             }
     
     def visualize(self, output_path: str = "./graph.png"):

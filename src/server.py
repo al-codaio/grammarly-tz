@@ -6,6 +6,10 @@ from pydantic import BaseModel
 from typing import Optional, Dict, Any, List
 import logging
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 from src.app import GrammarlySupportChatBot
 from src.state import Message

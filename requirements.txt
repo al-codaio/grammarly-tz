@@ -11,6 +11,7 @@ pydantic>=2.10.0
 python-dotenv>=1.0.0
 
 # TensorZero and data processing
+tensorzero>=0.7.0
 pandas>=2.2.0
 numpy>=1.26.0
 clickhouse-connect>=0.8.0

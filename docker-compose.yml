@@ -35,10 +35,12 @@ services:
   tensorzero-ui:
     image: tensorzero/ui:latest
     ports:
-      - "4000:3000"
+      - "4000:4000"
     environment:
       TENSORZERO_GATEWAY_URL: http://tensorzero:3000
       TENSORZERO_CLICKHOUSE_URL: "http://chuser:chpassword@clickhouse:8123/tensorzero"
+    volumes:
+      - ./config:/app/config:ro
     depends_on:
       - tensorzero
       - clickhouse

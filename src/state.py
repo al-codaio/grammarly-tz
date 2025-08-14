@@ -98,7 +98,7 @@ def create_initial_state(user_query: str, conversation_id: str = None, episode_i
         messages=[Message(role="user", content=user_query)],
         current_query=user_query,
         conversation_id=conversation_id or str(uuid4()),
-        episode_id=episode_id or str(uuid4()),
+        episode_id=episode_id,  # Let TensorZero generate this
         intent_classification=None,
         generated_response=None,
         tensorzero_metadata={},

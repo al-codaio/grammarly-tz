@@ -4,8 +4,18 @@
     "grammarly_support": {
       "path": "src/app.py:agent",
       "entrypoint": "agent",
-      "name": "Grammarly Support Chatbot",
-      "description": "AI-powered customer support chatbot with TensorZero optimization",
+      "name": "Grammarly Support Chatbot (JSON)",
+      "description": "Full graph with detailed state - requires JSON input",
+      "env": {
+        "TENSORZERO_GATEWAY_URL": "http://localhost:3000",
+        "PYTHONPATH": "."
+      }
+    },
+    "grammarly_chat": {
+      "path": "src/simple_chat.py:simple_chat",
+      "entrypoint": "simple_chat",
+      "name": "Grammarly Support Chat",
+      "description": "Simple chat interface for demos",
       "env": {
         "TENSORZERO_GATEWAY_URL": "http://localhost:3000",
         "PYTHONPATH": "."
@@ -13,9 +23,8 @@
     }
   },
   "env": {
-    "OPENAI_API_KEY": "",
-    "TENSORZERO_GATEWAY_URL": "http://localhost:3000",
-    "LANGSMITH_API_KEY": ""
+    "LANGCHAIN_TRACING_V2": "true",
+    "LANGCHAIN_PROJECT": "grammarly-support-chatbot"
   },
   "cli": {
     "version": "0.1.0"

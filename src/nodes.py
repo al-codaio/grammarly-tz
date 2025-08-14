@@ -6,6 +6,7 @@ from typing import Dict, Any, List
 from datetime import datetime
 
 from src.state import ConversationState, Message, IntentClassification, SupportResponse
+from src.validation import validate_support_request, SupportRequestInput
 from utils.tensorzero_client import TensorZeroClient
 
 
@@ -23,22 +24,35 @@ async def classify_intent_node(state: ConversationState) -> Dict[str, Any]:
             if state["attempt_count"] > 0:
                 variant = "gpt_4o"  # Fallback to more powerful model
             
-            classification = await client.classify_intent(
+            classification_dict = await client.classify_intent(
                 query=state["current_query"],
                 episode_id=state["episode_id"],
                 conversation_id=state["conversation_id"],
                 variant=variant
             )
             
+            # Convert dict to IntentClassification object
+            classification = IntentClassification(
+                intent=classification_dict["intent"],
+                confidence=classification_dict["confidence"],
+                entities=classification_dict["entities"],
+                urgency=classification_dict["urgency"],
+                raw_response=classification_dict["raw_response"]
+            )
+            
             # Store TensorZero metadata
             tz_metadata = state.get("tensorzero_metadata", {})
             tz_metadata["classify_intent_inference_id"] = classification.raw_response.get("inference_id")
+            
+            # If we didn't have an episode_id, store the one TensorZero generated
+            episode_id = state.get("episode_id") or classification.raw_response.get("episode_id")
             
             logger.info(f"Intent classified as: {classification.intent} (confidence: {classification.confidence})")
             
             return {
                 "intent_classification": classification,
                 "tensorzero_metadata": tz_metadata,
+                "episode_id": episode_id,
                 "attempt_count": state["attempt_count"] + 1
             }
     
@@ -69,12 +83,44 @@ async def generate_response_node(state: ConversationState) -> Dict[str, Any]:
             elif state["attempt_count"] > 1:
                 variant = "gpt_4o"  # Fallback to better model
             
-            response = await client.generate_response(
+            # Convert IntentClassification to dict for the client
+            intent_dict = None
+            if state["intent_classification"]:
+                intent_dict = {
+                    "intent": state["intent_classification"].intent,
+                    "confidence": state["intent_classification"].confidence,
+                    "entities": state["intent_classification"].entities,
+                    "urgency": state["intent_classification"].urgency
+                }
+            
+            # Validate the input structure
+            try:
+                validated_input = validate_support_request({
+                    "query": state["current_query"],
+                    "intent": intent_dict["intent"] if intent_dict else None,
+                    "urgency": intent_dict["urgency"] if intent_dict else "medium",
+                    "entities": intent_dict["entities"] if intent_dict else {},
+                    "conversation_history": conversation_history
+                })
+                logger.debug(f"Validated input: {validated_input.dict()}")
+            except Exception as e:
+                logger.warning(f"Input validation failed: {e}, proceeding without validation")
+            
+            response_dict = await client.generate_response(
                 query=state["current_query"],
                 episode_id=state["episode_id"],
-                intent_data=state["intent_classification"],
+                intent_data=intent_dict,
                 conversation_history=conversation_history,
                 variant=variant
+            )
+            
+            # Convert dict to SupportResponse object
+            response = SupportResponse(
+                content=response_dict["content"],
+                requires_human=response_dict["requires_human"],
+                suggested_actions=response_dict.get("suggested_actions", []),
+                confidence=response_dict["confidence"],
+                raw_response=response_dict["raw_response"]
             )
             
             # Store TensorZero metadata
@@ -250,6 +296,17 @@ async def knowledge_retrieval_node(state: ConversationState) -> Dict[str, Any]:
                 "url": "https://support.grammarly.com/hc/en-us/articles/360074683471",
                 "relevance": 0.85
             })
+        elif intent == "integration_help":
+            knowledge_results.append({
+                "title": "Using Grammarly with Google Docs",
+                "url": "https://support.grammarly.com/hc/en-us/articles/115000091612",
+                "relevance": 0.95
+            })
+            knowledge_results.append({
+                "title": "Grammarly Browser Extension Guide",
+                "url": "https://support.grammarly.com/hc/en-us/articles/115000090052",
+                "relevance": 0.8
+            })
         
         # Add product-specific articles
         if "grammarly_business" in entities.get("product", []):
@@ -260,7 +317,7 @@ async def knowledge_retrieval_node(state: ConversationState) -> Dict[str, Any]:
             })
     
     return {
-        "knowledge_base_results": knowledge_results if knowledge_results else None
+        "knowledge_base_results": knowledge_results
     }
 
 

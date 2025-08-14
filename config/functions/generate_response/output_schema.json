@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "response": {
+      "type": "string",
+      "description": "The main response to the customer's query"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Confidence score for the response"
+    },
+    "requires_human": {
+      "type": "boolean",
+      "description": "Whether this query requires human intervention"
+    },
+    "suggested_actions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of suggested follow-up actions"
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "response_type": {
+          "type": "string",
+          "enum": ["direct_answer", "troubleshooting", "escalation", "information"]
+        },
+        "relevant_features": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "required": ["response", "confidence", "requires_human"]
+}

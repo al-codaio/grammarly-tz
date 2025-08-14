@@ -28,8 +28,7 @@ system_instructions = "functions/classify_intent/prompts/system_template.minijin
 json_mode = "strict"
 
 [functions.generate_response]
-type = "json"
-user_schema = "functions/generate_response/input_schema.json"
+type = "chat"
 
 [functions.generate_response.variants.gpt_4o]
 type = "chat_completion"
