@@ -22,22 +22,8 @@
         "type": "string"
       },
       "description": "List of suggested follow-up actions"
-    },
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "response_type": {
-          "type": "string",
-          "enum": ["direct_answer", "troubleshooting", "escalation", "information"]
-        },
-        "relevant_features": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        }
-      }
     }
   },
-  "required": ["response", "confidence", "requires_human"]
+  "required": ["response", "confidence", "requires_human", "suggested_actions"],
+  "additionalProperties": false
 }

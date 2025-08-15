@@ -1,0 +1,1 @@
+CREATE MATERIALIZED VIEW tensorzero.BooleanMetricFeedbackByTargetIdView TO tensorzero.BooleanMetricFeedbackByTargetId\n(\n    `id` UUID,\n    `target_id` UUID,\n    `metric_name` LowCardinality(String),\n    `value` Bool,\n    `tags` Map(String, String)\n)\nAS SELECT\n    id,\n    target_id,\n    metric_name,\n    value,\n    tags\nFROM tensorzero.BooleanMetricFeedback;

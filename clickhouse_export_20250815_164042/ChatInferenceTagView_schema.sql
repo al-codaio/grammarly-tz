@@ -1,0 +1,1 @@
+CREATE MATERIALIZED VIEW tensorzero.ChatInferenceTagView TO tensorzero.InferenceTag\n(\n    `function_name` LowCardinality(String),\n    `key` String,\n    `value` String,\n    `inference_id` UUID\n)\nAS SELECT\n    function_name,\n    key,\n    tags[key] AS value,\n    id AS inference_id\nFROM tensorzero.ChatInference\nARRAY JOIN mapKeys(tags) AS key;

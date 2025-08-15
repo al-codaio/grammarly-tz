@@ -1,0 +1,1 @@
+CREATE TABLE tensorzero.InferenceById\n(\n    `id_uint` UInt128,\n    `function_name` LowCardinality(String),\n    `variant_name` LowCardinality(String),\n    `episode_id` UUID,\n    `function_type` Enum8(\'chat\' = 1, \'json\' = 2)\n)\nENGINE = ReplacingMergeTree(id_uint)\nORDER BY id_uint\nSETTINGS index_granularity = 8192;

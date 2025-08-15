@@ -1,0 +1,1 @@
+CREATE TABLE tensorzero.FeedbackTag\n(\n    `metric_name` LowCardinality(String),\n    `key` String,\n    `value` String,\n    `feedback_id` UUID\n)\nENGINE = MergeTree\nORDER BY (metric_name, key, value)\nSETTINGS index_granularity = 8192;

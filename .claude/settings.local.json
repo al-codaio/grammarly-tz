@@ -17,7 +17,11 @@
       "Bash(ls:*)",
       "Bash(python3:*)",
       "Bash(rm:*)",
-      "Bash(python test:*)"
+      "Bash(python test:*)",
+      "Bash(docker inspect:*)",
+      "Bash(python:*)",
+      "Bash(docker restart:*)",
+      "Bash(env)"
     ],
     "deny": []
   }

@@ -27,9 +27,23 @@ async def chatbot(state: AgentState):
     last_msg = messages[-1]
     # Handle both dict and BaseMessage formats
     if isinstance(last_msg, dict):
-        last_message = last_msg.get("content", "")
+        content = last_msg.get("content", "")
+        # If content is a list (LangGraph format), extract the text
+        if isinstance(content, list) and len(content) > 0:
+            if isinstance(content[0], dict) and "text" in content[0]:
+                last_message = content[0]["text"]
+            else:
+                last_message = str(content[0])
+        else:
+            last_message = str(content)
     else:
         last_message = last_msg.content
+        # Handle BaseMessage with complex content
+        if isinstance(last_message, list) and len(last_message) > 0:
+            if isinstance(last_message[0], dict) and "text" in last_message[0]:
+                last_message = last_message[0]["text"]
+            else:
+                last_message = str(last_message[0])
     
     # Process through the main bot
     bot = GrammarlySupportChatBot()

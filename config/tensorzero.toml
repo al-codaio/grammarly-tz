@@ -11,13 +11,14 @@ type = "chat_completion"
 model = "openai::gpt-4o-2024-08-06"
 system_template = "functions/classify_intent/prompts/system_template.minijinja"
 json_mode = "strict"
+weight = 0
 
 [functions.classify_intent.variants.gpt_4o_mini]
 type = "chat_completion"
 model = "openai::gpt-4o-mini-2024-07-18"
 system_template = "functions/classify_intent/prompts/system_template.minijinja"
 json_mode = "strict"
-weight = 0.5
+weight = 0
 
 [functions.classify_intent.variants.gpt_4o_mini_dicl]
 type = "experimental_dynamic_in_context_learning"
@@ -26,22 +27,25 @@ model = "openai::gpt-4o-mini-2024-07-18"
 k = 5
 system_instructions = "functions/classify_intent/prompts/system_template.minijinja"
 json_mode = "strict"
+weight = 0
 
 [functions.generate_response]
-type = "chat"
+type = "json"
+output_schema = "functions/generate_response/output_schema.json"
 
 [functions.generate_response.variants.gpt_4o]
 type = "chat_completion"
 model = "openai::gpt-4o-2024-08-06"
 system_template = "functions/generate_response/prompts/system_template.minijinja"
-user_template = "functions/generate_response/prompts/user_template.minijinja"
+json_mode = "strict"
+weight = 0
 
 [functions.generate_response.variants.gpt_4o_mini]
 type = "chat_completion"
 model = "openai::gpt-4o-mini-2024-07-18"
 system_template = "functions/generate_response/prompts/system_template.minijinja"
-user_template = "functions/generate_response/prompts/user_template.minijinja"
-weight = 0.5
+json_mode = "strict"
+weight = 0
 
 [functions.generate_response.variants.gpt_4o_mini_dicl]
 type = "experimental_dynamic_in_context_learning"
@@ -49,6 +53,8 @@ embedding_model = "text-embedding-3-small"
 model = "openai::gpt-4o-mini-2024-07-18"
 k = 10
 system_instructions = "functions/generate_response/prompts/system_template.minijinja"
+json_mode = "strict"
+weight = 1
 
 # ┌────────────────────────────────────────────────────────────────────────────┐
 # │                                  METRICS                                   │

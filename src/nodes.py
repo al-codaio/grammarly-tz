@@ -21,8 +21,9 @@ async def classify_intent_node(state: ConversationState) -> Dict[str, Any]:
         async with TensorZeroClient() as client:
             # Use the variant based on attempt count for fallback
             variant = None
-            if state["attempt_count"] > 0:
-                variant = "gpt_4o"  # Fallback to more powerful model
+            # Commented out to respect weight settings in tensorzero.toml
+            # if state["attempt_count"] > 0:
+            #     variant = "gpt_4o"  # Fallback to more powerful model
             
             classification_dict = await client.classify_intent(
                 query=state["current_query"],
@@ -78,10 +79,11 @@ async def generate_response_node(state: ConversationState) -> Dict[str, Any]:
             
             # Use variant based on urgency and attempt count
             variant = None
-            if state["intent_classification"] and state["intent_classification"].urgency == "critical":
-                variant = "gpt_4o"  # Use best model for critical issues
-            elif state["attempt_count"] > 1:
-                variant = "gpt_4o"  # Fallback to better model
+            # Commented out to respect weight settings in tensorzero.toml
+            # if state["intent_classification"] and state["intent_classification"].urgency == "critical":
+            #     variant = "gpt_4o"  # Use best model for critical issues
+            # elif state["attempt_count"] > 1:
+            #     variant = "gpt_4o"  # Fallback to better model
             
             # Convert IntentClassification to dict for the client
             intent_dict = None
@@ -230,8 +232,7 @@ async def feedback_node(state: ConversationState) -> Dict[str, Any]:
                     client.send_feedback(
                         inference_id=inference_id,
                         metric_name="intent_accuracy",
-                        value=intent_accurate,
-                        episode_id=state["episode_id"]
+                        value=intent_accurate
                     )
                 )
             
@@ -243,8 +244,7 @@ async def feedback_node(state: ConversationState) -> Dict[str, Any]:
                     client.send_feedback(
                         inference_id=inference_id,
                         metric_name="response_relevance",
-                        value=state.get("response_quality_score", 0.5),
-                        episode_id=state["episode_id"]
+                        value=state.get("response_quality_score", 0.5)
                     )
                 )
             
@@ -252,10 +252,9 @@ async def feedback_node(state: ConversationState) -> Dict[str, Any]:
             if not state["requires_human"]:
                 tasks.append(
                     client.send_feedback(
-                        inference_id=state["episode_id"],
+                        episode_id=state["episode_id"],
                         metric_name="resolution_potential",
-                        value=True,
-                        episode_id=state["episode_id"]
+                        value=True
                     )
                 )
             

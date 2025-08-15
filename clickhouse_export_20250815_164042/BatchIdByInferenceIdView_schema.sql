@@ -1,0 +1,1 @@
+CREATE MATERIALIZED VIEW tensorzero.BatchIdByInferenceIdView TO tensorzero.BatchIdByInferenceId\n(\n    `inference_id` UUID,\n    `batch_id` UUID\n)\nAS SELECT\n    inference_id,\n    batch_id\nFROM tensorzero.BatchModelInference;

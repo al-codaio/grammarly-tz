@@ -1,0 +1,1 @@
+CREATE TABLE tensorzero.BooleanMetricFeedback\n(\n    `id` UUID,\n    `target_id` UUID,\n    `metric_name` LowCardinality(String),\n    `value` Bool,\n    `timestamp` DateTime MATERIALIZED UUIDv7ToDateTime(id),\n    `tags` Map(String, String) DEFAULT map()\n)\nENGINE = MergeTree\nORDER BY (metric_name, target_id)\nSETTINGS index_granularity = 8192;

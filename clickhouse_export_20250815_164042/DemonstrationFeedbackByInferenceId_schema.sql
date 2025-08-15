@@ -1,0 +1,1 @@
+CREATE TABLE tensorzero.DemonstrationFeedbackByInferenceId\n(\n    `id` UUID,\n    `inference_id` UUID,\n    `value` String,\n    `tags` Map(String, String)\n)\nENGINE = MergeTree\nORDER BY inference_id\nSETTINGS index_granularity = 8192;

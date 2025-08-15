@@ -1,0 +1,1 @@
+CREATE TABLE tensorzero.TensorZeroMigration\n(\n    `migration_id` String,\n    `migration_name` String,\n    `gateway_version` String,\n    `gateway_git_sha` String,\n    `config_hash` String,\n    `execution_time_ms` UInt64,\n    `applied_at` DateTime DEFAULT now()\n)\nENGINE = MergeTree\nORDER BY applied_at\nSETTINGS index_granularity = 8192;

@@ -1,0 +1,1 @@
+CREATE TABLE tensorzero.DeploymentID\n(\n    `deployment_id` String,\n    `dummy` UInt32 DEFAULT 0,\n    `created_at` DateTime DEFAULT now(),\n    `version_number` UInt32 DEFAULT 4294967295 - toUInt32(now())\n)\nENGINE = ReplacingMergeTree(version_number)\nORDER BY dummy\nSETTINGS index_granularity = 8192;

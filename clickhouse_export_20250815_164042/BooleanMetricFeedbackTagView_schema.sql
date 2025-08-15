@@ -1,0 +1,1 @@
+CREATE MATERIALIZED VIEW tensorzero.BooleanMetricFeedbackTagView TO tensorzero.FeedbackTag\n(\n    `metric_name` LowCardinality(String),\n    `key` String,\n    `value` String,\n    `feedback_id` UUID\n)\nAS SELECT\n    metric_name,\n    key,\n    tags[key] AS value,\n    id AS feedback_id\nFROM tensorzero.BooleanMetricFeedback\nARRAY JOIN mapKeys(tags) AS key;

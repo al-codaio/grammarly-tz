@@ -34,13 +34,16 @@ class TensorZeroClient:
         variant: Optional[str] = None
     ) -> Dict[str, Any]:
         """Classify customer intent using TensorZero."""
+        # All variants use the same messages format for JSON functions
+        # Note: DICL variants still expect "value" instead of "text"
+        content = [{"type": "text", "value": query}]
         request_data = {
             "function_name": "classify_intent",
             "input": {
                 "messages": [
                     {
                         "role": "user",
-                        "content": [{"type": "text", "text": query}]
+                        "content": content
                     }
                 ]
             }
@@ -109,7 +112,9 @@ class TensorZeroClient:
         
         formatted_message = "\n".join(message_parts)
         
-        # Construct the request - TensorZero expects messages format
+        # All variants use messages format
+        # Note: DICL variants still expect "value" instead of "text"
+        content = [{"type": "text", "value": formatted_message}]
         request_data = {
             "function_name": "generate_response",
             "episode_id": episode_id,
@@ -117,7 +122,7 @@ class TensorZeroClient:
                 "messages": [
                     {
                         "role": "user",
-                        "content": [{"type": "text", "text": formatted_message}]
+                        "content": content
                     }
                 ]
             },
@@ -126,6 +131,10 @@ class TensorZeroClient:
         
         if variant:
             request_data["variant_name"] = variant
+        
+        # Debug logging temporarily disabled
+        # print(f"Sending generate_response request with variant={variant}:")
+        # print(json.dumps(request_data, indent=2))
         
         response = await self.client.post(
             f"{self.base_url}/inference",
@@ -139,66 +148,54 @@ class TensorZeroClient:
         if "error" in result:
             raise Exception(f"TensorZero error: {result['error']}")
         
-        # Try different possible response structures
+        # Handle JSON function response
         if "output" in result and isinstance(result["output"], dict):
-            content = result["output"].get("content", result["output"].get("raw", ""))
-        elif "content" in result:
-            content = result["content"]
+            # Parse the raw JSON output
+            if "raw" in result["output"]:
+                output_data = json.loads(result["output"]["raw"])
+            else:
+                output_data = result["output"]
+            
+            # Extract fields from the JSON response
+            return {
+                "content": output_data.get("response", ""),
+                "requires_human": output_data.get("requires_human", False),
+                "suggested_actions": output_data.get("suggested_actions", []),
+                "confidence": output_data.get("confidence", 1.0),
+                "raw_response": result
+            }
         else:
             # Log the actual response for debugging
             print(f"Unexpected response structure: {json.dumps(result, indent=2)}")
             raise Exception(f"Unexpected response structure from TensorZero")
-        
-        # Handle content as list (chat response format)
-        if isinstance(content, list):
-            # Extract text from content blocks
-            text_parts = []
-            for block in content:
-                if isinstance(block, dict) and block.get("type") == "text":
-                    # Try both 'text' and 'value' keys
-                    text_parts.append(block.get("text", block.get("value", "")))
-                elif isinstance(block, str):
-                    text_parts.append(block)
-            content = "\n".join(text_parts)
-        
-        # Parse response for special markers
-        requires_human = "[ESCALATE]" in content
-        content = content.replace("[ESCALATE]", "").strip()
-        
-        # Extract suggested actions if present
-        suggested_actions = []
-        if "[ACTIONS]" in content:
-            parts = content.split("[ACTIONS]")
-            content = parts[0].strip()
-            if len(parts) > 1:
-                action_text = parts[1].strip()
-                suggested_actions = [a.strip() for a in action_text.split("\n") if a.strip()]
-        
-        # Return a dict instead of SupportResponse to avoid circular import
-        return {
-            "content": content,
-            "requires_human": requires_human,
-            "suggested_actions": suggested_actions,
-            "confidence": result.get("metadata", {}).get("confidence", 1.0),
-            "raw_response": result
-        }
     
     async def send_feedback(
         self,
-        inference_id: str,
-        metric_name: str,
-        value: Any,
-        episode_id: Optional[str] = None
+        inference_id: Optional[str] = None,
+        episode_id: Optional[str] = None,
+        metric_name: str = None,
+        value: Any = None
     ) -> Dict[str, Any]:
-        """Send feedback for a specific inference."""
+        """Send feedback for a specific inference or episode.
+        
+        For inference-level metrics: provide only inference_id
+        For episode-level metrics: provide only episode_id
+        """
+        if not metric_name or value is None:
+            raise ValueError("metric_name and value are required")
+            
         request_data = {
-            "inference_id": inference_id,
             "metric_name": metric_name,
             "value": value
         }
         
-        if episode_id:
+        # Add either inference_id OR episode_id, not both
+        if inference_id and not episode_id:
+            request_data["inference_id"] = inference_id
+        elif episode_id and not inference_id:
             request_data["episode_id"] = episode_id
+        else:
+            raise ValueError("Provide either inference_id OR episode_id, not both or neither")
         
         response = await self.client.post(
             f"{self.base_url}/feedback",
