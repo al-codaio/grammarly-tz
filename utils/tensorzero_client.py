@@ -34,9 +34,9 @@ class TensorZeroClient:
         variant: Optional[str] = None
     ) -> Dict[str, Any]:
         """Classify customer intent using TensorZero."""
-        # All variants use the same messages format for JSON functions
-        # Note: DICL variants still expect "value" instead of "text"
-        content = [{"type": "text", "value": query}]
+        # Use the newer "text" format which works with both DICL and non-DICL variants
+        # TensorZero will handle the conversion for DICL variants
+        content = [{"type": "text", "text": query}]
         request_data = {
             "function_name": "classify_intent",
             "input": {
@@ -84,37 +84,51 @@ class TensorZeroClient:
     ) -> Dict[str, Any]:
         """Generate support response using TensorZero."""
         
-        # Build a formatted message with all context since we can't use template variables
-        message_parts = [f"Customer Query: {query}"]
+        # Simple cleaning - just normalize whitespace
+        query = ' '.join(query.split())
+        
+        # Build a formatted message with all context
+        message_parts = []
+        message_parts.append(f"Customer Query: {query}")
         
         if intent_data:
-            message_parts.append(f"\nClassified Intent: {intent_data['intent']}")
-            message_parts.append(f"Urgency Level: {intent_data['urgency']}")
+            # Clean intent data values too
+            intent = intent_data.get('intent', '').replace('\n', ' ').replace('\r', ' ')
+            urgency = intent_data.get('urgency', '').replace('\n', ' ').replace('\r', ' ')
+            message_parts.append(f"Classified Intent: {intent}")
+            message_parts.append(f"Urgency Level: {urgency}")
             
             if intent_data.get('entities'):
-                message_parts.append("\nContext Information:")
+                message_parts.append("Context Information:")
                 entities = intent_data['entities']
                 if entities.get("product"):
-                    message_parts.append(f"  - Products: {', '.join(entities['product'])}")
+                    products = [p.replace('\n', ' ').replace('\r', ' ') for p in entities['product']]
+                    message_parts.append(f"Products: {', '.join(products)}")
                 if entities.get("feature"):
-                    message_parts.append(f"  - Features: {', '.join(entities['feature'])}")
+                    features = [f.replace('\n', ' ').replace('\r', ' ') for f in entities['feature']]
+                    message_parts.append(f"Features: {', '.join(features)}")
                 if entities.get("platform"):
-                    message_parts.append(f"  - Platform: {', '.join(entities['platform'])}")
+                    platforms = [p.replace('\n', ' ').replace('\r', ' ') for p in entities['platform']]
+                    message_parts.append(f"Platform: {', '.join(platforms)}")
                 if entities.get("error_code"):
-                    message_parts.append(f"  - Error Codes: {', '.join(entities['error_code'])}")
+                    codes = [c.replace('\n', ' ').replace('\r', ' ') for c in entities['error_code']]
+                    message_parts.append(f"Error Codes: {', '.join(codes)}")
         
         if conversation_history:
-            message_parts.append("\nPrevious Conversation:")
+            message_parts.append("Previous Conversation:")
             for msg in conversation_history:
-                message_parts.append(f"{msg['role'].capitalize()}: {msg['content']}")
+                role = msg['role'].capitalize()
+                content = ' '.join(msg['content'].split())  # Clean content too
+                message_parts.append(f"{role}: {content}")
         
-        message_parts.append("\nPlease provide a helpful and comprehensive response to address the customer's concern. Include specific steps or solutions when applicable.")
+        message_parts.append("Please provide a helpful and comprehensive response to address the customer's concern. Include specific steps or solutions when applicable.")
         
-        formatted_message = "\n".join(message_parts)
+        # Join with spaces, not newlines, to avoid control character issues
+        formatted_message = ' '.join(message_parts)
         
-        # All variants use messages format
-        # Note: DICL variants still expect "value" instead of "text"
-        content = [{"type": "text", "value": formatted_message}]
+        # Use the newer "text" format which works with both DICL and non-DICL variants
+        # TensorZero will handle the conversion for DICL variants
+        content = [{"type": "text", "text": formatted_message}]
         request_data = {
             "function_name": "generate_response",
             "episode_id": episode_id,
@@ -128,6 +142,7 @@ class TensorZeroClient:
             },
             "stream": False
         }
+        
         
         if variant:
             request_data["variant_name"] = variant
@@ -148,8 +163,39 @@ class TensorZeroClient:
         if "error" in result:
             raise Exception(f"TensorZero error: {result['error']}")
         
-        # Handle JSON function response
-        if "output" in result and isinstance(result["output"], dict):
+        # Handle the new response format with content field (DICL variants return this)
+        if "content" in result and isinstance(result["content"], list):
+            # Extract text from content blocks
+            text_content = ""
+            for block in result["content"]:
+                if isinstance(block, dict) and block.get("type") == "text":
+                    text_content = block.get("text", "")
+                    break
+            
+            # Try to parse as JSON if it looks like JSON
+            try:
+                if text_content.strip().startswith('{'):
+                    output_data = json.loads(text_content)
+                    return {
+                        "content": output_data.get("response", text_content),
+                        "requires_human": output_data.get("requires_human", False),
+                        "suggested_actions": output_data.get("suggested_actions", []),
+                        "confidence": output_data.get("confidence", 1.0),
+                        "raw_response": result
+                    }
+            except:
+                pass
+            
+            # For non-JSON chat completions, return the text directly
+            return {
+                "content": text_content,
+                "requires_human": False,  # Default to false
+                "suggested_actions": [],
+                "confidence": 1.0,  # Default confidence
+                "raw_response": result
+            }
+        # Handle JSON function response (for JSON output functions)
+        elif "output" in result and isinstance(result["output"], dict):
             # Parse the raw JSON output
             if "raw" in result["output"]:
                 output_data = json.loads(result["output"]["raw"])

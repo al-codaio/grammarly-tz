@@ -33,10 +33,11 @@ services:
       interval: 10s
 
   tensorzero-ui:
-    image: tensorzero/ui:latest
+    image: tensorzero/ui:2025.7.2
     ports:
       - "4000:4000"
     environment:
+      PORT: 4000
       TENSORZERO_GATEWAY_URL: http://tensorzero:3000
       TENSORZERO_CLICKHOUSE_URL: "http://chuser:chpassword@clickhouse:8123/tensorzero"
     volumes:

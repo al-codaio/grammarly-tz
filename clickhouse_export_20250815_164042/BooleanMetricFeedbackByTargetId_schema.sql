@@ -1,1 +1,0 @@
-CREATE TABLE tensorzero.BooleanMetricFeedbackByTargetId\n(\n    `id` UUID,\n    `target_id` UUID,\n    `metric_name` LowCardinality(String),\n    `value` Bool,\n    `tags` Map(String, String)\n)\nENGINE = MergeTree\nORDER BY target_id\nSETTINGS index_granularity = 8192;

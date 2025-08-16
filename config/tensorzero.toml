@@ -27,7 +27,7 @@ model = "openai::gpt-4o-mini-2024-07-18"
 k = 5
 system_instructions = "functions/classify_intent/prompts/system_template.minijinja"
 json_mode = "strict"
-weight = 0
+weight = 1
 
 [functions.generate_response]
 type = "json"

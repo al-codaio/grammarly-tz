@@ -1,1 +1,0 @@
-CREATE MATERIALIZED VIEW tensorzero.CommentFeedbackByTargetIdView TO tensorzero.CommentFeedbackByTargetId\n(\n    `id` UUID,\n    `target_id` UUID,\n    `target_type` Enum8(\'inference\' = 1, \'episode\' = 2),\n    `value` String,\n    `tags` Map(String, String)\n)\nAS SELECT\n    id,\n    target_id,\n    target_type,\n    value,\n    tags\nFROM tensorzero.CommentFeedback;

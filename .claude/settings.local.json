@@ -21,7 +21,15 @@
       "Bash(docker inspect:*)",
       "Bash(python:*)",
       "Bash(docker restart:*)",
-      "Bash(env)"
+      "Bash(env)",
+      "Bash(for table in DynamicInContextLearningExample ChatInference JsonInference ModelInference FloatMetricFeedback BooleanMetricFeedback ModelInferenceCache)",
+      "Bash(do)",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(chmod:*)",
+      "Bash(CONTAINER_NAME=grammarly-tz-clickhouse-1 bash import_data_docker.sh)",
+      "Bash(true)",
+      "Bash(npm install:*)"
     ],
     "deny": []
   }

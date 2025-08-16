@@ -1,1 +1,0 @@
-CREATE MATERIALIZED VIEW tensorzero.DemonstrationFeedbackByInferenceIdView TO tensorzero.DemonstrationFeedbackByInferenceId\n(\n    `id` UUID,\n    `inference_id` UUID,\n    `value` String,\n    `tags` Map(String, String)\n)\nAS SELECT\n    id,\n    inference_id,\n    value,\n    tags\nFROM tensorzero.DemonstrationFeedback;

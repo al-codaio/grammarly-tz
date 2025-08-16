@@ -1,1 +1,0 @@
-CREATE TABLE tensorzero.InferenceTag\n(\n    `function_name` LowCardinality(String),\n    `key` String,\n    `value` String,\n    `inference_id` UUID\n)\nENGINE = MergeTree\nORDER BY (function_name, key, value)\nSETTINGS index_granularity = 8192;

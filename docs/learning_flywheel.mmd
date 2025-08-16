@@ -1,0 +1,35 @@
+graph TD
+    subgraph "Learning Flywheel"
+        S1[1. Collect Data<br/>Every query & response]
+        S2[2. Learn Patterns<br/>DICL finds similar examples]
+        S3[3. Improve Models<br/>Better prompts & examples]
+        S4[4. Better Responses<br/>More accurate & helpful]
+        S5[5. Higher Satisfaction<br/>Users get solutions faster]
+        S6[6. More Usage<br/>Trust & adoption grows]
+    end
+    
+    subgraph "Acceleration Factors"
+        F1[DICL Examples<br/>Growing knowledge base]
+        F2[Prompt Optimization<br/>MIPRO refinement]
+        F3[Model Fine-Tuning<br/>Custom models]
+        F4[Variant Selection<br/>Best model routing]
+    end
+    
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    S4 --> S5
+    S5 --> S6
+    S6 --> S1
+    
+    F1 --> S2
+    F2 --> S3
+    F3 --> S3
+    F4 --> S4
+    
+    style S1 fill:#e3f2fd
+    style S2 fill:#f3e5f5
+    style S3 fill:#fff3e0
+    style S4 fill:#e8f5e9
+    style S5 fill:#c8e6c9
+    style S6 fill:#bbdefb

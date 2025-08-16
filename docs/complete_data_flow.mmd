@@ -1,0 +1,33 @@
+flowchart TD
+    Start([Customer Query]) --> Intent[Intent Classification<br/>via TensorZero]
+    Intent --> Store1[Store in ClickHouse<br/>Inference ID]
+    
+    Intent --> Response[Generate Response<br/>Using DICL Variant]
+    Response --> Store2[Store Response<br/>with Embeddings]
+    
+    Response --> Quality{Quality<br/>Check}
+    Quality -->|High Quality| Success[Deliver to User]
+    Quality -->|Low Quality| Human[Human Handoff]
+    
+    Success --> FB1[Implicit Feedback<br/>resolution_potential]
+    Human --> FB2[Explicit Feedback<br/>customer_satisfaction]
+    
+    FB1 --> Metrics[Update Metrics<br/>in ClickHouse]
+    FB2 --> Metrics
+    
+    Metrics --> DICL[DICL Learning<br/>Find Similar Examples]
+    Metrics --> Optimize[Optimization<br/>Improve Weights]
+    
+    DICL --> Examples[Select Top-10<br/>Examples]
+    Examples --> NextQuery[Next Customer<br/>Query]
+    
+    Optimize --> Weights[Update Variant<br/>Selection]
+    Weights --> NextQuery
+    
+    NextQuery --> Intent
+    
+    style Start fill:#bbdefb
+    style Success fill:#c8e6c9
+    style Human fill:#ffccbc
+    style DICL fill:#fff9c4
+    style Optimize fill:#e1bee7

@@ -1,1 +1,0 @@
-CREATE TABLE tensorzero.CommentFeedbackByTargetId\n(\n    `id` UUID,\n    `target_id` UUID,\n    `target_type` Enum8(\'inference\' = 1, \'episode\' = 2),\n    `value` String,\n    `tags` Map(String, String)\n)\nENGINE = MergeTree\nORDER BY target_id\nSETTINGS index_granularity = 8192;

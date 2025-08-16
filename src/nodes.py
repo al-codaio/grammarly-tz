@@ -76,14 +76,8 @@ async def generate_response_node(state: ConversationState) -> Dict[str, Any]:
             conversation_history = []
             for msg in state["messages"][:-1]:  # Exclude current message
                 conversation_history.append(msg.to_dict())
-            
-            # Use variant based on urgency and attempt count
+
             variant = None
-            # Commented out to respect weight settings in tensorzero.toml
-            # if state["intent_classification"] and state["intent_classification"].urgency == "critical":
-            #     variant = "gpt_4o"  # Use best model for critical issues
-            # elif state["attempt_count"] > 1:
-            #     variant = "gpt_4o"  # Fallback to better model
             
             # Convert IntentClassification to dict for the client
             intent_dict = None

@@ -1,0 +1,14 @@
+{
+  "export_date": "2025-08-14T16:38:02.239080",
+  "database": "tensorzero",
+  "tables": [
+    "ChatInference",
+    "JsonInference",
+    "FloatMetricFeedback",
+    "BooleanMetricFeedback",
+    "DynamicInContextLearningExample",
+    "ModelInference",
+    "InferenceTag",
+    "FeedbackTag"
+  ]
+}

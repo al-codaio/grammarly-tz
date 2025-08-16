@@ -1,0 +1,52 @@
+graph TB
+    subgraph "User Layer"
+        User[Customer Query]
+    end
+    
+    subgraph "Application Layer"
+        LG[LangGraph Chatbot]
+        TZ[TensorZero Gateway]
+    end
+    
+    subgraph "Model Variants"
+        V1[gpt-4o]
+        V2[gpt-4o-mini]
+        V3[gpt-4o-mini-dicl]
+    end
+    
+    subgraph "Learning System"
+        CH[(ClickHouse)]
+        DICL[DICL Engine]
+        LEARN[Learning Loop]
+    end
+    
+    subgraph "Feedback Loop"
+        FB[Feedback Collection]
+        IMPROVE[Model Improvement]
+        OPTIMIZE[Optimization]
+    end
+
+    User --> LG
+    LG --> TZ
+    TZ --> V1
+    TZ --> V2
+    TZ --> V3
+    
+    V3 --> DICL
+    DICL --> CH
+    
+    V1 --> CH
+    V2 --> CH
+    V3 --> CH
+    
+    CH --> FB
+    FB --> LEARN
+    LEARN --> IMPROVE
+    IMPROVE --> OPTIMIZE
+    OPTIMIZE --> TZ
+    
+    style User fill:#e1f5fe
+    style TZ fill:#fff3e0
+    style CH fill:#f3e5f5
+    style LEARN fill:#e8f5e9
+    style V3 fill:#ffccbc
